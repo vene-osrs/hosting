@@ -240,7 +240,7 @@
       { 
          "name":"httpclient-4.5.10.jar",
          "path":"https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.10/httpclient-4.5.10.jar",
-         "hash":"2bdf3dc862e39e2c69e42f036759e53d457af35a7ce178d8cf286fdb42528864",
+         "hash":"38b9f16f504928e4db736a433b9cd10968d9ec8d6f5d0e61a64889a689172134",
          "size":"774640"
       },
       { 
