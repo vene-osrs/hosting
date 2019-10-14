@@ -44,7 +44,7 @@
         "extension": "jar",
         "artifactId": "client"
     },
-    "buildCommit": "7065ebe058e8e82b26e2853abbb9af3caa01cb72",
+    "buildCommit": "4b592bfb9923298d0145c8f86b884ce35d994896",
     "artifacts": [
         {
             "name": "discord-1.1.jar",
@@ -427,32 +427,32 @@
         {
             "name": "runescape-api-1.5.35-SNAPSHOT.jar",
             "path": "https://github.com/runelite-extended/hosting/raw/master/staging/runescape-api-1.5.35-SNAPSHOT.jar",
-            "size": "56837",
-            "hash": "be10d2c60ed523b161e7c364bdfa647c7435d1c691181f530138add6bd56e77e"
+            "size": "56859",
+            "hash": "358d663ab59840996f9971f56b6372932d4090c1c858ffe68e30829364fe7b21"
         },
         {
             "name": "client-1.5.35-SNAPSHOT.jar",
             "path": "https://github.com/runelite-extended/hosting/raw/master/staging/client-1.5.35-SNAPSHOT.jar",
-            "size": "9207772",
-            "hash": "abaca63706891c78fded968290b96d460331b722aa5f7407e2290f7260fa4497"
+            "size": "9196967",
+            "hash": "9e41d6401b92d191b41b0348ac23a79cc9385f6b3277e7b1a3f947c75d88bb29"
         },
         {
             "name": "injected-client-1.5.35-SNAPSHOT.jar",
             "path": "https://github.com/runelite-extended/hosting/raw/master/staging/injected-client-1.5.35-SNAPSHOT.jar",
-            "size": "2255825",
-            "hash": "32db4ac56ccadc3a4069ee93e603b477c354adb86fd883eafe4c1a08a67045f5"
+            "size": "2256972",
+            "hash": "4681c579fee4825a51a059e3f2b24b26daf345a2a249b830ade059633ac6b3f2"
         },
         {
             "name": "http-api-1.5.35-SNAPSHOT.jar",
             "path": "https://github.com/runelite-extended/hosting/raw/master/staging/http-api-1.5.35-SNAPSHOT.jar",
-            "size": "141753",
-            "hash": "25e7b90ff2e45710ab10d835ff1a70f9cf4afdb8ca89aaebbf538fb6469fd519"
+            "size": "141755",
+            "hash": "f2f7ad018abcb39a303b432d2c5dbc0713976eca0b8e8e173cc682aa806f7b42"
         },
         {
             "name": "runelite-api-1.5.35-SNAPSHOT.jar",
             "path": "https://github.com/runelite-extended/hosting/raw/master/staging/runelite-api-1.5.35-SNAPSHOT.jar",
-            "size": "1129548",
-            "hash": "90aa4ee2e34255fc9b0f5bb27beaee403ca1b3d2515346cb54e6a4defbfed04a"
+            "size": "1131036",
+            "hash": "1074e3e7555db50ae10959e1fc1b32669fab8f984bce9a49b604a7ffcde69539"
         }
     ]
 }
