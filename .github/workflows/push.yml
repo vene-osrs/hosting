@@ -1,0 +1,19 @@
+name: OpenOSRS - Mirror
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    name: Mirror
+
+    steps:
+      - uses: actions/checkout@v1
+      - uses: pixta-dev/repository-mirroring-action@v1
+        with:
+          target_repo_url: git@github.com:runelite-extended/hosting.git
+          ssh_private_key: ${{ secrets.OpenOSRS }}
+
