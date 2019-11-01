@@ -1,6 +1,6 @@
 {
   "projectVersion": "2.1.7.0",
-  "minimumLauncherVersion": "2.0.3",
+  "minimumLauncherVersion": "2.0.4",
   "launcherJvm11Arguments": [
     "-XX:+DisableAttachMechanism",
     "-Drunelite.launcher.nojvm=true",
@@ -424,34 +424,34 @@
       "hash": "67584e3301b8dd7cbd452efacde0d0c65f6212230e816b1f998dc7f4ec28216e"
     },
     {
-      "hash": "44b2f08e1756aadda13e0160f7c91d3249256537eb1433fe075e1e9161e04c2d",
+      "hash": "9e52a4f7760c0d5b911040a840c30191d155c602dcae0e330adfc55a5f62d178",
       "name": "runelite-client-1.5.39-SNAPSHOT.jar",
       "path": "https://github.com/open-osrs/hosting/raw/master/stable/runelite-client-1.5.39-SNAPSHOT.jar",
-      "size": "9166688"
+      "size": "9166710"
     },
     {
-      "hash": "3a962491480f2c2b2d36966f9a63a142834330e016cca247f16fe2cb5a9a7733",
+      "hash": "9b4fa1ae396cfb391e89a340740518fc8254a7b818ee438a37d2288217681f9b",
       "name": "runelite-api-1.5.39-SNAPSHOT.jar",
       "path": "https://github.com/open-osrs/hosting/raw/master/stable/runelite-api-1.5.39-SNAPSHOT.jar",
       "size": "1135375"
     },
     {
-      "hash": "fd0899e022621cf047dacccba3c6e427b6e6fe512e5c72e12822a07b6022b00e",
+      "hash": "457370ab995f6a321f5e5cba32a0fdfeed1f4cbcabbfc235a94e1967c0c77447",
       "name": "runescape-api-1.5.39-SNAPSHOT.jar",
       "path": "https://github.com/open-osrs/hosting/raw/master/stable/runescape-api-1.5.39-SNAPSHOT.jar",
-      "size": "58041"
+      "size": "58062"
     },
     {
-      "hash": "cd45fb2402c2e6af5d8447031be69a2baaed748a118a62788a6f8aec5d46c760",
+      "hash": "5980e9b91e9f47e854d0eee424d170ec83d8860cabffb4f620014bf5241a92c0",
       "name": "http-api-1.5.39-SNAPSHOT.jar",
       "path": "https://github.com/open-osrs/hosting/raw/master/stable/http-api-1.5.39-SNAPSHOT.jar",
-      "size": "146680"
+      "size": "146681"
     },
     {
-      "hash": "2098328110512c1551c32562a67ffd765ac87629f0d5f94ed624dab8267ce15d",
+      "hash": "6edf137b3873c5ccf09cccf1e933b8d2d004e3b0e1a54990c95cb3c438df448d",
       "name": "injected-client-1.5.39-SNAPSHOT.jar",
       "path": "https://github.com/open-osrs/hosting/raw/master/stable/injected-client-1.5.39-SNAPSHOT.jar",
-      "size": "2182082"
+      "size": "2182079"
     }
   ]
 }
