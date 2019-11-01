@@ -424,34 +424,34 @@
       "hash": "67584e3301b8dd7cbd452efacde0d0c65f6212230e816b1f998dc7f4ec28216e"
     },
     {
-      "hash": "e3dd60d6f3e53792e8045523be07086ff71390e38c33fdc1b96279afde77267a",
-      "name": "runelite-client-1.5.38-SNAPSHOT.jar",
-      "path": "https://github.com/open-osrs/hosting/raw/master/stable/runelite-client-1.5.38-SNAPSHOT.jar",
-      "size": "9157901"
+      "hash": "44b2f08e1756aadda13e0160f7c91d3249256537eb1433fe075e1e9161e04c2d",
+      "name": "runelite-client-1.5.39-SNAPSHOT.jar",
+      "path": "https://github.com/open-osrs/hosting/raw/master/stable/runelite-client-1.5.39-SNAPSHOT.jar",
+      "size": "9166688"
     },
     {
-      "hash": "4d819a5d4b865c7e6999b442462b22496809507c3279d63232da5e690f0dec83",
-      "name": "runelite-api-1.5.38-SNAPSHOT.jar",
-      "path": "https://github.com/open-osrs/hosting/raw/master/stable/runelite-api-1.5.38-SNAPSHOT.jar",
-      "size": "1132977"
+      "hash": "3a962491480f2c2b2d36966f9a63a142834330e016cca247f16fe2cb5a9a7733",
+      "name": "runelite-api-1.5.39-SNAPSHOT.jar",
+      "path": "https://github.com/open-osrs/hosting/raw/master/stable/runelite-api-1.5.39-SNAPSHOT.jar",
+      "size": "1135375"
     },
     {
-      "hash": "e1b39b62b6faf75a9c2d31c542ecd9e9fcccece1844865a4f542198bd9df37b6",
-      "name": "runescape-api-1.5.38-SNAPSHOT.jar",
-      "path": "https://github.com/open-osrs/hosting/raw/master/stable/runescape-api-1.5.38-SNAPSHOT.jar",
-      "size": "57047"
+      "hash": "fd0899e022621cf047dacccba3c6e427b6e6fe512e5c72e12822a07b6022b00e",
+      "name": "runescape-api-1.5.39-SNAPSHOT.jar",
+      "path": "https://github.com/open-osrs/hosting/raw/master/stable/runescape-api-1.5.39-SNAPSHOT.jar",
+      "size": "58041"
     },
     {
-      "hash": "ce824b717a26f56191624d7e9b68ab515cc26ffd979ee14a923410993cd08363",
-      "name": "http-api-1.5.38-SNAPSHOT.jar",
-      "path": "https://github.com/open-osrs/hosting/raw/master/stable/http-api-1.5.38-SNAPSHOT.jar",
-      "size": "147064"
+      "hash": "cd45fb2402c2e6af5d8447031be69a2baaed748a118a62788a6f8aec5d46c760",
+      "name": "http-api-1.5.39-SNAPSHOT.jar",
+      "path": "https://github.com/open-osrs/hosting/raw/master/stable/http-api-1.5.39-SNAPSHOT.jar",
+      "size": "146680"
     },
     {
-      "hash": "85db6fbf3b6d0c752a0ddbd859d9b8d611eeefde1f5e21f66f329d0c3f443c11",
-      "name": "injected-client-1.5.38-SNAPSHOT.jar",
-      "path": "https://github.com/open-osrs/hosting/raw/master/stable/injected-client-1.5.38-SNAPSHOT.jar",
-      "size": "2181201"
+      "hash": "2098328110512c1551c32562a67ffd765ac87629f0d5f94ed624dab8267ce15d",
+      "name": "injected-client-1.5.39-SNAPSHOT.jar",
+      "path": "https://github.com/open-osrs/hosting/raw/master/stable/injected-client-1.5.39-SNAPSHOT.jar",
+      "size": "2182082"
     }
   ]
 }
