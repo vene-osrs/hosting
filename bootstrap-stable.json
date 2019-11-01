@@ -1,6 +1,6 @@
 {
   "projectVersion": "2.1.7.0",
-  "minimumLauncherVersion": "2.0.3",
+  "minimumLauncherVersion": "2.0.4",
   "launcherJvm11Arguments": [
     "-XX:+DisableAttachMechanism",
     "-Drunelite.launcher.nojvm=true",
