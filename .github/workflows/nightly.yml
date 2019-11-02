@@ -1,4 +1,4 @@
-name: OpenOSRS - nightly
+name: OpenOSRS - Nightly
 
 on:
   schedule:
@@ -45,12 +45,12 @@ jobs:
       - name: Copy bootstrap
         run: cp -af /home/runner/work/hosting/runelite/runelite-client/build/bootstrap/. /home/runner/work/hosting/hosting/
 
-      - name: Commit changes
-        uses: EndBug/add-and-commit@v2.1.0
-        with:
-          author_name: OpenOSRS
-          author_email: openosrs.github@gmail.com
-          message: "Nightly update"
-          path: "."
+      - name: Create nightly Pull Request
+        uses: Owain94/create-pull-request@master
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.OpenOSRS }}
+          PULL_REQUEST_BRANCH: NIGHTLY-UPDATE
+          PULL_REQUEST_TITLE: 'bootstrap: nightly release'
+          PULL_REQUEST_BODY: This is an auto-generated PR with a nightly release
+          COMMIT_MESSAGE: 'bootstrap: nightly release'
+          PULL_REQUEST_LABELS: "automated-pull-request"
