@@ -52,6 +52,5 @@ jobs:
           author_email: openosrs.github@gmail.com
           message: "Nightly update"
           path: "."
-          pattern: "*.jar"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
