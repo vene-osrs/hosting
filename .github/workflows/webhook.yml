@@ -50,18 +50,23 @@ jobs:
         working-directory: /home/runner/work/hosting/runelite
 
       - name: Bootstrap nightly
-        if: github.event.action == 'nightly' || github.event.action == 'nightly and stable'
+        if: github.event.action == 'nightly'
         run: ./gradlew :runelite-client:bootstrapNightly --stacktrace -x test -x checkstyleMain --console=plain
         working-directory: /home/runner/work/hosting/runelite
 
       - name: Bootstrap stable
-        if: github.event.action == 'stable' || github.event.action == 'nightly and stable'
+        if: github.event.action == 'stable'
         run: ./gradlew :runelite-client:bootstrapStable --stacktrace -x test -x checkstyleMain --console=plain
         working-directory: /home/runner/work/hosting/runelite
 
       - name: Bootstrap staging
         if: github.event.action == 'staging'
         run: ./gradlew :runelite-client:bootstrapStaging --stacktrace -x test -x checkstyleMain --console=plain
+        working-directory: /home/runner/work/hosting/runelite
+
+      - name: Bootstrap nightly and stable
+        if: github.event.action == 'nightly stable'
+        run: ./gradlew :runelite-client:bootstrapNightly --stacktrace -x test -x checkstyleMain --console=plain && ./gradlew :runelite-client:bootstrapStable --stacktrace -x test -x checkstyleMain --console=plain
         working-directory: /home/runner/work/hosting/runelite
 
       - name: Copy bootstrap
