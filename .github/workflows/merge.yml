@@ -6,14 +6,6 @@ on:
       - submitted
 
 jobs:
-  debug:
-    name: Debug
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Debug Action
-        uses: hmarr/debug-action@v1.0.0
-
   automerge:
     name: Auto merge
     runs-on: ubuntu-latest
