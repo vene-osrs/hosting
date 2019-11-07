@@ -37,6 +37,7 @@ jobs:
         shell: bash
         run: echo "##[set-output name=branch;]$(echo $(jq --raw-output .pull_request.head.ref "$GITHUB_EVENT_PATH"))"
         id: extract_branch
+
       - name: Delete PR head branch
         uses: dawidd6/action-delete-branch@master
         with:
