@@ -42,31 +42,31 @@ jobs:
         working-directory: /home/runner/work/hosting/runelite
 
       - name: Assembling
-        run: ./gradlew assemble --console=plain
+        run: ./gradlew assemble --console=plain -PreleaseBuild
         working-directory: /home/runner/work/hosting/runelite
 
       - name: Building
-        run: ./gradlew build --stacktrace -x test -x checkstyleMain --console=plain
+        run: ./gradlew build --stacktrace -x test -x checkstyleMain --console=plain -PreleaseBuild
         working-directory: /home/runner/work/hosting/runelite
 
       - name: Bootstrap nightly
         if: github.event.action == 'nightly'
-        run: ./gradlew :runelite-client:bootstrapNightly --stacktrace -x test -x checkstyleMain --console=plain
+        run: ./gradlew :runelite-client:bootstrapNightly --stacktrace -x test -x checkstyleMain --console=plain -PreleaseBuild
         working-directory: /home/runner/work/hosting/runelite
 
       - name: Bootstrap stable
         if: github.event.action == 'stable'
-        run: ./gradlew :runelite-client:bootstrapStable --stacktrace -x test -x checkstyleMain --console=plain
+        run: ./gradlew :runelite-client:bootstrapStable --stacktrace -x test -x checkstyleMain --console=plain -PreleaseBuild
         working-directory: /home/runner/work/hosting/runelite
 
       - name: Bootstrap staging
         if: github.event.action == 'staging'
-        run: ./gradlew :runelite-client:bootstrapStaging --stacktrace -x test -x checkstyleMain --console=plain
+        run: ./gradlew :runelite-client:bootstrapStaging --stacktrace -x test -x checkstyleMain --console=plain -PreleaseBuild
         working-directory: /home/runner/work/hosting/runelite
 
       - name: Bootstrap nightly and stable
         if: github.event.action == 'nightly stable'
-        run: ./gradlew :runelite-client:bootstrapNightly --stacktrace -x test -x checkstyleMain --console=plain && ./gradlew :runelite-client:bootstrapStable --stacktrace -x test -x checkstyleMain --console=plain
+        run: ./gradlew :runelite-client:bootstrapNightly --stacktrace -x test -x checkstyleMain --console=plain -PreleaseBuild && ./gradlew :runelite-client:bootstrapStable --stacktrace -x test -x checkstyleMain --console=plain -PreleaseBuild
         working-directory: /home/runner/work/hosting/runelite
 
       - name: Copy bootstrap
