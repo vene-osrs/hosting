@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "pzlczbgbbnfo7nfdltugk2b52y"
+      "buildId": "nwt5lgksm5f6vb23ivtx3kw7qq"
     }
   },
   "variants": [
@@ -29,10 +29,10 @@
           "name": "injection-annotations-1.0.jar",
           "url": "injection-annotations-1.0.jar",
           "size": 7294,
-          "sha512": "e0bf9c4424fe9d3121a3f2060d2c9e1e44a5477082778fffe266fdbcdcd911b1985d79bb171a09b0d641d68b0e44c943b9459fcc08053f5be465fce009db30ab",
-          "sha256": "3a4ed7b7215350a696e43fd216986790659b65208e233a0109004ce517f79015",
-          "sha1": "12b9a48ed619cc335aa20e79811c3d740a011811",
-          "md5": "bccee44e2b882dfc55cb422a7d017acf"
+          "sha512": "4b36056c07c6a1d58dbb63c94bd3074ef45361b2ed93e0505dab26bdfe12e1c2f11452d39caff165776cab80af3cf93ae4b4f78d2fd8a90dbaaa6365539c2618",
+          "sha256": "cf93fdde2df8b482625def434dba3fa93c9f9f1c30fb43ebdf5d247c2d3b3c3",
+          "sha1": "ea09fcc9b1aa510f2060f6b57ce4a1dc52c842ac",
+          "md5": "a6eb87f2843968f385bd034ef87538ff"
         }
       ]
     },
@@ -50,10 +50,10 @@
           "name": "injection-annotations-1.0.jar",
           "url": "injection-annotations-1.0.jar",
           "size": 7294,
-          "sha512": "e0bf9c4424fe9d3121a3f2060d2c9e1e44a5477082778fffe266fdbcdcd911b1985d79bb171a09b0d641d68b0e44c943b9459fcc08053f5be465fce009db30ab",
-          "sha256": "3a4ed7b7215350a696e43fd216986790659b65208e233a0109004ce517f79015",
-          "sha1": "12b9a48ed619cc335aa20e79811c3d740a011811",
-          "md5": "bccee44e2b882dfc55cb422a7d017acf"
+          "sha512": "4b36056c07c6a1d58dbb63c94bd3074ef45361b2ed93e0505dab26bdfe12e1c2f11452d39caff165776cab80af3cf93ae4b4f78d2fd8a90dbaaa6365539c2618",
+          "sha256": "cf93fdde2df8b482625def434dba3fa93c9f9f1c30fb43ebdf5d247c2d3b3c3",
+          "sha1": "ea09fcc9b1aa510f2060f6b57ce4a1dc52c842ac",
+          "md5": "a6eb87f2843968f385bd034ef87538ff"
         }
       ]
     }
