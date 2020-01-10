@@ -1,9 +1,9 @@
 title=Old School RuneScape
 adverturl=http://www.runescape.com/g=oldscape/bare_advert.ws
-codebase=http://oldschool220.runescape.com/
+codebase=http://oldschool9a.runescape.com/
 cachedir=oldschool
 storebase=0
-initial_jar=gamepack_1106918.jar
+initial_jar=gamepack_6542740.jar
 initial_class=client.class
 termsurl=http://www.jagex.com/g=oldscape/terms/terms.ws
 privacyurl=http://www.jagex.com/g=oldscape/privacy/privacy.ws
@@ -22,7 +22,7 @@ applet_minheight=503
 applet_maxwidth=5760
 applet_maxheight=2160
 msg=lang0=English
-msg=tandc=This game is copyright © 1999 - 2019 Jagex Ltd.\Use of this game is subject to our ["http://www.runescape.com/terms/terms.ws"Terms and Conditions] and ["http://www.runescape.com/privacy/privacy.ws"Privacy Policy].
+msg=tandc=This game is copyright © 1999 - 2020 Jagex Ltd.\Use of this game is subject to our ["http://www.runescape.com/terms/terms.ws"Terms and Conditions] and ["http://www.runescape.com/privacy/privacy.ws"Privacy Policy].
 msg=options=Options
 msg=language=Language
 msg=changes_on_restart=Your changes will take effect when you next start this program.
@@ -44,23 +44,23 @@ msg=err_get_file=Error getting file
 msg=new_version=Update available! You can now launch the client directly from the OldSchool website.\nGet the new version from the link on the OldSchool homepage: http://oldschool.runescape.com/
 msg=new_version_linktext=Open OldSchool Homepage
 msg=new_version_link=http://oldschool.runescape.com/
-param=12=520
-param=6=0
-param=18=
 param=14=0
-param=8=true
-param=10=5
-param=3=true
-param=15=0
-param=2=https://payments.jagex.com/operator/v1/
-param=9=p1cxIGuofoJDllIph8wND7ovhIdQsCCMOkIpLOHK1p3N6ME6XFISDQ
-param=4=39301
-param=17=http://www.runescape.com/g=oldscape/slr.ws?order=LPWM
 param=13=.runescape.com
+param=8=true
+param=6=0
+param=9=p1cxIGuofoJDllIph8wND7ovhIdQsCCMOkIpLOHK1p3N6ME6XFISDQ
+param=12=309
+param=4=63049
+param=17=http://www.runescape.com/g=oldscape/slr.ws?order=LPWM
+param=10=5
+param=18=
+param=7=0
 param=11=https://auth.jagex.com/
 param=1=1
+param=2=https://payments.jagex.com/operator/v1/
+param=19=196515767263-1oo20deqm6edn7ujlihl6rpadk9drhva.apps.googleusercontent.com
+param=3=true
 param=16=true
 param=5=1
-param=19=196515767263-1oo20deqm6edn7ujlihl6rpadk9drhva.apps.googleusercontent.com
-param=7=0
+param=15=0
 runelite.worldparam=12
