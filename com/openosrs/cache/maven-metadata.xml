@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.openosrs</groupId>
+  <artifactId>cache</artifactId>
+  <versioning>
+    <latest>187.0-SNAPSHOT</latest>
+    <versions>
+      <version>187.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200117023943</lastUpdated>
+  </versioning>
+</metadata>

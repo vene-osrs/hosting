@@ -1,0 +1,119 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.openosrs",
+    "module": "cache",
+    "version": "187.0-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.0.1",
+      "buildId": "xjmjqqux2fd5rjuk2dl32qpo3y"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "cache-187.0-SNAPSHOT.jar",
+          "url": "cache-187.0-20200117.023942-1.jar",
+          "size": 375595,
+          "sha512": "e6277597f31f277105587f7539c5b1ae082553873493ad14d3ec220a42dd5dd4632ebf89d00c166775517728e1af6126f3f0fe16a436ef73cecab768e8931d85",
+          "sha256": "68ddea860bf12918774fde5010b97dc228b8cbe7bba7e599ce7840f7101505e1",
+          "sha1": "ae649e54cb8d620df4f6ddf68e9c0814f3a3d5a0",
+          "md5": "731108115b44bd122a6aebecbdac4978"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.projectlombok",
+          "module": "lombok",
+          "version": {
+            "requires": "1.18.10"
+          }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.8.6"
+          }
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "28.2-jre"
+          }
+        },
+        {
+          "group": "commons-cli",
+          "module": "commons-cli",
+          "version": {
+            "requires": "1.4"
+          }
+        },
+        {
+          "group": "io.netty",
+          "module": "netty-buffer",
+          "version": {
+            "requires": "4.1.44.Final"
+          }
+        },
+        {
+          "group": "org.antlr",
+          "module": "antlr4-runtime",
+          "version": {
+            "requires": "4.7.2"
+          }
+        },
+        {
+          "group": "org.apache.commons",
+          "module": "commons-compress",
+          "version": {
+            "requires": "1.19"
+          }
+        },
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-api",
+          "version": {
+            "requires": "1.7.30"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "cache-187.0-SNAPSHOT.jar",
+          "url": "cache-187.0-20200117.023942-1.jar",
+          "size": 375595,
+          "sha512": "e6277597f31f277105587f7539c5b1ae082553873493ad14d3ec220a42dd5dd4632ebf89d00c166775517728e1af6126f3f0fe16a436ef73cecab768e8931d85",
+          "sha256": "68ddea860bf12918774fde5010b97dc228b8cbe7bba7e599ce7840f7101505e1",
+          "sha1": "ae649e54cb8d620df4f6ddf68e9c0814f3a3d5a0",
+          "md5": "731108115b44bd122a6aebecbdac4978"
+        }
+      ]
+    }
+  ]
+}
