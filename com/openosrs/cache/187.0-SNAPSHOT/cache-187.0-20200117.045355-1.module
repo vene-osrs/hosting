@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "oq545ombxfg7jgl665kqo3bjpy"
+      "buildId": "fywy2bzk6jbi5jmgbg4fnbm43m"
     }
   },
   "variants": [
@@ -27,12 +27,12 @@
       "files": [
         {
           "name": "cache-187.0-SNAPSHOT.jar",
-          "url": "cache-187.0-20200117.032720-1.jar",
+          "url": "cache-187.0-20200117.045355-1.jar",
           "size": 375578,
-          "sha512": "b5e2e98c381ead36a7b50992edf36b250f8b7180fb411d5721dfea66037a92b1ae8215a298be8b7368309b9f2a4ac061315c0b80a8992a224f798ad9ed870d6e",
-          "sha256": "7c769d6b12229eff175d0fcb3fc7b8db9cb9f285ac3c814cfea78312884627b8",
-          "sha1": "7510adf91d2b6f06d0a3ffcafaf0d2673852cc56",
-          "md5": "25be5aba11d5a388dc5398ea8a00296e"
+          "sha512": "a2f6585f0fefe9729265d41484876645db6a70a58297bb91daf792ffb1bf64b540260617b0226f53ee6d646d903684bf087dbc92b27ad8cb436953ea8170d835",
+          "sha256": "242a0d94de27fb656d820f58c62ac9fe48b7ad1c0edddd60626b337beb5e5eae",
+          "sha1": "32e12c5cd4427096a5e54d9d52e1bb4cde2a1cf4",
+          "md5": "81a32c4bc005c2f04cfc0cacf9415fb3"
         }
       ]
     },
@@ -106,12 +106,12 @@
       "files": [
         {
           "name": "cache-187.0-SNAPSHOT.jar",
-          "url": "cache-187.0-20200117.032720-1.jar",
+          "url": "cache-187.0-20200117.045355-1.jar",
           "size": 375578,
-          "sha512": "b5e2e98c381ead36a7b50992edf36b250f8b7180fb411d5721dfea66037a92b1ae8215a298be8b7368309b9f2a4ac061315c0b80a8992a224f798ad9ed870d6e",
-          "sha256": "7c769d6b12229eff175d0fcb3fc7b8db9cb9f285ac3c814cfea78312884627b8",
-          "sha1": "7510adf91d2b6f06d0a3ffcafaf0d2673852cc56",
-          "md5": "25be5aba11d5a388dc5398ea8a00296e"
+          "sha512": "a2f6585f0fefe9729265d41484876645db6a70a58297bb91daf792ffb1bf64b540260617b0226f53ee6d646d903684bf087dbc92b27ad8cb436953ea8170d835",
+          "sha256": "242a0d94de27fb656d820f58c62ac9fe48b7ad1c0edddd60626b337beb5e5eae",
+          "sha1": "32e12c5cd4427096a5e54d9d52e1bb4cde2a1cf4",
+          "md5": "81a32c4bc005c2f04cfc0cacf9415fb3"
         }
       ]
     }
