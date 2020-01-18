@@ -1,0 +1,61 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.openosrs",
+    "module": "injected-client",
+    "version": "1.6.3-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.1",
+      "buildId": "kwndnbmqzvg7roez2rv3mhfbna"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "injected-client-1.6.3-SNAPSHOT.jar",
+          "url": "injected-client-1.6.3-20200118.222052-1.jar",
+          "size": 2224272,
+          "sha512": "4040371a60a1dafb4468e9d7d08fce676abe1565092b99f4c54cd360ddee06b0b2a51e266cfc40d991d2129fc21d2ae57275a31fe039a46d22aa1ee1703448d9",
+          "sha256": "0e21127756efef1a232c975fcf8ece7e2fb03e244a15eba8811e0db832117962",
+          "sha1": "bd8870b212be6765f4e4b36044f15718c3af9912",
+          "md5": "bf9284e02e57bfbb5d00afd6043692cf"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "injected-client-1.6.3-SNAPSHOT.jar",
+          "url": "injected-client-1.6.3-20200118.222052-1.jar",
+          "size": 2224272,
+          "sha512": "4040371a60a1dafb4468e9d7d08fce676abe1565092b99f4c54cd360ddee06b0b2a51e266cfc40d991d2129fc21d2ae57275a31fe039a46d22aa1ee1703448d9",
+          "sha256": "0e21127756efef1a232c975fcf8ece7e2fb03e244a15eba8811e0db832117962",
+          "sha1": "bd8870b212be6765f4e4b36044f15718c3af9912",
+          "md5": "bf9284e02e57bfbb5d00afd6043692cf"
+        }
+      ]
+    }
+  ]
+}
