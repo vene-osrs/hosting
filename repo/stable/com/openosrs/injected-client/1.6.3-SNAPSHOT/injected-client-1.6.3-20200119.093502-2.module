@@ -1,0 +1,61 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.openosrs",
+    "module": "injected-client",
+    "version": "1.6.3-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.1",
+      "buildId": "pvnmthkjprcwhn6k5aec3anzty"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "injected-client-1.6.3-SNAPSHOT.jar",
+          "url": "injected-client-1.6.3-20200119.093502-2.jar",
+          "size": 2224272,
+          "sha512": "fd181c24c0af782eabbdaa820913d24721286b4e6d22e87f642deec1a7b84c482f7f5462c7f38fcf0f63bff5397eaabaae451bba1baf873f5ac001a1af23573d",
+          "sha256": "fd097baabdd5ad2674be9485e916997f7d09390b95ae7a5891a5a793c1163ee3",
+          "sha1": "6120a367cc30e081a07c790e9b853112618968d0",
+          "md5": "ef50e79bdd3915f6d731539d39c02a7d"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "injected-client-1.6.3-SNAPSHOT.jar",
+          "url": "injected-client-1.6.3-20200119.093502-2.jar",
+          "size": 2224272,
+          "sha512": "fd181c24c0af782eabbdaa820913d24721286b4e6d22e87f642deec1a7b84c482f7f5462c7f38fcf0f63bff5397eaabaae451bba1baf873f5ac001a1af23573d",
+          "sha256": "fd097baabdd5ad2674be9485e916997f7d09390b95ae7a5891a5a793c1163ee3",
+          "sha1": "6120a367cc30e081a07c790e9b853112618968d0",
+          "md5": "ef50e79bdd3915f6d731539d39c02a7d"
+        }
+      ]
+    }
+  ]
+}
