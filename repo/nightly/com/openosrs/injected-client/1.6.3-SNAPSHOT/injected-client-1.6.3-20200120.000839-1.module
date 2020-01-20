@@ -1,0 +1,61 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.openosrs",
+    "module": "injected-client",
+    "version": "1.6.3-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.1",
+      "buildId": "76vxovm35vho3fh3kjzwhlf6g4"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "injected-client-1.6.3-SNAPSHOT.jar",
+          "url": "injected-client-1.6.3-20200120.000839-1.jar",
+          "size": 2224272,
+          "sha512": "b4e646cffbe632eacdd565544164df3dc2de739a104edd5d08e824a6c4eb6717655e014bcbbc11407c132ff9c2b15e4f4b0c88023bf3b3bf9325ee1659fd019a",
+          "sha256": "3ebf098cb65f1d8659dab063dc212a22aeebde21b7edc7bb7951b9978b24429d",
+          "sha1": "834b8c23b70d1dffca1e291210a919fa47bce8b1",
+          "md5": "91d7b8508c51c929a309475ce6150b58"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "injected-client-1.6.3-SNAPSHOT.jar",
+          "url": "injected-client-1.6.3-20200120.000839-1.jar",
+          "size": 2224272,
+          "sha512": "b4e646cffbe632eacdd565544164df3dc2de739a104edd5d08e824a6c4eb6717655e014bcbbc11407c132ff9c2b15e4f4b0c88023bf3b3bf9325ee1659fd019a",
+          "sha256": "3ebf098cb65f1d8659dab063dc212a22aeebde21b7edc7bb7951b9978b24429d",
+          "sha1": "834b8c23b70d1dffca1e291210a919fa47bce8b1",
+          "md5": "91d7b8508c51c929a309475ce6150b58"
+        }
+      ]
+    }
+  ]
+}
