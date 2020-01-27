@@ -1,0 +1,61 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.openosrs",
+    "module": "injected-client",
+    "version": "1.6.5-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.1.1",
+      "buildId": "4xf677b2avckpl5ja35dtrbb34"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "injected-client-1.6.5-SNAPSHOT.jar",
+          "url": "injected-client-1.6.5-20200127.000806-1.jar",
+          "size": 2224503,
+          "sha512": "37c56813bd923666e734498d8235539a925b00b806ec409f81d7f9d60f32850476cc5975eb58141164e975942d267bc10663dcc0ed3ace769a94675b2abe4097",
+          "sha256": "7d4a8ad83673cb1b1c2597f415651c87c53c863c18b8ca26de7406c808d4d982",
+          "sha1": "7e1f36b8517edd7866e5feaedf9e2472e4c10cd8",
+          "md5": "21106aa6de8fc65755a67f80c98f4724"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "injected-client-1.6.5-SNAPSHOT.jar",
+          "url": "injected-client-1.6.5-20200127.000806-1.jar",
+          "size": 2224503,
+          "sha512": "37c56813bd923666e734498d8235539a925b00b806ec409f81d7f9d60f32850476cc5975eb58141164e975942d267bc10663dcc0ed3ace769a94675b2abe4097",
+          "sha256": "7d4a8ad83673cb1b1c2597f415651c87c53c863c18b8ca26de7406c808d4d982",
+          "sha1": "7e1f36b8517edd7866e5feaedf9e2472e4c10cd8",
+          "md5": "21106aa6de8fc65755a67f80c98f4724"
+        }
+      ]
+    }
+  ]
+}
