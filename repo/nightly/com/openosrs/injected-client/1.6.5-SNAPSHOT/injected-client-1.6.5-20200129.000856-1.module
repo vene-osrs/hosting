@@ -1,0 +1,61 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.openosrs",
+    "module": "injected-client",
+    "version": "1.6.5-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.1.1",
+      "buildId": "5vbyyaqmcramrbqo7yp7hanwxm"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "injected-client-1.6.5-SNAPSHOT.jar",
+          "url": "injected-client-1.6.5-20200129.000856-1.jar",
+          "size": 2224858,
+          "sha512": "ed145df3e74e5ff2b13e2b5a4c2446a48938bb4f6ce1fe9a6628918f9de23e81a9584a179e35c20e1de6ced26fa28a56d7f33ae1c97327163455dab576b1d8af",
+          "sha256": "2e58c9dfdf3ce5d264735bf00d6ec871c6ebe2a1aca5da65b99dfd2063ebb8c2",
+          "sha1": "24cc5e893de66b77bd9ec5f0999f7a10d09493d3",
+          "md5": "702b99c1778c30b18d485260f2717318"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "injected-client-1.6.5-SNAPSHOT.jar",
+          "url": "injected-client-1.6.5-20200129.000856-1.jar",
+          "size": 2224858,
+          "sha512": "ed145df3e74e5ff2b13e2b5a4c2446a48938bb4f6ce1fe9a6628918f9de23e81a9584a179e35c20e1de6ced26fa28a56d7f33ae1c97327163455dab576b1d8af",
+          "sha256": "2e58c9dfdf3ce5d264735bf00d6ec871c6ebe2a1aca5da65b99dfd2063ebb8c2",
+          "sha1": "24cc5e893de66b77bd9ec5f0999f7a10d09493d3",
+          "md5": "702b99c1778c30b18d485260f2717318"
+        }
+      ]
+    }
+  ]
+}
