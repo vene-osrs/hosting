@@ -1,0 +1,61 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.openosrs",
+    "module": "injected-client",
+    "version": "1.6.6-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.1.1",
+      "buildId": "bwmewskbhjgmvi3c4nnhj5tox4"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "injected-client-1.6.6-SNAPSHOT.jar",
+          "url": "injected-client-1.6.6-20200129.203857-1.jar",
+          "size": 2264666,
+          "sha512": "f6f6522316075455a47897bd277d63a73f25eecfc16ab9e23eaf7e2c80fd29e6b687bd53e86ee5636f9e640f97498ceac59b89370de17007e0de8b44bbf39c2b",
+          "sha256": "5e560a22cc94d1580c4b5f94c4aac88f5ff22f85ed3b5457d4faa831935fd078",
+          "sha1": "2f0d2e45177647b3ee48115a45b2637766ef0b03",
+          "md5": "f11d56c84c1a68ae6895cedad9944967"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "injected-client-1.6.6-SNAPSHOT.jar",
+          "url": "injected-client-1.6.6-20200129.203857-1.jar",
+          "size": 2264666,
+          "sha512": "f6f6522316075455a47897bd277d63a73f25eecfc16ab9e23eaf7e2c80fd29e6b687bd53e86ee5636f9e640f97498ceac59b89370de17007e0de8b44bbf39c2b",
+          "sha256": "5e560a22cc94d1580c4b5f94c4aac88f5ff22f85ed3b5457d4faa831935fd078",
+          "sha1": "2f0d2e45177647b3ee48115a45b2637766ef0b03",
+          "md5": "f11d56c84c1a68ae6895cedad9944967"
+        }
+      ]
+    }
+  ]
+}
