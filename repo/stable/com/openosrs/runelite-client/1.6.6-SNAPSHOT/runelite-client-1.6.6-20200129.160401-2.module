@@ -1,0 +1,403 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.openosrs",
+    "module": "runelite-client",
+    "version": "1.6.6-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.1.1",
+      "buildId": "3qpvhxgiundehbuaqfk6rluivi"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.openosrs",
+          "module": "runelite-api",
+          "version": {
+            "requires": "1.6.6-SNAPSHOT"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "runelite-client-1.6.6-SNAPSHOT.jar",
+          "url": "runelite-client-1.6.6-20200129.160401-2.jar",
+          "size": 9534757,
+          "sha512": "4af2628a54fd6b8f0706e4cb04da7b8a2ddee794fd428f321017be3055ccb4c003e1ab762e3eccd34374b201d9f7ce4116056a82cd7f04e01f415769e47eba00",
+          "sha256": "f7d731d72178f196749dcea91e679c9974845b487bb5a1a0d651ed749da6c0eb",
+          "sha1": "b083b08ed79ebe7d26edff492c8611f29f8a8371",
+          "md5": "1f644fbe4885b0131704a7a9eb67700e"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "ch.qos.logback",
+          "module": "logback-classic",
+          "version": {
+            "requires": "1.2.3"
+          }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.8.6"
+          }
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "28.2-jre"
+          }
+        },
+        {
+          "group": "com.google.inject",
+          "module": "guice",
+          "version": {
+            "requires": "4.2.2"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "guice",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "no_aop"
+            }
+          }
+        },
+        {
+          "group": "com.h2database",
+          "module": "h2",
+          "version": {
+            "requires": "1.4.200"
+          }
+        },
+        {
+          "group": "com.jakewharton.rxrelay2",
+          "module": "rxrelay",
+          "version": {
+            "requires": "2.1.1"
+          }
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "okhttp",
+          "version": {
+            "requires": "4.3.0"
+          }
+        },
+        {
+          "group": "io.reactivex.rxjava2",
+          "module": "rxjava",
+          "version": {
+            "requires": "2.2.16"
+          }
+        },
+        {
+          "group": "net.java.dev.jna",
+          "module": "jna",
+          "version": {
+            "requires": "5.5.0"
+          }
+        },
+        {
+          "group": "net.java.dev.jna",
+          "module": "jna-platform",
+          "version": {
+            "requires": "5.5.0"
+          }
+        },
+        {
+          "group": "net.runelite",
+          "module": "discord",
+          "version": {
+            "requires": "1.1"
+          }
+        },
+        {
+          "group": "org.pushing-pixels",
+          "module": "radiance-substance",
+          "version": {
+            "requires": "2.5.1"
+          }
+        },
+        {
+          "group": "net.sf.jopt-simple",
+          "module": "jopt-simple",
+          "version": {
+            "requires": "5.0.4"
+          }
+        },
+        {
+          "group": "org.apache.commons",
+          "module": "commons-text",
+          "version": {
+            "requires": "1.8"
+          }
+        },
+        {
+          "group": "org.codehaus.plexus",
+          "module": "plexus-utils",
+          "version": {
+            "requires": "3.3.0"
+          }
+        },
+        {
+          "group": "org.jetbrains",
+          "module": "annotations",
+          "version": {
+            "requires": "18.0.0"
+          }
+        },
+        {
+          "group": "org.jogamp.gluegen",
+          "module": "gluegen-rt",
+          "version": {
+            "requires": "2.3.2"
+          }
+        },
+        {
+          "group": "org.jogamp.jogl",
+          "module": "jogl-all",
+          "version": {
+            "requires": "2.3.2"
+          }
+        },
+        {
+          "group": "org.jooq",
+          "module": "jooq",
+          "version": {
+            "requires": "3.12.3"
+          }
+        },
+        {
+          "group": "org.jooq",
+          "module": "jooq-codegen",
+          "version": {
+            "requires": "3.12.3"
+          }
+        },
+        {
+          "group": "org.jooq",
+          "module": "jooq-meta",
+          "version": {
+            "requires": "3.12.3"
+          }
+        },
+        {
+          "group": "io.sentry",
+          "module": "sentry",
+          "version": {
+            "requires": "1.7.29"
+          }
+        },
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-api",
+          "version": {
+            "requires": "1.7.30"
+          }
+        },
+        {
+          "group": "com.openosrs",
+          "module": "http-api",
+          "version": {
+            "requires": "1.6.6-SNAPSHOT"
+          }
+        },
+        {
+          "group": "com.github.joonasvali.naturalmouse",
+          "module": "naturalmouse",
+          "version": {
+            "requires": "2.0.2"
+          }
+        },
+        {
+          "group": "com.openosrs",
+          "module": "runelite-api",
+          "version": {
+            "requires": "1.6.6-SNAPSHOT"
+          }
+        },
+        {
+          "group": "org.pushing-pixels",
+          "module": "radiance-trident",
+          "version": {
+            "requires": "2.5.1"
+          }
+        },
+        {
+          "group": "org.jogamp.gluegen",
+          "module": "gluegen-rt",
+          "version": {
+            "requires": "2.3.2"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "gluegen-rt",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "natives-linux-amd64"
+            }
+          }
+        },
+        {
+          "group": "org.jogamp.gluegen",
+          "module": "gluegen-rt",
+          "version": {
+            "requires": "2.3.2"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "gluegen-rt",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "natives-linux-i586"
+            }
+          }
+        },
+        {
+          "group": "org.jogamp.gluegen",
+          "module": "gluegen-rt",
+          "version": {
+            "requires": "2.3.2"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "gluegen-rt",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "natives-windows-amd64"
+            }
+          }
+        },
+        {
+          "group": "org.jogamp.gluegen",
+          "module": "gluegen-rt",
+          "version": {
+            "requires": "2.3.2"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "gluegen-rt",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "natives-windows-i586"
+            }
+          }
+        },
+        {
+          "group": "org.jogamp.jogl",
+          "module": "jogl-all",
+          "version": {
+            "requires": "2.3.2"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "jogl-all",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "natives-linux-amd64"
+            }
+          }
+        },
+        {
+          "group": "org.jogamp.jogl",
+          "module": "jogl-all",
+          "version": {
+            "requires": "2.3.2"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "jogl-all",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "natives-linux-i586"
+            }
+          }
+        },
+        {
+          "group": "org.jogamp.jogl",
+          "module": "jogl-all",
+          "version": {
+            "requires": "2.3.2"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "jogl-all",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "natives-windows-amd64"
+            }
+          }
+        },
+        {
+          "group": "org.jogamp.jogl",
+          "module": "jogl-all",
+          "version": {
+            "requires": "2.3.2"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "jogl-all",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "natives-windows-i586"
+            }
+          }
+        },
+        {
+          "group": "com.openosrs",
+          "module": "injected-client",
+          "version": {
+            "requires": "1.6.6-SNAPSHOT"
+          }
+        },
+        {
+          "group": "com.openosrs.rs",
+          "module": "runescape-api",
+          "version": {
+            "requires": "1.6.6-SNAPSHOT"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "runelite-client-1.6.6-SNAPSHOT.jar",
+          "url": "runelite-client-1.6.6-20200129.160401-2.jar",
+          "size": 9534757,
+          "sha512": "4af2628a54fd6b8f0706e4cb04da7b8a2ddee794fd428f321017be3055ccb4c003e1ab762e3eccd34374b201d9f7ce4116056a82cd7f04e01f415769e47eba00",
+          "sha256": "f7d731d72178f196749dcea91e679c9974845b487bb5a1a0d651ed749da6c0eb",
+          "sha1": "b083b08ed79ebe7d26edff492c8611f29f8a8371",
+          "md5": "1f644fbe4885b0131704a7a9eb67700e"
+        }
+      ]
+    }
+  ]
+}

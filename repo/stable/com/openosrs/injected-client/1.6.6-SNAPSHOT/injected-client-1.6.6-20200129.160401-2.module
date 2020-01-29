@@ -1,0 +1,61 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.openosrs",
+    "module": "injected-client",
+    "version": "1.6.6-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.1.1",
+      "buildId": "3qpvhxgiundehbuaqfk6rluivi"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "injected-client-1.6.6-SNAPSHOT.jar",
+          "url": "injected-client-1.6.6-20200129.160401-2.jar",
+          "size": 2264666,
+          "sha512": "2ce62d642101c4d588007604cda96971c01c9393c9c7aa58895ce9f0de89d2202d3c790bd8b15de0271e5adcc7e86d8cb2cee0bd5bc438b09d8a699f450d5476",
+          "sha256": "70945a1f84140832e5f93b50ba4e582e7e0f30815e55482a59c050ded4648c81",
+          "sha1": "ed600e0759326a0ff75e096fc087d98ff26b10eb",
+          "md5": "321bff6f600bc65289aca9dd6ff4da45"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "injected-client-1.6.6-SNAPSHOT.jar",
+          "url": "injected-client-1.6.6-20200129.160401-2.jar",
+          "size": 2264666,
+          "sha512": "2ce62d642101c4d588007604cda96971c01c9393c9c7aa58895ce9f0de89d2202d3c790bd8b15de0271e5adcc7e86d8cb2cee0bd5bc438b09d8a699f450d5476",
+          "sha256": "70945a1f84140832e5f93b50ba4e582e7e0f30815e55482a59c050ded4648c81",
+          "sha1": "ed600e0759326a0ff75e096fc087d98ff26b10eb",
+          "md5": "321bff6f600bc65289aca9dd6ff4da45"
+        }
+      ]
+    }
+  ]
+}
