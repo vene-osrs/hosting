@@ -1,0 +1,61 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.openosrs",
+    "module": "injected-client",
+    "version": "1.6.6-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.1.1",
+      "buildId": "7rrh2oeceremxmn6hdow7wjqwi"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "injected-client-1.6.6-SNAPSHOT.jar",
+          "url": "injected-client-1.6.6-20200131.000935-1.jar",
+          "size": 2264669,
+          "sha512": "1bd58eba82ca1c7357807bf92f3940a1349e83f2655642f88d76699e5da7dd711d0026f55bdab3289acda3e31ed0b05ee7afad2369ba6d525d682783ca5063b9",
+          "sha256": "d9444672535512e381954c42c042cc99de02e9dd15524dc019d9648099455e8c",
+          "sha1": "430a4ab4dea9c2e5de4ea584a0ff866e236ce5ee",
+          "md5": "793f2eea8038a40a9463ebfb28aee754"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "injected-client-1.6.6-SNAPSHOT.jar",
+          "url": "injected-client-1.6.6-20200131.000935-1.jar",
+          "size": 2264669,
+          "sha512": "1bd58eba82ca1c7357807bf92f3940a1349e83f2655642f88d76699e5da7dd711d0026f55bdab3289acda3e31ed0b05ee7afad2369ba6d525d682783ca5063b9",
+          "sha256": "d9444672535512e381954c42c042cc99de02e9dd15524dc019d9648099455e8c",
+          "sha1": "430a4ab4dea9c2e5de4ea584a0ff866e236ce5ee",
+          "md5": "793f2eea8038a40a9463ebfb28aee754"
+        }
+      ]
+    }
+  ]
+}
