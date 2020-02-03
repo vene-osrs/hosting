@@ -1,0 +1,61 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.openosrs",
+    "module": "injected-client",
+    "version": "1.6.6-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.1.1",
+      "buildId": "6xohw4nhqnbwhmfyrl4nugivku"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "injected-client-1.6.6-SNAPSHOT.jar",
+          "url": "injected-client-1.6.6-20200203.000816-1.jar",
+          "size": 2264669,
+          "sha512": "60f918b86f088cce72b3367a4a396458b7de1a82783f58af664a7b573a60eb5bb8b4f4128db619a3ed34c09b9ebaad983881b92e6c707b151771765660afad76",
+          "sha256": "5dcd9999cbb77d15e6e899f9dd99bd7ea6b140e4d467c5aa37ed6b857b3c87dc",
+          "sha1": "af98629cf5c3f4fd858e192c40816d596229e0da",
+          "md5": "00a83500e60f5c15feb8ef1c52784d7a"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "injected-client-1.6.6-SNAPSHOT.jar",
+          "url": "injected-client-1.6.6-20200203.000816-1.jar",
+          "size": 2264669,
+          "sha512": "60f918b86f088cce72b3367a4a396458b7de1a82783f58af664a7b573a60eb5bb8b4f4128db619a3ed34c09b9ebaad983881b92e6c707b151771765660afad76",
+          "sha256": "5dcd9999cbb77d15e6e899f9dd99bd7ea6b140e4d467c5aa37ed6b857b3c87dc",
+          "sha1": "af98629cf5c3f4fd858e192c40816d596229e0da",
+          "md5": "00a83500e60f5c15feb8ef1c52784d7a"
+        }
+      ]
+    }
+  ]
+}
