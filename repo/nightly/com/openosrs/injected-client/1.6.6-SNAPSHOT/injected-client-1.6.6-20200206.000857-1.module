@@ -1,0 +1,61 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.openosrs",
+    "module": "injected-client",
+    "version": "1.6.6-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.1.1",
+      "buildId": "ltsdzirxwbdgtlo4qddimrbscq"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "injected-client-1.6.6-SNAPSHOT.jar",
+          "url": "injected-client-1.6.6-20200206.000857-1.jar",
+          "size": 2265655,
+          "sha512": "048c5e79dc38728d31a49ae07360bbc2cda3dc867ad180773f32b7a4323acdecf0bdfbb8e39805f49d6362e4d871c7f3653400aed0293fd5dea47c352ee8a8da",
+          "sha256": "0929aba854401d0dc3bde3ceda150ba44ea36962057c3fb64458da352884614c",
+          "sha1": "5da5785e5721d83b2fda6b0e9d726ec71680349d",
+          "md5": "332cde22287205b8959c9508d7dc807c"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "injected-client-1.6.6-SNAPSHOT.jar",
+          "url": "injected-client-1.6.6-20200206.000857-1.jar",
+          "size": 2265655,
+          "sha512": "048c5e79dc38728d31a49ae07360bbc2cda3dc867ad180773f32b7a4323acdecf0bdfbb8e39805f49d6362e4d871c7f3653400aed0293fd5dea47c352ee8a8da",
+          "sha256": "0929aba854401d0dc3bde3ceda150ba44ea36962057c3fb64458da352884614c",
+          "sha1": "5da5785e5721d83b2fda6b0e9d726ec71680349d",
+          "md5": "332cde22287205b8959c9508d7dc807c"
+        }
+      ]
+    }
+  ]
+}
