@@ -3,10 +3,10 @@
   <groupId>com.openosrs</groupId>
   <artifactId>cache</artifactId>
   <versioning>
-    <latest>187.0-SNAPSHOT</latest>
+    <latest>188.1-SNAPSHOT</latest>
     <versions>
-      <version>187.0-SNAPSHOT</version>
+      <version>188.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20200117045356</lastUpdated>
+    <lastUpdated>20200206145815</lastUpdated>
   </versioning>
 </metadata>
