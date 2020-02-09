@@ -1,0 +1,91 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.openosrs",
+    "module": "runelite-api",
+    "version": "1.6.6-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.1.1",
+      "buildId": "heis4syj6vaddkvwvzyfe5bm44"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "runelite-api-1.6.6-SNAPSHOT.jar",
+          "url": "runelite-api-1.6.6-20200209.202448-1.jar",
+          "size": 1156085,
+          "sha512": "748f43d646dbe5f820fd64b9fb961e76546a08d48e8e94004d84c9f2d1e13b30e8ab72b2bc4453ad23edab9f9276d36153d7ba816fafc660c27141961a5e3292",
+          "sha256": "5b84c0a4a1b7b693098dc2ee5d4ca13bb5069fdaa31d72fc8d41085082c95da8",
+          "sha1": "3793df60700a1666c1b7ca60f98cc7f5f3c2ee3d",
+          "md5": "639defc527cb11d7a4c3e760f53a8a3a"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.google.code.findbugs",
+          "module": "jsr305",
+          "version": {
+            "requires": "3.0.2"
+          }
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "28.2-jre"
+          }
+        },
+        {
+          "group": "org.apache.commons",
+          "module": "commons-text",
+          "version": {
+            "requires": "1.8"
+          }
+        },
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-api",
+          "version": {
+            "requires": "1.7.30"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "runelite-api-1.6.6-SNAPSHOT.jar",
+          "url": "runelite-api-1.6.6-20200209.202448-1.jar",
+          "size": 1156085,
+          "sha512": "748f43d646dbe5f820fd64b9fb961e76546a08d48e8e94004d84c9f2d1e13b30e8ab72b2bc4453ad23edab9f9276d36153d7ba816fafc660c27141961a5e3292",
+          "sha256": "5b84c0a4a1b7b693098dc2ee5d4ca13bb5069fdaa31d72fc8d41085082c95da8",
+          "sha1": "3793df60700a1666c1b7ca60f98cc7f5f3c2ee3d",
+          "md5": "639defc527cb11d7a4c3e760f53a8a3a"
+        }
+      ]
+    }
+  ]
+}
