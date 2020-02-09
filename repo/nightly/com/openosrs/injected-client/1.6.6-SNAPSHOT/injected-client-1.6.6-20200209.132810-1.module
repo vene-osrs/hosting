@@ -1,0 +1,61 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.openosrs",
+    "module": "injected-client",
+    "version": "1.6.6-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.1.1",
+      "buildId": "5z3o57d3sbfk5fxxvodqahuwka"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "injected-client-1.6.6-SNAPSHOT.jar",
+          "url": "injected-client-1.6.6-20200209.132810-1.jar",
+          "size": 2265681,
+          "sha512": "278cf86136efd69c62de524fe4e06d57c798e7b021a4d88dfc1f785400b9e7d9a9490e2834592778c7bfe00fb71ad519dffaf2616123843141a7cb5b4ec8d267",
+          "sha256": "02c9f6835e8e79f18f0cfe926a917b9b1d7eea81d1fb7bb66727a914f5b9b89b",
+          "sha1": "56ba963aebeb501a8196eb932ce1bfd3732f9327",
+          "md5": "d35717999e3991a95921c5904252dde0"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "injected-client-1.6.6-SNAPSHOT.jar",
+          "url": "injected-client-1.6.6-20200209.132810-1.jar",
+          "size": 2265681,
+          "sha512": "278cf86136efd69c62de524fe4e06d57c798e7b021a4d88dfc1f785400b9e7d9a9490e2834592778c7bfe00fb71ad519dffaf2616123843141a7cb5b4ec8d267",
+          "sha256": "02c9f6835e8e79f18f0cfe926a917b9b1d7eea81d1fb7bb66727a914f5b9b89b",
+          "sha1": "56ba963aebeb501a8196eb932ce1bfd3732f9327",
+          "md5": "d35717999e3991a95921c5904252dde0"
+        }
+      ]
+    }
+  ]
+}
