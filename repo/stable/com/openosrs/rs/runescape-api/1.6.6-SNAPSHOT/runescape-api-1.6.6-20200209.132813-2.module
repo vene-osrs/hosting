@@ -1,0 +1,93 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.openosrs.rs",
+    "module": "runescape-api",
+    "version": "1.6.6-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.1.1",
+      "buildId": "itp6lcfjerbo3iypov5gknjsz4"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.openosrs",
+          "module": "runelite-api",
+          "version": {
+            "requires": "1.6.6-SNAPSHOT"
+          }
+        },
+        {
+          "group": "com.openosrs",
+          "module": "injection-annotations",
+          "version": {
+            "requires": "1.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "runescape-api-1.6.6-SNAPSHOT.jar",
+          "url": "runescape-api-1.6.6-20200209.132813-2.jar",
+          "size": 55272,
+          "sha512": "070408c996068f87bcbca3a62e34cbfe0f6e3d6583a7607089a1872b1f6c25b94fc4eacedcfe3545a0162c7739701a62fb8c26c365301819df5b6dc605faa770",
+          "sha256": "7eed5240fa09c178f3e9e52459056c0e300361ccba0b75b0b326023375f24259",
+          "sha1": "b053854dd7c386e78ed11178f89554b83adefcf9",
+          "md5": "7ac0f690db6398684dbba477459c71d3"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.openosrs",
+          "module": "runelite-api",
+          "version": {
+            "requires": "1.6.6-SNAPSHOT"
+          }
+        },
+        {
+          "group": "com.openosrs",
+          "module": "injection-annotations",
+          "version": {
+            "requires": "1.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "runescape-api-1.6.6-SNAPSHOT.jar",
+          "url": "runescape-api-1.6.6-20200209.132813-2.jar",
+          "size": 55272,
+          "sha512": "070408c996068f87bcbca3a62e34cbfe0f6e3d6583a7607089a1872b1f6c25b94fc4eacedcfe3545a0162c7739701a62fb8c26c365301819df5b6dc605faa770",
+          "sha256": "7eed5240fa09c178f3e9e52459056c0e300361ccba0b75b0b326023375f24259",
+          "sha1": "b053854dd7c386e78ed11178f89554b83adefcf9",
+          "md5": "7ac0f690db6398684dbba477459c71d3"
+        }
+      ]
+    }
+  ]
+}
