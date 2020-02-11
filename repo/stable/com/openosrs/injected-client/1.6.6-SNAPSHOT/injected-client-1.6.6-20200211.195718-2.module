@@ -1,0 +1,61 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.openosrs",
+    "module": "injected-client",
+    "version": "1.6.6-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.1.1",
+      "buildId": "js2kzdyeknhqjf3rb7kpu63z4m"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "injected-client-1.6.6-SNAPSHOT.jar",
+          "url": "injected-client-1.6.6-20200211.195718-2.jar",
+          "size": 2265925,
+          "sha512": "3b51a4d8ea0b041484540991115654fb495f24a17013b04d281e99229ccc985c32f02ffe0e98a854016fa49f58b17aaf9f68216a53a1c4778fa4f4c32722ace5",
+          "sha256": "3d48ef537e6de2e10947854f030127d241cabd6f7c0943b16d96541cac3a5a06",
+          "sha1": "60fc4ac3c1aa86e9f3a20d7db7913d9e9e746d0f",
+          "md5": "33a41955d56056e969298e96bf730737"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "injected-client-1.6.6-SNAPSHOT.jar",
+          "url": "injected-client-1.6.6-20200211.195718-2.jar",
+          "size": 2265925,
+          "sha512": "3b51a4d8ea0b041484540991115654fb495f24a17013b04d281e99229ccc985c32f02ffe0e98a854016fa49f58b17aaf9f68216a53a1c4778fa4f4c32722ace5",
+          "sha256": "3d48ef537e6de2e10947854f030127d241cabd6f7c0943b16d96541cac3a5a06",
+          "sha1": "60fc4ac3c1aa86e9f3a20d7db7913d9e9e746d0f",
+          "md5": "33a41955d56056e969298e96bf730737"
+        }
+      ]
+    }
+  ]
+}
