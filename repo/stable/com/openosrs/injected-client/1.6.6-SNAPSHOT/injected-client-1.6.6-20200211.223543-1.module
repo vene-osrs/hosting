@@ -1,0 +1,61 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.openosrs",
+    "module": "injected-client",
+    "version": "1.6.6-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.1.1",
+      "buildId": "efrsqpvncbgtdnwjzuxejex6je"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "injected-client-1.6.6-SNAPSHOT.jar",
+          "url": "injected-client-1.6.6-20200211.223543-1.jar",
+          "size": 2266760,
+          "sha512": "4ff0a6720641f0b206021ed195c06f24a23eb46f5545cb643efcac4b9f07a29045bd7d7cf6bf13e34b49fa89d16f9fb11192dfad8f7a80c880a3602ca973e040",
+          "sha256": "9fde98106b405c3c811877319c08f6be0be4fcb5ea0e9f8ab804d4f2a3af4747",
+          "sha1": "e36959ea5509218e70a305b1b213687cf2d8894c",
+          "md5": "9f7c3d9efbf5d1c684d04446939477d5"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "injected-client-1.6.6-SNAPSHOT.jar",
+          "url": "injected-client-1.6.6-20200211.223543-1.jar",
+          "size": 2266760,
+          "sha512": "4ff0a6720641f0b206021ed195c06f24a23eb46f5545cb643efcac4b9f07a29045bd7d7cf6bf13e34b49fa89d16f9fb11192dfad8f7a80c880a3602ca973e040",
+          "sha256": "9fde98106b405c3c811877319c08f6be0be4fcb5ea0e9f8ab804d4f2a3af4747",
+          "sha1": "e36959ea5509218e70a305b1b213687cf2d8894c",
+          "md5": "9f7c3d9efbf5d1c684d04446939477d5"
+        }
+      ]
+    }
+  ]
+}
