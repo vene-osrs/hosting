@@ -1,0 +1,61 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.openosrs",
+    "module": "injected-client",
+    "version": "1.6.6-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.1.1",
+      "buildId": "pelk7vwaojfclombmt7ouwfsry"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "injected-client-1.6.6-SNAPSHOT.jar",
+          "url": "injected-client-1.6.6-20200215.001224-1.jar",
+          "size": 2265863,
+          "sha512": "d0724343a6e4957dfeca8e318341ee3444b880dc9f65075e292653cb0cbb6cb9f3d1874bdf465e72e9f026b262cc3281e26ac90c43ca0f4fb7cc15087c67cdc2",
+          "sha256": "c2c1653c7408e1e9fe1b350e7c908aac483a7ef5a06604cdf000294c935a592e",
+          "sha1": "c0a0ae5aa5aa664401b4a574c348280b491a6184",
+          "md5": "bf121be88707e5bf13ffcfed85c4a77d"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "injected-client-1.6.6-SNAPSHOT.jar",
+          "url": "injected-client-1.6.6-20200215.001224-1.jar",
+          "size": 2265863,
+          "sha512": "d0724343a6e4957dfeca8e318341ee3444b880dc9f65075e292653cb0cbb6cb9f3d1874bdf465e72e9f026b262cc3281e26ac90c43ca0f4fb7cc15087c67cdc2",
+          "sha256": "c2c1653c7408e1e9fe1b350e7c908aac483a7ef5a06604cdf000294c935a592e",
+          "sha1": "c0a0ae5aa5aa664401b4a574c348280b491a6184",
+          "md5": "bf121be88707e5bf13ffcfed85c4a77d"
+        }
+      ]
+    }
+  ]
+}
