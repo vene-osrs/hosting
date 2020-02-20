@@ -3,11 +3,10 @@
   <groupId>com.openosrs</groupId>
   <artifactId>injected-client</artifactId>
   <versioning>
-    <latest>1.6.6</latest>
-    <release>1.6.6</release>
+    <latest>1.6.8-snapshot</latest>
     <versions>
-      <version>1.6.6</version>
+      <version>1.6.8-snapshot</version>
     </versions>
-    <lastUpdated>20200219190812</lastUpdated>
+    <lastUpdated>20200220190031</lastUpdated>
   </versioning>
 </metadata>
