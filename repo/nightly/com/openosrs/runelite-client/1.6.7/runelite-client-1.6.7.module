@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.2",
-      "buildId": "cskq7vkgerd2bdqxoqwjccehsu"
+      "buildId": "tehcyrssk5hj3h4w43dl5n33ay"
     }
   },
   "variants": [
@@ -37,11 +37,11 @@
         {
           "name": "runelite-client-1.6.7.jar",
           "url": "runelite-client-1.6.7.jar",
-          "size": 2581654,
-          "sha512": "2a01acd3e3617fc271276cb9b88eea7d7a6f12a8b9c1c7db8c8eaf42febf2f5a6da6509eec72f9d9baf9b06e77da5d6a4e48beb537282efae0a587a515a262af",
-          "sha256": "85d4ce35a6a1d606d96c2ae7afaee0f65644fc71bbff321ebf3c823cb24c439f",
-          "sha1": "c19eb47ac6616fa880ef7f3ea629df2ef8fcdcbf",
-          "md5": "ce29679dbd6352de1d7e09cb1daf5dc9"
+          "size": 2585120,
+          "sha512": "caf75dd094439ed9c867485504cdb575fac80587757da462d6a715847193fe9743fb43ee3b6d9f5f57754e72f4882fe59b37e8394b2fef8a4198aafdee0829d4",
+          "sha256": "dd15e8484656a5418dee92bd75191e433be7662944dc512da83434433f8f093d",
+          "sha1": "17c217ae61e5da898987fb9f186985857f0bbe0d",
+          "md5": "cc70d72432ab29c8102fc1574af28f0a"
         }
       ]
     },
@@ -404,11 +404,11 @@
         {
           "name": "runelite-client-1.6.7.jar",
           "url": "runelite-client-1.6.7.jar",
-          "size": 2581654,
-          "sha512": "2a01acd3e3617fc271276cb9b88eea7d7a6f12a8b9c1c7db8c8eaf42febf2f5a6da6509eec72f9d9baf9b06e77da5d6a4e48beb537282efae0a587a515a262af",
-          "sha256": "85d4ce35a6a1d606d96c2ae7afaee0f65644fc71bbff321ebf3c823cb24c439f",
-          "sha1": "c19eb47ac6616fa880ef7f3ea629df2ef8fcdcbf",
-          "md5": "ce29679dbd6352de1d7e09cb1daf5dc9"
+          "size": 2585120,
+          "sha512": "caf75dd094439ed9c867485504cdb575fac80587757da462d6a715847193fe9743fb43ee3b6d9f5f57754e72f4882fe59b37e8394b2fef8a4198aafdee0829d4",
+          "sha256": "dd15e8484656a5418dee92bd75191e433be7662944dc512da83434433f8f093d",
+          "sha1": "17c217ae61e5da898987fb9f186985857f0bbe0d",
+          "md5": "cc70d72432ab29c8102fc1574af28f0a"
         }
       ]
     }
