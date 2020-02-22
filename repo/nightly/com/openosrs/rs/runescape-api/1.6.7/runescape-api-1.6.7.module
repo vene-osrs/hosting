@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.2",
-      "buildId": "tehcyrssk5hj3h4w43dl5n33ay"
+      "buildId": "vdbxtl2775avvczjtch6p6o74m"
     }
   },
   "variants": [
@@ -45,10 +45,10 @@
           "name": "runescape-api-1.6.7.jar",
           "url": "runescape-api-1.6.7.jar",
           "size": 55336,
-          "sha512": "3a475eaa45edecf14a9f7e6ee455918d26bae7b496295ea0f5035d419bbd124dc5750c231ba6b2728405795f51e99d2772a8ccade31a3be92b5ec9f406e51a7a",
-          "sha256": "816088fd2a8c29d88f06ab240d53a6b995dc790c6326496c3de2ea4757641f36",
-          "sha1": "de3153ae4f7812516e6aa9ac9542874ef33e5cf1",
-          "md5": "ee0843cfe9cedce1a35f63723711d68f"
+          "sha512": "36b0d2e2bb8e9b12843847dbd6bf6dca901291a86990d15e79187d991b5ee06af075b18f30429a6b2415db9c77683f753c8e987ae7404b662821408d5f2e15cf",
+          "sha256": "58f37e8ae5eabb436cd1c702d49a0c4cffe408870fe0cfedde7a08cdaa9504d9",
+          "sha1": "527c1353234520ab1080a8ed14e64ba72a30b97c",
+          "md5": "9b134c06d7000708f89ee2d1bc4ee3e4"
         }
       ]
     },
@@ -82,10 +82,10 @@
           "name": "runescape-api-1.6.7.jar",
           "url": "runescape-api-1.6.7.jar",
           "size": 55336,
-          "sha512": "3a475eaa45edecf14a9f7e6ee455918d26bae7b496295ea0f5035d419bbd124dc5750c231ba6b2728405795f51e99d2772a8ccade31a3be92b5ec9f406e51a7a",
-          "sha256": "816088fd2a8c29d88f06ab240d53a6b995dc790c6326496c3de2ea4757641f36",
-          "sha1": "de3153ae4f7812516e6aa9ac9542874ef33e5cf1",
-          "md5": "ee0843cfe9cedce1a35f63723711d68f"
+          "sha512": "36b0d2e2bb8e9b12843847dbd6bf6dca901291a86990d15e79187d991b5ee06af075b18f30429a6b2415db9c77683f753c8e987ae7404b662821408d5f2e15cf",
+          "sha256": "58f37e8ae5eabb436cd1c702d49a0c4cffe408870fe0cfedde7a08cdaa9504d9",
+          "sha1": "527c1353234520ab1080a8ed14e64ba72a30b97c",
+          "md5": "9b134c06d7000708f89ee2d1bc4ee3e4"
         }
       ]
     }
