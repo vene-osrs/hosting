@@ -10,8 +10,8 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "6.2",
-      "buildId": "f6hkzu546fcazeq5qs7zy5fjv4"
+      "version": "6.2.1",
+      "buildId": "fvldghacfbckjmgoj444djr2ge"
     }
   },
   "variants": [
@@ -28,11 +28,11 @@
         {
           "name": "injected-client-1.6.7.jar",
           "url": "injected-client-1.6.7.jar",
-          "size": 2265954,
-          "sha512": "06eeffe8abf39c829d45b23575aa7b8ebcd41436b43c969bbd0305a01356b28ce3cda697041b39e3886ca6be0d8582365b7bd7ad56ff8deeaa1b334f62317643",
-          "sha256": "b8899eee2faea9e522e80a16497578c88735f32f845d79cf95e1564e6f6ddc8e",
-          "sha1": "a6e27e77b8174291b6a492eff4db7a15a6cad180",
-          "md5": "37c74652f148ec436c00ffeb53324808"
+          "size": 2266350,
+          "sha512": "66a3ae9b6c5db4bc2095a64f0178c3b5030bd6d834240b2d9111b804c78531f60d2bce29e46dbfb17e7fd1261ba4250c61f12e6140c7a1a59e03f3f2b82f6c87",
+          "sha256": "51fe20423faccf0cff737e1a70d1399d0bbd46f2c6d5da39bcb2fb7046ad981a",
+          "sha1": "5a7fd1a0c2d9a6999192f604d62065f950c7b0ca",
+          "md5": "f6689f7b550c736d3b7923d8893c1e57"
         }
       ]
     },
@@ -49,11 +49,11 @@
         {
           "name": "injected-client-1.6.7.jar",
           "url": "injected-client-1.6.7.jar",
-          "size": 2265954,
-          "sha512": "06eeffe8abf39c829d45b23575aa7b8ebcd41436b43c969bbd0305a01356b28ce3cda697041b39e3886ca6be0d8582365b7bd7ad56ff8deeaa1b334f62317643",
-          "sha256": "b8899eee2faea9e522e80a16497578c88735f32f845d79cf95e1564e6f6ddc8e",
-          "sha1": "a6e27e77b8174291b6a492eff4db7a15a6cad180",
-          "md5": "37c74652f148ec436c00ffeb53324808"
+          "size": 2266350,
+          "sha512": "66a3ae9b6c5db4bc2095a64f0178c3b5030bd6d834240b2d9111b804c78531f60d2bce29e46dbfb17e7fd1261ba4250c61f12e6140c7a1a59e03f3f2b82f6c87",
+          "sha256": "51fe20423faccf0cff737e1a70d1399d0bbd46f2c6d5da39bcb2fb7046ad981a",
+          "sha1": "5a7fd1a0c2d9a6999192f604d62065f950c7b0ca",
+          "md5": "f6689f7b550c736d3b7923d8893c1e57"
         }
       ]
     }
