@@ -10,8 +10,8 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "6.2",
-      "buildId": "f6hkzu546fcazeq5qs7zy5fjv4"
+      "version": "6.2.1",
+      "buildId": "fvldghacfbckjmgoj444djr2ge"
     }
   },
   "variants": [
@@ -37,11 +37,11 @@
         {
           "name": "runelite-client-1.6.7.jar",
           "url": "runelite-client-1.6.7.jar",
-          "size": 2591635,
-          "sha512": "bae6326daf62c7db3c6ab59b2892df64369872f2658175f191c28b78506147c109ca465778dc87d2d1467cb351b2e019ab0022e119e3b3b82b324ed137421091",
-          "sha256": "7cd66287ba5b6ed794a30f8299f32a5247d0b35dabcc482ffc54c37392513cc9",
-          "sha1": "8d612d6d07d803994694a3c86aecca809ace10a5",
-          "md5": "d678b352b584a8aabd874f885e076579"
+          "size": 2591459,
+          "sha512": "c403c57a8c22f8487dbd29558e864589b5edf0b0968f1d9231acc7c667cf10841f6990e6ba00b7d69e36c5147bea9ca82bbb27f3a9da9d3e648a1afe1b06db9f",
+          "sha256": "b2cb37ca56f255f18758d2b8164e65b8079a6405afb62081e618b7ea8aff6dcf",
+          "sha1": "6a4ed38838cfa96106587c3c80a5670e5d717398",
+          "md5": "298f08524bcc711ea6765c4b92d726c2"
         }
       ]
     },
@@ -404,11 +404,11 @@
         {
           "name": "runelite-client-1.6.7.jar",
           "url": "runelite-client-1.6.7.jar",
-          "size": 2591635,
-          "sha512": "bae6326daf62c7db3c6ab59b2892df64369872f2658175f191c28b78506147c109ca465778dc87d2d1467cb351b2e019ab0022e119e3b3b82b324ed137421091",
-          "sha256": "7cd66287ba5b6ed794a30f8299f32a5247d0b35dabcc482ffc54c37392513cc9",
-          "sha1": "8d612d6d07d803994694a3c86aecca809ace10a5",
-          "md5": "d678b352b584a8aabd874f885e076579"
+          "size": 2591459,
+          "sha512": "c403c57a8c22f8487dbd29558e864589b5edf0b0968f1d9231acc7c667cf10841f6990e6ba00b7d69e36c5147bea9ca82bbb27f3a9da9d3e648a1afe1b06db9f",
+          "sha256": "b2cb37ca56f255f18758d2b8164e65b8079a6405afb62081e618b7ea8aff6dcf",
+          "sha1": "6a4ed38838cfa96106587c3c80a5670e5d717398",
+          "md5": "298f08524bcc711ea6765c4b92d726c2"
         }
       ]
     }
