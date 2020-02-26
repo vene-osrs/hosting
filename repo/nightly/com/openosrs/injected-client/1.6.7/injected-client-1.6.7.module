@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.2.1",
-      "buildId": "ohvik6533vgwjjlgurbourb26y"
+      "buildId": "d4qzqijtmjbhlgfbxzdumfowcq"
     }
   },
   "variants": [
@@ -29,10 +29,10 @@
           "name": "injected-client-1.6.7.jar",
           "url": "injected-client-1.6.7.jar",
           "size": 2266350,
-          "sha512": "66a3ae9b6c5db4bc2095a64f0178c3b5030bd6d834240b2d9111b804c78531f60d2bce29e46dbfb17e7fd1261ba4250c61f12e6140c7a1a59e03f3f2b82f6c87",
-          "sha256": "51fe20423faccf0cff737e1a70d1399d0bbd46f2c6d5da39bcb2fb7046ad981a",
-          "sha1": "5a7fd1a0c2d9a6999192f604d62065f950c7b0ca",
-          "md5": "f6689f7b550c736d3b7923d8893c1e57"
+          "sha512": "54602dafc7694772104943e1de844fba9de6a7ebc4a33f0c6ed45044d01c86d97cb013d9b0e2c1f8fb42f12ff0360da17dde76b1a0f2324015809f8e155bd0e1",
+          "sha256": "d5785a3c2ebb711ec117edd7bc021ade3b1ad5b8fb3c652c23f9fbdfe7f87a93",
+          "sha1": "8b7c198e21a4b64f8b0c347975dd98303bf3a897",
+          "md5": "1afdc4b666d221fc44b2873f565b38c4"
         }
       ]
     },
@@ -50,10 +50,10 @@
           "name": "injected-client-1.6.7.jar",
           "url": "injected-client-1.6.7.jar",
           "size": 2266350,
-          "sha512": "66a3ae9b6c5db4bc2095a64f0178c3b5030bd6d834240b2d9111b804c78531f60d2bce29e46dbfb17e7fd1261ba4250c61f12e6140c7a1a59e03f3f2b82f6c87",
-          "sha256": "51fe20423faccf0cff737e1a70d1399d0bbd46f2c6d5da39bcb2fb7046ad981a",
-          "sha1": "5a7fd1a0c2d9a6999192f604d62065f950c7b0ca",
-          "md5": "f6689f7b550c736d3b7923d8893c1e57"
+          "sha512": "54602dafc7694772104943e1de844fba9de6a7ebc4a33f0c6ed45044d01c86d97cb013d9b0e2c1f8fb42f12ff0360da17dde76b1a0f2324015809f8e155bd0e1",
+          "sha256": "d5785a3c2ebb711ec117edd7bc021ade3b1ad5b8fb3c652c23f9fbdfe7f87a93",
+          "sha1": "8b7c198e21a4b64f8b0c347975dd98303bf3a897",
+          "md5": "1afdc4b666d221fc44b2873f565b38c4"
         }
       ]
     }
