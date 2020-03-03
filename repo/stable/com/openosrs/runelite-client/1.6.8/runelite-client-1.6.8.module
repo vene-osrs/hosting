@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.2.1",
-      "buildId": "34hxbuqbbzgmjnhkrnxyok3gim"
+      "buildId": "lbsuan3fjnglbiutzky6dcavye"
     }
   },
   "variants": [
@@ -37,11 +37,11 @@
         {
           "name": "runelite-client-1.6.8.jar",
           "url": "runelite-client-1.6.8.jar",
-          "size": 2595414,
-          "sha512": "5dc9e293e4310e953b94364bbb05f5bd4de96c1d61505be5355ae94cba01989165defbe9d455024d42dc582c80f7a3cebc7d0b49d11489833ad17fa5f19d3334",
-          "sha256": "1363d8fe935bcf0b467643c81df7b1ac72296d3aa318defaed4e4c7331d86ec0",
-          "sha1": "7ed40e672e4a8e4495fd73dfb09d3a934bd644f3",
-          "md5": "b674d8f93a45aedddc810a94595ff2da"
+          "size": 2607430,
+          "sha512": "0fff58614d6107adc344c4aeafdbe0ec2ffaceb5785aa6f1eb3aa4ed0d9a0005e06af20bdecb24a7dcd5addd109c6e8c2edf4576dbe4e266e9cd618722383457",
+          "sha256": "6f6df4f2aed25ca9c04f6545717e87e100cfa0de25fe22a287d665bb17857132",
+          "sha1": "1cbec99568fd49dcb24cf01216007c01c828f3b8",
+          "md5": "ea8b9ce290366aba46b592b346879274"
         }
       ]
     },
@@ -208,6 +208,13 @@
           "module": "sentry",
           "version": {
             "requires": "1.7.29"
+          }
+        },
+        {
+          "group": "com.github.zafarkhaja",
+          "module": "java-semver",
+          "version": {
+            "requires": "0.9.0"
           }
         },
         {
@@ -404,11 +411,11 @@
         {
           "name": "runelite-client-1.6.8.jar",
           "url": "runelite-client-1.6.8.jar",
-          "size": 2595414,
-          "sha512": "5dc9e293e4310e953b94364bbb05f5bd4de96c1d61505be5355ae94cba01989165defbe9d455024d42dc582c80f7a3cebc7d0b49d11489833ad17fa5f19d3334",
-          "sha256": "1363d8fe935bcf0b467643c81df7b1ac72296d3aa318defaed4e4c7331d86ec0",
-          "sha1": "7ed40e672e4a8e4495fd73dfb09d3a934bd644f3",
-          "md5": "b674d8f93a45aedddc810a94595ff2da"
+          "size": 2607430,
+          "sha512": "0fff58614d6107adc344c4aeafdbe0ec2ffaceb5785aa6f1eb3aa4ed0d9a0005e06af20bdecb24a7dcd5addd109c6e8c2edf4576dbe4e266e9cd618722383457",
+          "sha256": "6f6df4f2aed25ca9c04f6545717e87e100cfa0de25fe22a287d665bb17857132",
+          "sha1": "1cbec99568fd49dcb24cf01216007c01c828f3b8",
+          "md5": "ea8b9ce290366aba46b592b346879274"
         }
       ]
     }
