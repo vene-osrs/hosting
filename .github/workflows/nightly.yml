@@ -30,15 +30,15 @@ jobs:
         working-directory: /home/runner/work/hosting/runelite
 
       - name: Assembling
-        run: ./gradlew assemble --console=plain -PreleaseBuild
+        run: ./gradlew assemble --console=plain
         working-directory: /home/runner/work/hosting/runelite
 
       - name: Building
-        run: ./gradlew build --stacktrace -x test -x checkstyleMain --console=plain -PreleaseBuild
+        run: ./gradlew build --stacktrace -x test -x checkstyleMain --console=plain
         working-directory: /home/runner/work/hosting/runelite
 
       - name: Bootstrap
-        run: ./gradlew :runelite-client:bootstrapNightly --stacktrace -x test -x checkstyleMain --console=plain -PreleaseBuild
+        run: ./gradlew :runelite-client:bootstrapNightly --stacktrace -x test -x checkstyleMain --console=plain
         working-directory: /home/runner/work/hosting/runelite
 
       - name: Copy bootstrap
