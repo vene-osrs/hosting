@@ -1,0 +1,61 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.openosrs",
+    "module": "injected-client",
+    "version": "3.0.7",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.2.2",
+      "buildId": "55n3hepqjvgqlcm7p4lvs3tloq"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "injected-client-3.0.7.jar",
+          "url": "injected-client-3.0.7.jar",
+          "size": 2266379,
+          "sha512": "c9d1c5dac1c62e5d33e7d6d67dc16d058b008a20e6b002b3a612a1539fdd5d5bb666a32a3b4396c9b80e416a5d5b82150f94f182bca3e053d56a017cbbaa86d0",
+          "sha256": "ca81a87d428a9e29c8aa8bef14152229e5ada9080519f2bae64739e048e519de",
+          "sha1": "4073481309539e98614a3b3d80b000c66b4efc7a",
+          "md5": "bae629940857e5e5010c2aaa44dc93b0"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "injected-client-3.0.7.jar",
+          "url": "injected-client-3.0.7.jar",
+          "size": 2266379,
+          "sha512": "c9d1c5dac1c62e5d33e7d6d67dc16d058b008a20e6b002b3a612a1539fdd5d5bb666a32a3b4396c9b80e416a5d5b82150f94f182bca3e053d56a017cbbaa86d0",
+          "sha256": "ca81a87d428a9e29c8aa8bef14152229e5ada9080519f2bae64739e048e519de",
+          "sha1": "4073481309539e98614a3b3d80b000c66b4efc7a",
+          "md5": "bae629940857e5e5010c2aaa44dc93b0"
+        }
+      ]
+    }
+  ]
+}
