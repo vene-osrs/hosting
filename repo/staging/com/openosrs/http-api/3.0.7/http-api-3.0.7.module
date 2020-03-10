@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.2.2",
-      "buildId": "7ukznm4zhfczpkbzlvj6brvxs4"
+      "buildId": "fv3xrqpvcfgmllx27r5wuy7p5q"
     }
   },
   "variants": [
@@ -29,10 +29,10 @@
           "name": "http-api-3.0.7.jar",
           "url": "http-api-3.0.7.jar",
           "size": 164353,
-          "sha512": "cc00584d92dd7e08e65bc70326d53c5fc56d3ccbbec29b4b00daf38ecb311f5f7ab94f6c0dfd8dcf9db739dd8eaad5a9bb5256ea73ba4bd70cccec15eaa8cf6b",
-          "sha256": "fbf3f0960eaf396f9014ea7ae51382328a2e59f5f0cfb0501f2a6759c837f63c",
-          "sha1": "6e55d8329ffe1fb92bb9c4798761c0ed7ea6334b",
-          "md5": "04848471db9cf63245aaab06f238ad9e"
+          "sha512": "6d961735acbb87ce6190b557eff1f65efee876dee5a097c9f473a988dce70c0e4ea3fbf374a1eb85148f39513bbb08d16cdd7a4a7b1732fa3558bfd0c3bbecdf",
+          "sha256": "3253b2a087c7ee8d97d7db14c928bb882e8e40d4fe4a43a1953ddfc1397069cc",
+          "sha1": "7c78476f130ce8df6494c3962340a126a2b456d1",
+          "md5": "415745e88150b3345ab04d45fc282ec0"
         }
       ]
     },
@@ -64,21 +64,21 @@
           "group": "com.squareup.okhttp3",
           "module": "okhttp",
           "version": {
-            "requires": "4.3.0"
+            "requires": "4.4.0"
           }
         },
         {
           "group": "io.reactivex.rxjava2",
           "module": "rxjava",
           "version": {
-            "requires": "2.2.16"
+            "requires": "2.2.18"
           }
         },
         {
           "group": "org.apache.commons",
           "module": "commons-csv",
           "version": {
-            "requires": "1.7"
+            "requires": "1.8"
           }
         },
         {
@@ -101,10 +101,10 @@
           "name": "http-api-3.0.7.jar",
           "url": "http-api-3.0.7.jar",
           "size": 164353,
-          "sha512": "cc00584d92dd7e08e65bc70326d53c5fc56d3ccbbec29b4b00daf38ecb311f5f7ab94f6c0dfd8dcf9db739dd8eaad5a9bb5256ea73ba4bd70cccec15eaa8cf6b",
-          "sha256": "fbf3f0960eaf396f9014ea7ae51382328a2e59f5f0cfb0501f2a6759c837f63c",
-          "sha1": "6e55d8329ffe1fb92bb9c4798761c0ed7ea6334b",
-          "md5": "04848471db9cf63245aaab06f238ad9e"
+          "sha512": "6d961735acbb87ce6190b557eff1f65efee876dee5a097c9f473a988dce70c0e4ea3fbf374a1eb85148f39513bbb08d16cdd7a4a7b1732fa3558bfd0c3bbecdf",
+          "sha256": "3253b2a087c7ee8d97d7db14c928bb882e8e40d4fe4a43a1953ddfc1397069cc",
+          "sha1": "7c78476f130ce8df6494c3962340a126a2b456d1",
+          "md5": "415745e88150b3345ab04d45fc282ec0"
         }
       ]
     }
