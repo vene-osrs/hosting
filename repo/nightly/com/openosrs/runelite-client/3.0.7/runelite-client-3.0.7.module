@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.2.2",
-      "buildId": "a2gjxh77vngi3krupglpd6imgi"
+      "buildId": "75hjafas2bcyriu3ba6eqlelyi"
     }
   },
   "variants": [
@@ -38,10 +38,10 @@
           "name": "runelite-client-3.0.7.jar",
           "url": "runelite-client-3.0.7.jar",
           "size": 2607164,
-          "sha512": "929ca32282443b87cd0c28325d6c4028c069cc24854beee74565a5497752200dbe05609e29603cba6612ff62868887d0e34252a68d8166b5d79da36fc3d66121",
-          "sha256": "ff07a69f1202e614c90adf2bc889a91de247a3ba65ebc2198d08a604228d8100",
-          "sha1": "a1db184557c1512b452ca1b47a793039fc8df90d",
-          "md5": "09cbd901ce5fe913d0e213e7940bad00"
+          "sha512": "448197de79d6ee4b5297a0cc3a4e103396c0b76dc5575c36d6ba3218176281a21cbc073ab925dcf21601b324e0c8e90ca5764e47d6e6bb3f230f3665610ce03f",
+          "sha256": "1f584abb9d651e344bc316d1b06343c733d1c077f6f32efa954a3ce50b22bd1d",
+          "sha1": "7ab3f1201193de22ede98a09e1faf12e0f049db4",
+          "md5": "8e552133b0b0e66bdcccfb36d5754c81"
         }
       ]
     },
@@ -109,14 +109,14 @@
           "group": "com.squareup.okhttp3",
           "module": "okhttp",
           "version": {
-            "requires": "4.3.0"
+            "requires": "4.4.0"
           }
         },
         {
           "group": "io.reactivex.rxjava2",
           "module": "rxjava",
           "version": {
-            "requires": "2.2.16"
+            "requires": "2.2.18"
           }
         },
         {
@@ -165,7 +165,7 @@
           "group": "org.jetbrains",
           "module": "annotations",
           "version": {
-            "requires": "18.0.0"
+            "requires": "19.0.0"
           }
         },
         {
@@ -186,28 +186,28 @@
           "group": "org.jooq",
           "module": "jooq",
           "version": {
-            "requires": "3.12.3"
+            "requires": "3.13.0"
           }
         },
         {
           "group": "org.jooq",
           "module": "jooq-codegen",
           "version": {
-            "requires": "3.12.3"
+            "requires": "3.13.0"
           }
         },
         {
           "group": "org.jooq",
           "module": "jooq-meta",
           "version": {
-            "requires": "3.12.3"
+            "requires": "3.13.0"
           }
         },
         {
           "group": "io.sentry",
           "module": "sentry",
           "version": {
-            "requires": "1.7.29"
+            "requires": "1.7.30"
           }
         },
         {
@@ -241,7 +241,7 @@
           "group": "org.pf4j",
           "module": "pf4j-update",
           "version": {
-            "requires": "2.2.0"
+            "requires": "2.3.0"
           }
         },
         {
@@ -249,13 +249,6 @@
           "module": "http-api",
           "version": {
             "requires": "3.0.7"
-          }
-        },
-        {
-          "group": "com.github.joonasvali.naturalmouse",
-          "module": "naturalmouse",
-          "version": {
-            "requires": "2.0.2"
           }
         },
         {
@@ -412,10 +405,10 @@
           "name": "runelite-client-3.0.7.jar",
           "url": "runelite-client-3.0.7.jar",
           "size": 2607164,
-          "sha512": "929ca32282443b87cd0c28325d6c4028c069cc24854beee74565a5497752200dbe05609e29603cba6612ff62868887d0e34252a68d8166b5d79da36fc3d66121",
-          "sha256": "ff07a69f1202e614c90adf2bc889a91de247a3ba65ebc2198d08a604228d8100",
-          "sha1": "a1db184557c1512b452ca1b47a793039fc8df90d",
-          "md5": "09cbd901ce5fe913d0e213e7940bad00"
+          "sha512": "448197de79d6ee4b5297a0cc3a4e103396c0b76dc5575c36d6ba3218176281a21cbc073ab925dcf21601b324e0c8e90ca5764e47d6e6bb3f230f3665610ce03f",
+          "sha256": "1f584abb9d651e344bc316d1b06343c733d1c077f6f32efa954a3ce50b22bd1d",
+          "sha1": "7ab3f1201193de22ede98a09e1faf12e0f049db4",
+          "md5": "8e552133b0b0e66bdcccfb36d5754c81"
         }
       ]
     }
