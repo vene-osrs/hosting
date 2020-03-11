@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.2.2",
-      "buildId": "75hjafas2bcyriu3ba6eqlelyi"
+      "buildId": "36hbq5herfeilevtvng3rccmvu"
     }
   },
   "variants": [
@@ -29,10 +29,10 @@
           "name": "injected-client-3.0.7.jar",
           "url": "injected-client-3.0.7.jar",
           "size": 2266379,
-          "sha512": "48dac5e774ebb549d3443723446261f81375ad537f99565dfd6a29e7e05935827c49c8ade4be990b5346199e0089b14c47e831ec3318390bf2d45938dd520389",
-          "sha256": "69ac7820bec8f1def12940ca196368dda8146ac164f932895c5478cb51c2305e",
-          "sha1": "2d1c47794606be09cc721db43bc56155dc707d55",
-          "md5": "d89f5467407c66df60d99b37c6cc64a3"
+          "sha512": "c667b3214ff52c181418f04afc81dd749c08e67d0b04e4cdfa98a210639a99f9382ed5fcf6c6c8190f1265a996b363a95b64a127d429cac05223e5aeeed6117c",
+          "sha256": "b68efafee204aed8ccc21876f71a3330d29fd4d97847429bb98a7ac0791579d0",
+          "sha1": "cc17c5e3bb11504822f203783c7811500990d7ad",
+          "md5": "b122e7a72c49842d434adafbba6f96a4"
         }
       ]
     },
@@ -50,10 +50,10 @@
           "name": "injected-client-3.0.7.jar",
           "url": "injected-client-3.0.7.jar",
           "size": 2266379,
-          "sha512": "48dac5e774ebb549d3443723446261f81375ad537f99565dfd6a29e7e05935827c49c8ade4be990b5346199e0089b14c47e831ec3318390bf2d45938dd520389",
-          "sha256": "69ac7820bec8f1def12940ca196368dda8146ac164f932895c5478cb51c2305e",
-          "sha1": "2d1c47794606be09cc721db43bc56155dc707d55",
-          "md5": "d89f5467407c66df60d99b37c6cc64a3"
+          "sha512": "c667b3214ff52c181418f04afc81dd749c08e67d0b04e4cdfa98a210639a99f9382ed5fcf6c6c8190f1265a996b363a95b64a127d429cac05223e5aeeed6117c",
+          "sha256": "b68efafee204aed8ccc21876f71a3330d29fd4d97847429bb98a7ac0791579d0",
+          "sha1": "cc17c5e3bb11504822f203783c7811500990d7ad",
+          "md5": "b122e7a72c49842d434adafbba6f96a4"
         }
       ]
     }
