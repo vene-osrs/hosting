@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.2.2",
-      "buildId": "tccszjxm3vcthmmoa6ifzcvqfu"
+      "buildId": "5vb2hqqn6zavzl4wc5yi2dmkka"
     }
   },
   "variants": [
@@ -28,11 +28,11 @@
         {
           "name": "http-api-3.0.7.jar",
           "url": "http-api-3.0.7.jar",
-          "size": 164353,
-          "sha512": "b32fc0a1190407749390d35cbef1cfe96fe8046a9788802ce1c721854fd5b564c4c33059e302d5cc5d53489ded7df754bede6ebe0e29ba8127c7c7fa9847ea7d",
-          "sha256": "cbc66c67b0aac94ca10bef8ab90fa24a1c1155e3eb493cf3afcf6c1b2b8cdca3",
-          "sha1": "598f006a787412b8bed2d881ba39c903064b1473",
-          "md5": "78d0498eefaa2e6aa4efcbd2e15e6e60"
+          "size": 164354,
+          "sha512": "1c6b39874034d866cca3aa8fa7a431067276d561550e114738dfb7cb482ee5d7125ea9474b4e45bfb2087feb8836778d4a132379bdecc654f19651b6868317b0",
+          "sha256": "da8ec5ed3284ead5e455dd23b8d8a5ef838a8f36b78fd86b3297a3bea5a28bce",
+          "sha1": "ea8581c905a235c3fc94475e12bc8681b9a8358d",
+          "md5": "fb593bc5b877d08888f3d61c76db917e"
         }
       ]
     },
@@ -64,21 +64,21 @@
           "group": "com.squareup.okhttp3",
           "module": "okhttp",
           "version": {
-            "requires": "4.3.0"
+            "requires": "4.4.0"
           }
         },
         {
           "group": "io.reactivex.rxjava2",
           "module": "rxjava",
           "version": {
-            "requires": "2.2.16"
+            "requires": "2.2.18"
           }
         },
         {
           "group": "org.apache.commons",
           "module": "commons-csv",
           "version": {
-            "requires": "1.7"
+            "requires": "1.8"
           }
         },
         {
@@ -100,11 +100,11 @@
         {
           "name": "http-api-3.0.7.jar",
           "url": "http-api-3.0.7.jar",
-          "size": 164353,
-          "sha512": "b32fc0a1190407749390d35cbef1cfe96fe8046a9788802ce1c721854fd5b564c4c33059e302d5cc5d53489ded7df754bede6ebe0e29ba8127c7c7fa9847ea7d",
-          "sha256": "cbc66c67b0aac94ca10bef8ab90fa24a1c1155e3eb493cf3afcf6c1b2b8cdca3",
-          "sha1": "598f006a787412b8bed2d881ba39c903064b1473",
-          "md5": "78d0498eefaa2e6aa4efcbd2e15e6e60"
+          "size": 164354,
+          "sha512": "1c6b39874034d866cca3aa8fa7a431067276d561550e114738dfb7cb482ee5d7125ea9474b4e45bfb2087feb8836778d4a132379bdecc654f19651b6868317b0",
+          "sha256": "da8ec5ed3284ead5e455dd23b8d8a5ef838a8f36b78fd86b3297a3bea5a28bce",
+          "sha1": "ea8581c905a235c3fc94475e12bc8681b9a8358d",
+          "md5": "fb593bc5b877d08888f3d61c76db917e"
         }
       ]
     }
