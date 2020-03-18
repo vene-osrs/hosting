@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.2.2",
-      "buildId": "hmk56q2mbrb6rjyiokkeytyugm"
+      "buildId": "qcymmdy7tres5omlgfo2oo6cgu"
     }
   },
   "variants": [
@@ -37,11 +37,11 @@
         {
           "name": "runelite-client-3.1.0.jar",
           "url": "runelite-client-3.1.0.jar",
-          "size": 2612969,
-          "sha512": "bc469b4fd9af672480b91c0cb4a0b428be3b1ee0affe65dbc541c9d2dd3d948598c13748084e29b85db6644942b91f896356f7585dac24d9507dbf7476ef3b0b",
-          "sha256": "2a553a3c640a3bcf9e469a0226615dc1cd3e9fc7c6e8250347cfa6dcecdd8cb6",
-          "sha1": "d60a867c3c8f16383e0070e7c95f3a5c45603eac",
-          "md5": "f0ca49833c763ce9d84788213bbc87ca"
+          "size": 2615602,
+          "sha512": "3b583ac720e8113df4df44e07956d5ef347bc1caa753fe695f03cb10742a9d02d822de0705b7dd021d7245494dbb87eb5d8ae1747fd8540f3c2fbb840e473b8d",
+          "sha256": "e39e96be4aacad5f3ee130b1fa2b42da17888a25733536caaafa91b4b8a8dfef",
+          "sha1": "040b93bcb2040713dd289e304bfc0000cd936993",
+          "md5": "b5af6bd697f09890efeb9efc0b7d8687"
         }
       ]
     },
@@ -116,7 +116,7 @@
           "group": "io.reactivex.rxjava3",
           "module": "rxjava",
           "version": {
-            "requires": "3.0.0"
+            "requires": "3.0.1"
           }
         },
         {
@@ -404,11 +404,11 @@
         {
           "name": "runelite-client-3.1.0.jar",
           "url": "runelite-client-3.1.0.jar",
-          "size": 2612969,
-          "sha512": "bc469b4fd9af672480b91c0cb4a0b428be3b1ee0affe65dbc541c9d2dd3d948598c13748084e29b85db6644942b91f896356f7585dac24d9507dbf7476ef3b0b",
-          "sha256": "2a553a3c640a3bcf9e469a0226615dc1cd3e9fc7c6e8250347cfa6dcecdd8cb6",
-          "sha1": "d60a867c3c8f16383e0070e7c95f3a5c45603eac",
-          "md5": "f0ca49833c763ce9d84788213bbc87ca"
+          "size": 2615602,
+          "sha512": "3b583ac720e8113df4df44e07956d5ef347bc1caa753fe695f03cb10742a9d02d822de0705b7dd021d7245494dbb87eb5d8ae1747fd8540f3c2fbb840e473b8d",
+          "sha256": "e39e96be4aacad5f3ee130b1fa2b42da17888a25733536caaafa91b4b8a8dfef",
+          "sha1": "040b93bcb2040713dd289e304bfc0000cd936993",
+          "md5": "b5af6bd697f09890efeb9efc0b7d8687"
         }
       ]
     }

@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.2.2",
-      "buildId": "hmk56q2mbrb6rjyiokkeytyugm"
+      "buildId": "qcymmdy7tres5omlgfo2oo6cgu"
     }
   },
   "variants": [
@@ -28,11 +28,11 @@
         {
           "name": "http-api-3.1.0.jar",
           "url": "http-api-3.1.0.jar",
-          "size": 164402,
-          "sha512": "f9779779494174b3f932dc5b2185ab150ce00af24704e21719c455d13d504a824c5fa4794684f60597c67449e08d5038af86dd03b1a319a5aed11c557ef33922",
-          "sha256": "68805c8555cf965b534ca7af7c967e97a2ecd330be51132b22891bad1e6e3de7",
-          "sha1": "f46ed3bce89fba7a67fe3f18f212fc3bf98504f0",
-          "md5": "c41b0189989699fe3d0ced12f748bcb0"
+          "size": 164404,
+          "sha512": "4115c67ea2ad3368aac11b68d386d74597522fdd49389bac98876cd3faf08f65e0890f824bee011ce927a2565e6d89f480a964ad9508aac1453a1c6120e5d546",
+          "sha256": "937b6ce20adaa5252584eb02717cc5759b739d00c2159f8ac30a04c607a7280b",
+          "sha1": "bf82ab271b66fec5a1814cb53e438d8f76c63568",
+          "md5": "c82cf4eb161012d994050621f78f4d00"
         }
       ]
     },
@@ -71,7 +71,7 @@
           "group": "io.reactivex.rxjava3",
           "module": "rxjava",
           "version": {
-            "requires": "3.0.0"
+            "requires": "3.0.1"
           }
         },
         {
@@ -100,11 +100,11 @@
         {
           "name": "http-api-3.1.0.jar",
           "url": "http-api-3.1.0.jar",
-          "size": 164402,
-          "sha512": "f9779779494174b3f932dc5b2185ab150ce00af24704e21719c455d13d504a824c5fa4794684f60597c67449e08d5038af86dd03b1a319a5aed11c557ef33922",
-          "sha256": "68805c8555cf965b534ca7af7c967e97a2ecd330be51132b22891bad1e6e3de7",
-          "sha1": "f46ed3bce89fba7a67fe3f18f212fc3bf98504f0",
-          "md5": "c41b0189989699fe3d0ced12f748bcb0"
+          "size": 164404,
+          "sha512": "4115c67ea2ad3368aac11b68d386d74597522fdd49389bac98876cd3faf08f65e0890f824bee011ce927a2565e6d89f480a964ad9508aac1453a1c6120e5d546",
+          "sha256": "937b6ce20adaa5252584eb02717cc5759b739d00c2159f8ac30a04c607a7280b",
+          "sha1": "bf82ab271b66fec5a1814cb53e438d8f76c63568",
+          "md5": "c82cf4eb161012d994050621f78f4d00"
         }
       ]
     }
