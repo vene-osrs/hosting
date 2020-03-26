@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.3",
-      "buildId": "l45pjqpkvree7cr7hkypvzmdwe"
+      "buildId": "xye5kk5muffe7bnunguohz2kmq"
     }
   },
   "variants": [
@@ -38,10 +38,10 @@
           "name": "runelite-client-3.1.0.jar",
           "url": "runelite-client-3.1.0.jar",
           "size": 2616442,
-          "sha512": "82e3de7f41996952583e01c2653e9a9570d8b93692d3f1d044846e3a515e48814172eab21f76f72e5697ceae15a0b06af1d5026712bd59b4b5d8eb48fa710be8",
-          "sha256": "ecf0244a59126beb85d342ddbdbf243d92dc5f64d46a957c056041df9652ab78",
-          "sha1": "4e26570959938e6deab1011abf8d308bf60952ef",
-          "md5": "3b5a4f01fa3c20362985c5cf37441bd1"
+          "sha512": "c601a76394cb655263b0ec837da59d62f659cc58c386413b7d8dfe29136c692975ed520ba1d60a1eb883bef39414b540d893949f1ce73ae40f9c9613943a22c0",
+          "sha256": "d8f64ec4350aa5d67001554bbad288329ab3ccbbab9d19dab2e54862aa2081e9",
+          "sha1": "cac6b4e88607c312c947c50057d0fd3f1f55569a",
+          "md5": "87872ec589867eb064c38b906afb0992"
         }
       ]
     },
@@ -405,10 +405,10 @@
           "name": "runelite-client-3.1.0.jar",
           "url": "runelite-client-3.1.0.jar",
           "size": 2616442,
-          "sha512": "82e3de7f41996952583e01c2653e9a9570d8b93692d3f1d044846e3a515e48814172eab21f76f72e5697ceae15a0b06af1d5026712bd59b4b5d8eb48fa710be8",
-          "sha256": "ecf0244a59126beb85d342ddbdbf243d92dc5f64d46a957c056041df9652ab78",
-          "sha1": "4e26570959938e6deab1011abf8d308bf60952ef",
-          "md5": "3b5a4f01fa3c20362985c5cf37441bd1"
+          "sha512": "c601a76394cb655263b0ec837da59d62f659cc58c386413b7d8dfe29136c692975ed520ba1d60a1eb883bef39414b540d893949f1ce73ae40f9c9613943a22c0",
+          "sha256": "d8f64ec4350aa5d67001554bbad288329ab3ccbbab9d19dab2e54862aa2081e9",
+          "sha1": "cac6b4e88607c312c947c50057d0fd3f1f55569a",
+          "md5": "87872ec589867eb064c38b906afb0992"
         }
       ]
     }
