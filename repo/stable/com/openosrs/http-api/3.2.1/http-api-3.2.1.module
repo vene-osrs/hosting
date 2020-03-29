@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.3",
-      "buildId": "kibasrx7xbaltoxxafrfuuumzi"
+      "buildId": "czwcvidwzrditmorkdpzkbnezy"
     }
   },
   "variants": [
@@ -29,10 +29,10 @@
           "name": "http-api-3.2.1.jar",
           "url": "http-api-3.2.1.jar",
           "size": 165559,
-          "sha512": "582ebde621da3b15c6ce8ee778e218cdde4f2981c4ba608fcaffada5f7e99b5c1e89ac9edde2ccdd7ebc9b4edb3782a09763f06148d02724fbaab78051927776",
-          "sha256": "915ce441d98b6e0f4b6e866d0a42bca9b1a80d2fb928cfdcc19157a124c63e2c",
-          "sha1": "116a22bce73fdbdf744d2ccb55e9ed1e60870c4e",
-          "md5": "6c7dce8fb17e0abdff8dc97fe252563d"
+          "sha512": "1840677a5173829ec5a783d7ebbfac8b54dae3ddf9f17c41b55ecac25ed124f79ac3460243123921c4cc2bb9ac9d4fd050564460ff2e4576d33c076c2027f420",
+          "sha256": "761cd092afef6cac59dd6a33e2d31e88eefa9aa297ccbc25627d28740c5085da",
+          "sha1": "0a29c0ab57371cac93dd98a908663e5c988c9b3f",
+          "md5": "c0a873951f9a05e26bb3f3b6cf21db77"
         }
       ]
     },
@@ -101,10 +101,10 @@
           "name": "http-api-3.2.1.jar",
           "url": "http-api-3.2.1.jar",
           "size": 165559,
-          "sha512": "582ebde621da3b15c6ce8ee778e218cdde4f2981c4ba608fcaffada5f7e99b5c1e89ac9edde2ccdd7ebc9b4edb3782a09763f06148d02724fbaab78051927776",
-          "sha256": "915ce441d98b6e0f4b6e866d0a42bca9b1a80d2fb928cfdcc19157a124c63e2c",
-          "sha1": "116a22bce73fdbdf744d2ccb55e9ed1e60870c4e",
-          "md5": "6c7dce8fb17e0abdff8dc97fe252563d"
+          "sha512": "1840677a5173829ec5a783d7ebbfac8b54dae3ddf9f17c41b55ecac25ed124f79ac3460243123921c4cc2bb9ac9d4fd050564460ff2e4576d33c076c2027f420",
+          "sha256": "761cd092afef6cac59dd6a33e2d31e88eefa9aa297ccbc25627d28740c5085da",
+          "sha1": "0a29c0ab57371cac93dd98a908663e5c988c9b3f",
+          "md5": "c0a873951f9a05e26bb3f3b6cf21db77"
         }
       ]
     }
