@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.3",
-      "buildId": "zoygrwycq5bzfnppnnavc2wrga"
+      "buildId": "jrf73pb77va5jdzg4hguqgamem"
     }
   },
   "variants": [
@@ -29,10 +29,10 @@
           "name": "injected-client-3.2.1.jar",
           "url": "injected-client-3.2.1.jar",
           "size": 2245481,
-          "sha512": "117de2002db00c3f8578c6a2d3fb0132b20cf5af59ee0a82be773d22c7507f804921df41fcc37cb600d1c803e351acc314617c797f47263d413a39d0157e851c",
-          "sha256": "973bf26c492e71106267f96f949b4dc6911aab20ce658bd8b39fcc23dea8cddd",
-          "sha1": "40d7ad34c1f867a3abde6e880bb2ab3ebab18e79",
-          "md5": "cdde8734aed2ba1298ee42a9b19a99f6"
+          "sha512": "51306d394eaf9c8e938dc55db5a59bd8c2e6c7dda814ba00baff6a38670560297444492022cfedceccf4d7b858e00ed2701b9fd5e8673c5d1d6c590e351e6b5b",
+          "sha256": "f12149692133c27dfca69bc8bb20a0c91dc38018a910dc8cd5bc9cc0c368d1bd",
+          "sha1": "1f6024026df7dfe1592ee552752e2e96003feabd",
+          "md5": "781287732b164734a416293270582ce6"
         }
       ]
     },
@@ -50,10 +50,10 @@
           "name": "injected-client-3.2.1.jar",
           "url": "injected-client-3.2.1.jar",
           "size": 2245481,
-          "sha512": "117de2002db00c3f8578c6a2d3fb0132b20cf5af59ee0a82be773d22c7507f804921df41fcc37cb600d1c803e351acc314617c797f47263d413a39d0157e851c",
-          "sha256": "973bf26c492e71106267f96f949b4dc6911aab20ce658bd8b39fcc23dea8cddd",
-          "sha1": "40d7ad34c1f867a3abde6e880bb2ab3ebab18e79",
-          "md5": "cdde8734aed2ba1298ee42a9b19a99f6"
+          "sha512": "51306d394eaf9c8e938dc55db5a59bd8c2e6c7dda814ba00baff6a38670560297444492022cfedceccf4d7b858e00ed2701b9fd5e8673c5d1d6c590e351e6b5b",
+          "sha256": "f12149692133c27dfca69bc8bb20a0c91dc38018a910dc8cd5bc9cc0c368d1bd",
+          "sha1": "1f6024026df7dfe1592ee552752e2e96003feabd",
+          "md5": "781287732b164734a416293270582ce6"
         }
       ]
     }
