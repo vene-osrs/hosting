@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.3",
-      "buildId": "jrf73pb77va5jdzg4hguqgamem"
+      "buildId": "pteomc6zbfgd3dnawrovfrpena"
     }
   },
   "variants": [
@@ -29,10 +29,10 @@
           "name": "http-api-3.2.1.jar",
           "url": "http-api-3.2.1.jar",
           "size": 165562,
-          "sha512": "7932e4ab6ee7c2caf14c92468a4ff3d80ec457886b92afd0598c8540400209480b7bc98a20a90a1c5e8c26db1ff4d198fff29402bc32bc6f927fc81b6c7a123a",
-          "sha256": "7aef49e5d1914ed7430b0239e961e1e977b37bbecdc483c3c771853ed92211cb",
-          "sha1": "220d87c7e30d3d4bff8daa0b397c2f1e0705f10d",
-          "md5": "7869a48921d52f8ec9ae3a2b8f062ddd"
+          "sha512": "7de9cebc2ca09230002bac61413088e366de20f653e3f4ff36938a2e875e41594ce9a306ecdb513770d2733ed79fd768ba55b3fecf2d7a28f84735d53f5012c2",
+          "sha256": "c41315fe7ace8fefdf2da22cc79e7d85eaba85466a5fcf5876b1d50014131b10",
+          "sha1": "62c00a98a84b0e294dc2b0afca74d4455165d31f",
+          "md5": "880ccc5698bd485187277269e689d239"
         }
       ]
     },
@@ -101,10 +101,10 @@
           "name": "http-api-3.2.1.jar",
           "url": "http-api-3.2.1.jar",
           "size": 165562,
-          "sha512": "7932e4ab6ee7c2caf14c92468a4ff3d80ec457886b92afd0598c8540400209480b7bc98a20a90a1c5e8c26db1ff4d198fff29402bc32bc6f927fc81b6c7a123a",
-          "sha256": "7aef49e5d1914ed7430b0239e961e1e977b37bbecdc483c3c771853ed92211cb",
-          "sha1": "220d87c7e30d3d4bff8daa0b397c2f1e0705f10d",
-          "md5": "7869a48921d52f8ec9ae3a2b8f062ddd"
+          "sha512": "7de9cebc2ca09230002bac61413088e366de20f653e3f4ff36938a2e875e41594ce9a306ecdb513770d2733ed79fd768ba55b3fecf2d7a28f84735d53f5012c2",
+          "sha256": "c41315fe7ace8fefdf2da22cc79e7d85eaba85466a5fcf5876b1d50014131b10",
+          "sha1": "62c00a98a84b0e294dc2b0afca74d4455165d31f",
+          "md5": "880ccc5698bd485187277269e689d239"
         }
       ]
     }
