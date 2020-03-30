@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.3",
-      "buildId": "pteomc6zbfgd3dnawrovfrpena"
+      "buildId": "2g2ts2akdrfwvppyxkr4wspd4e"
     }
   },
   "variants": [
@@ -29,10 +29,10 @@
           "name": "injected-client-3.2.1.jar",
           "url": "injected-client-3.2.1.jar",
           "size": 2245481,
-          "sha512": "8500ad39acb9b681603cd1c19b460a35ad20d42ad49953883b9993cc16cc3cc6c7692af3a19344585ce7cad26446fd76e3931b9670b1fd1a3fb7c354c4b9fd24",
-          "sha256": "6e1bd5042855a01a1a2cf36ea9170a1e346a4e7e276a4cb1b06a5423e8cf4392",
-          "sha1": "1741edaf7684587fd0dfe8a79c4d168aa2cff468",
-          "md5": "f4a293e336519bfbf02664438224043a"
+          "sha512": "104b3b4457025c5db76863cd72e7309c3cb479d651f03656ceae01f653bc18ae5cb6be1b31f60e0300299d3761cc68360017fca848484a1043127f6cac65c3cd",
+          "sha256": "4b7134368bd6547506c8fa297d5afcf26b49db2de6b77b1de1ad90210909537d",
+          "sha1": "4b1661e737dd04240a0f07a6f6091c5f0035ee4c",
+          "md5": "b3942c763f1d8357dde4a6cb2eea3ca5"
         }
       ]
     },
@@ -50,10 +50,10 @@
           "name": "injected-client-3.2.1.jar",
           "url": "injected-client-3.2.1.jar",
           "size": 2245481,
-          "sha512": "8500ad39acb9b681603cd1c19b460a35ad20d42ad49953883b9993cc16cc3cc6c7692af3a19344585ce7cad26446fd76e3931b9670b1fd1a3fb7c354c4b9fd24",
-          "sha256": "6e1bd5042855a01a1a2cf36ea9170a1e346a4e7e276a4cb1b06a5423e8cf4392",
-          "sha1": "1741edaf7684587fd0dfe8a79c4d168aa2cff468",
-          "md5": "f4a293e336519bfbf02664438224043a"
+          "sha512": "104b3b4457025c5db76863cd72e7309c3cb479d651f03656ceae01f653bc18ae5cb6be1b31f60e0300299d3761cc68360017fca848484a1043127f6cac65c3cd",
+          "sha256": "4b7134368bd6547506c8fa297d5afcf26b49db2de6b77b1de1ad90210909537d",
+          "sha1": "4b1661e737dd04240a0f07a6f6091c5f0035ee4c",
+          "md5": "b3942c763f1d8357dde4a6cb2eea3ca5"
         }
       ]
     }

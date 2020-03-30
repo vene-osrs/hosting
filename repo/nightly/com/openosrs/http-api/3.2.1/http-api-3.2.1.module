@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.3",
-      "buildId": "pteomc6zbfgd3dnawrovfrpena"
+      "buildId": "2g2ts2akdrfwvppyxkr4wspd4e"
     }
   },
   "variants": [
@@ -29,10 +29,10 @@
           "name": "http-api-3.2.1.jar",
           "url": "http-api-3.2.1.jar",
           "size": 165562,
-          "sha512": "7de9cebc2ca09230002bac61413088e366de20f653e3f4ff36938a2e875e41594ce9a306ecdb513770d2733ed79fd768ba55b3fecf2d7a28f84735d53f5012c2",
-          "sha256": "c41315fe7ace8fefdf2da22cc79e7d85eaba85466a5fcf5876b1d50014131b10",
-          "sha1": "62c00a98a84b0e294dc2b0afca74d4455165d31f",
-          "md5": "880ccc5698bd485187277269e689d239"
+          "sha512": "9e65235cd5e99a6006867d28cd7ee26eaa9e6e6d367bc557f2f2fc7d7d52df9f9ae4a01dd5a47750cfdcb9f523e88555f760e8bc78adf9bc098d23b830ad56b7",
+          "sha256": "11c18dd37b64cbacc97b6a07491b79ab23d4adbac5dc03d9cb0365dc00772568",
+          "sha1": "933f809cdf3027b8c75117de694c6dd2d6cd60c2",
+          "md5": "0b8f0475e649ff2b4240c3bbfd4aa1d3"
         }
       ]
     },
@@ -101,10 +101,10 @@
           "name": "http-api-3.2.1.jar",
           "url": "http-api-3.2.1.jar",
           "size": 165562,
-          "sha512": "7de9cebc2ca09230002bac61413088e366de20f653e3f4ff36938a2e875e41594ce9a306ecdb513770d2733ed79fd768ba55b3fecf2d7a28f84735d53f5012c2",
-          "sha256": "c41315fe7ace8fefdf2da22cc79e7d85eaba85466a5fcf5876b1d50014131b10",
-          "sha1": "62c00a98a84b0e294dc2b0afca74d4455165d31f",
-          "md5": "880ccc5698bd485187277269e689d239"
+          "sha512": "9e65235cd5e99a6006867d28cd7ee26eaa9e6e6d367bc557f2f2fc7d7d52df9f9ae4a01dd5a47750cfdcb9f523e88555f760e8bc78adf9bc098d23b830ad56b7",
+          "sha256": "11c18dd37b64cbacc97b6a07491b79ab23d4adbac5dc03d9cb0365dc00772568",
+          "sha1": "933f809cdf3027b8c75117de694c6dd2d6cd60c2",
+          "md5": "0b8f0475e649ff2b4240c3bbfd4aa1d3"
         }
       ]
     }
