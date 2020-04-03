@@ -1,0 +1,112 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.openosrs",
+    "module": "http-api",
+    "version": "3.2.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.3",
+      "buildId": "7a6kzebvnjhcxbagy7cskuh2gy"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "http-api-3.2.1.jar",
+          "url": "http-api-3.2.1.jar",
+          "size": 165561,
+          "sha512": "6c7903f00fc0419225029e0e26f04e3d8320a3d27044a4762020cbeaab9d29f5bbdf1f639301aab1f7bb316daaf0e69b763183190cccae0c59313049a87ecaa6",
+          "sha256": "e76fee445e898379c7b62a30379ee17e38316fe88c436d92ece81e12d5869912",
+          "sha1": "1da4cd9ba85607fc7f83bf4a3458cc6d967349c9",
+          "md5": "0ca4c8418b98767338e7b31a6fe0b1f7"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.8.6"
+          }
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "28.2-jre"
+          }
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "okhttp",
+          "version": {
+            "requires": "4.4.0"
+          }
+        },
+        {
+          "group": "io.reactivex.rxjava3",
+          "module": "rxjava",
+          "version": {
+            "requires": "3.0.1"
+          }
+        },
+        {
+          "group": "org.apache.commons",
+          "module": "commons-csv",
+          "version": {
+            "requires": "1.8"
+          }
+        },
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-api",
+          "version": {
+            "requires": "1.7.30"
+          }
+        },
+        {
+          "group": "com.openosrs",
+          "module": "runelite-api",
+          "version": {
+            "requires": "3.2.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "http-api-3.2.1.jar",
+          "url": "http-api-3.2.1.jar",
+          "size": 165561,
+          "sha512": "6c7903f00fc0419225029e0e26f04e3d8320a3d27044a4762020cbeaab9d29f5bbdf1f639301aab1f7bb316daaf0e69b763183190cccae0c59313049a87ecaa6",
+          "sha256": "e76fee445e898379c7b62a30379ee17e38316fe88c436d92ece81e12d5869912",
+          "sha1": "1da4cd9ba85607fc7f83bf4a3458cc6d967349c9",
+          "md5": "0ca4c8418b98767338e7b31a6fe0b1f7"
+        }
+      ]
+    }
+  ]
+}
