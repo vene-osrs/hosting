@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.3",
-      "buildId": "ezlmkb7opvedxjpt4rceuwejtm"
+      "buildId": "3vqwyfs6n5fz7bi5lp54vb7uba"
     }
   },
   "variants": [
@@ -29,10 +29,10 @@
           "name": "http-api-3.2.1.jar",
           "url": "http-api-3.2.1.jar",
           "size": 165561,
-          "sha512": "00afcff6d0a1bd24adbb27032f64c4e23c01015004c7f81804f75af36aed3f3b069c150bea6840fa30f5e17c519543f538b47930c7f720f5c71721db8c643657",
-          "sha256": "a65da2ae90a25bb137ad5e051810cd783b6ded374f4be767fa0ca2d19b595a26",
-          "sha1": "c90bb058469246a60adc13c1f32dcf90a6a11dab",
-          "md5": "199d182595c6d2dc02d652ee6054e4d7"
+          "sha512": "691ef2adcae6281f1ad01212dda90bd45956fd68412e3d0058b4a5ddf91555701b559c58cc4eba8baf8035a0aff625746be5fef5be4eec3049d252710397f234",
+          "sha256": "92ea6c7af82ff4d6502c1f1ff0f5d9fc181505cab8e85923369d0d18eeea342c",
+          "sha1": "165386c0d5bdfaf983ba19572f6f61efc6bfb6df",
+          "md5": "c3123e06d39751e1566e3258ae7d532c"
         }
       ]
     },
@@ -101,10 +101,10 @@
           "name": "http-api-3.2.1.jar",
           "url": "http-api-3.2.1.jar",
           "size": 165561,
-          "sha512": "00afcff6d0a1bd24adbb27032f64c4e23c01015004c7f81804f75af36aed3f3b069c150bea6840fa30f5e17c519543f538b47930c7f720f5c71721db8c643657",
-          "sha256": "a65da2ae90a25bb137ad5e051810cd783b6ded374f4be767fa0ca2d19b595a26",
-          "sha1": "c90bb058469246a60adc13c1f32dcf90a6a11dab",
-          "md5": "199d182595c6d2dc02d652ee6054e4d7"
+          "sha512": "691ef2adcae6281f1ad01212dda90bd45956fd68412e3d0058b4a5ddf91555701b559c58cc4eba8baf8035a0aff625746be5fef5be4eec3049d252710397f234",
+          "sha256": "92ea6c7af82ff4d6502c1f1ff0f5d9fc181505cab8e85923369d0d18eeea342c",
+          "sha1": "165386c0d5bdfaf983ba19572f6f61efc6bfb6df",
+          "md5": "c3123e06d39751e1566e3258ae7d532c"
         }
       ]
     }
