@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.3",
-      "buildId": "6cqdyh7w2bh3dhwt2hly2bk5nq"
+      "buildId": "cqvevgiylrdxxcroskdws55k7e"
     }
   },
   "variants": [
@@ -28,11 +28,11 @@
         {
           "name": "http-api-3.2.1.jar",
           "url": "http-api-3.2.1.jar",
-          "size": 163642,
-          "sha512": "f669d97bbda8b701eb48e918a75bc9d3c8aff0dbbd7799e2ec92271139268edbd7f22ac8d405752908fd77d5257d55e8033cc73027d2916a934d523e25e70823",
-          "sha256": "8c145539d02a7c5995be47d971c0f6fc7e378b83064fe9ce3acceca145914bb2",
-          "sha1": "5df249458efe8720af7d022e115459d616c6883a",
-          "md5": "fd9ab0a9fb1aadd580a715e5ce94c639"
+          "size": 163644,
+          "sha512": "54a9c833b064fbc8de937c3743712291ea2e0e91dc6c6b4ea634be2172764cdfa2a1e477a80ccff27cc36ab67d0e39941abb3e66d74bb97f477039f2fe22beb8",
+          "sha256": "67031af4695cccef5c638efa114df58101a4646845d636c1ec011ef867bb05e5",
+          "sha1": "6b88d9f94a48b6b369a80bcc8bde1cc3a5abb0ed",
+          "md5": "117c5306ce5031678fb85f284c2407c2"
         }
       ]
     },
@@ -64,14 +64,14 @@
           "group": "com.squareup.okhttp3",
           "module": "okhttp",
           "version": {
-            "requires": "4.4.0"
+            "requires": "4.5.0"
           }
         },
         {
           "group": "io.reactivex.rxjava3",
           "module": "rxjava",
           "version": {
-            "requires": "3.0.1"
+            "requires": "3.0.2"
           }
         },
         {
@@ -100,11 +100,11 @@
         {
           "name": "http-api-3.2.1.jar",
           "url": "http-api-3.2.1.jar",
-          "size": 163642,
-          "sha512": "f669d97bbda8b701eb48e918a75bc9d3c8aff0dbbd7799e2ec92271139268edbd7f22ac8d405752908fd77d5257d55e8033cc73027d2916a934d523e25e70823",
-          "sha256": "8c145539d02a7c5995be47d971c0f6fc7e378b83064fe9ce3acceca145914bb2",
-          "sha1": "5df249458efe8720af7d022e115459d616c6883a",
-          "md5": "fd9ab0a9fb1aadd580a715e5ce94c639"
+          "size": 163644,
+          "sha512": "54a9c833b064fbc8de937c3743712291ea2e0e91dc6c6b4ea634be2172764cdfa2a1e477a80ccff27cc36ab67d0e39941abb3e66d74bb97f477039f2fe22beb8",
+          "sha256": "67031af4695cccef5c638efa114df58101a4646845d636c1ec011ef867bb05e5",
+          "sha1": "6b88d9f94a48b6b369a80bcc8bde1cc3a5abb0ed",
+          "md5": "117c5306ce5031678fb85f284c2407c2"
         }
       ]
     }
