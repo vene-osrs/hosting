@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.3",
-      "buildId": "ccpjhjv26ndw3lkcnkgdv2bspe"
+      "buildId": "pbsogx7lxzfjznhbzianfsruta"
     }
   },
   "variants": [
@@ -29,10 +29,10 @@
           "name": "http-api-3.2.1.jar",
           "url": "http-api-3.2.1.jar",
           "size": 163379,
-          "sha512": "aafe30ca95dc56508eb4918ef96bee0f70808b286912405d418d7092ac2405a4673a087f7f924ec4b9e1409c7b3819ef6ee97bcaf91ef53c97fedd3b0d6fe4d8",
-          "sha256": "0f398c103dda9cb9b2af775748e276763af4d274af1dcca4f0d024438e2dddcd",
-          "sha1": "d00e765b3c9f3435eaa7d47b41570b253d22401d",
-          "md5": "f3b704ec7f1261f6f6d77ff4c18e71e1"
+          "sha512": "22db5d83d12517de0267693d1321bac94495b4e28fd535d15a8f013a78a661d936e3a5c782efeaaf7f8ab8d995e135ea8c0945e19951dc17aa1918e66f04c55a",
+          "sha256": "d4834c282b454494247ca995622a7adb09dd5cb10ddf234b68e95bded92767db",
+          "sha1": "bd60ace5606a1a4b512df569b13dbf143a7998b8",
+          "md5": "5b15ad91d9db25c7bda5776ffeefbe23"
         }
       ]
     },
@@ -101,10 +101,10 @@
           "name": "http-api-3.2.1.jar",
           "url": "http-api-3.2.1.jar",
           "size": 163379,
-          "sha512": "aafe30ca95dc56508eb4918ef96bee0f70808b286912405d418d7092ac2405a4673a087f7f924ec4b9e1409c7b3819ef6ee97bcaf91ef53c97fedd3b0d6fe4d8",
-          "sha256": "0f398c103dda9cb9b2af775748e276763af4d274af1dcca4f0d024438e2dddcd",
-          "sha1": "d00e765b3c9f3435eaa7d47b41570b253d22401d",
-          "md5": "f3b704ec7f1261f6f6d77ff4c18e71e1"
+          "sha512": "22db5d83d12517de0267693d1321bac94495b4e28fd535d15a8f013a78a661d936e3a5c782efeaaf7f8ab8d995e135ea8c0945e19951dc17aa1918e66f04c55a",
+          "sha256": "d4834c282b454494247ca995622a7adb09dd5cb10ddf234b68e95bded92767db",
+          "sha1": "bd60ace5606a1a4b512df569b13dbf143a7998b8",
+          "md5": "5b15ad91d9db25c7bda5776ffeefbe23"
         }
       ]
     }
