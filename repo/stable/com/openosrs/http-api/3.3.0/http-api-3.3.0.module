@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.3",
-      "buildId": "ofjaddfu3fcxnc5gpdvv35gy5e"
+      "buildId": "4ul7jtg465dw7nr65j4c2hnf7i"
     }
   },
   "variants": [
@@ -28,11 +28,11 @@
         {
           "name": "http-api-3.3.0.jar",
           "url": "http-api-3.3.0.jar",
-          "size": 164003,
-          "sha512": "b2174dfa9f4a7b54b6fa138652a40ce61f0c538bf7a476a3e12904fcc57df58a0cf4257b1f4558d6df353d22bfe40a2330169c756ef4c0bb1dd598716b75248a",
-          "sha256": "73d74ca69378faae4a4b8f5901407cce3c3a2a0f885c8da0e9680c37cf63e893",
-          "sha1": "f78da39bc93d5de2dc6b59cb85da9d1586ec6d78",
-          "md5": "52e14618ce9de927b1a5c4162d8db163"
+          "size": 164004,
+          "sha512": "3c84e3457c126e02250a0f02419743388c30fe9166fefcdbaa4d3e0ee7c51a0ac14f6a2f28cc054c8b66c5d3d3a00ddf7eba2dabb35d16722cea28eff0b65085",
+          "sha256": "b4633a30c1dcc726c40044fe8393276199cdc0336d6dc01959227e80fbe842eb",
+          "sha1": "1286bba6df21143413709ed6a6fbc5f5ea91444b",
+          "md5": "dfc26d88e1868d5cdbfce7e0282304c8"
         }
       ]
     },
@@ -100,11 +100,31 @@
         {
           "name": "http-api-3.3.0.jar",
           "url": "http-api-3.3.0.jar",
-          "size": 164003,
-          "sha512": "b2174dfa9f4a7b54b6fa138652a40ce61f0c538bf7a476a3e12904fcc57df58a0cf4257b1f4558d6df353d22bfe40a2330169c756ef4c0bb1dd598716b75248a",
-          "sha256": "73d74ca69378faae4a4b8f5901407cce3c3a2a0f885c8da0e9680c37cf63e893",
-          "sha1": "f78da39bc93d5de2dc6b59cb85da9d1586ec6d78",
-          "md5": "52e14618ce9de927b1a5c4162d8db163"
+          "size": 164004,
+          "sha512": "3c84e3457c126e02250a0f02419743388c30fe9166fefcdbaa4d3e0ee7c51a0ac14f6a2f28cc054c8b66c5d3d3a00ddf7eba2dabb35d16722cea28eff0b65085",
+          "sha256": "b4633a30c1dcc726c40044fe8393276199cdc0336d6dc01959227e80fbe842eb",
+          "sha1": "1286bba6df21143413709ed6a6fbc5f5ea91444b",
+          "md5": "dfc26d88e1868d5cdbfce7e0282304c8"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "http-api-3.3.0-sources.jar",
+          "url": "http-api-3.3.0-sources.jar",
+          "size": 107148,
+          "sha512": "dd9af0d3175f768acda2024986c4592f3413fdf69646a77f519c507c8e4af821239b112632967c781ae626e2966675d7b5d79281b13adec2f03343c6010c15a8",
+          "sha256": "288bf9f433a823386555fdfeca6aa441a94127d38dbc891f993e83990962d8a6",
+          "sha1": "d1dc3b1692aa3552ba9d715adda81f9c86a80e47",
+          "md5": "8e98a7d43450ae4069dea7469e947b8d"
         }
       ]
     }
