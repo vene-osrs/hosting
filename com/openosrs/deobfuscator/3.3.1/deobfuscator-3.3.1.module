@@ -1,0 +1,153 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.openosrs",
+    "module": "deobfuscator",
+    "version": "3.3.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.3",
+      "buildId": "jgcdgyjoejb6dmprhn6slh7flu"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "deobfuscator-3.3.1.jar",
+          "url": "deobfuscator-3.3.1.jar",
+          "size": 582982,
+          "sha512": "105684d93215bdc1796ca2bd9a58a7078f5694271c18d372f25a843daa5b623e531a07f34737e1e8badd058bc636b700d486ef26686602f57acde05826f0d51f",
+          "sha256": "e5d24d31bd786188893a169c6188f0b8c5b69ff1700f1c9bcf9deba754a0abaa",
+          "sha1": "fbbe1c5564b11bb374593b34596a17a831ea76b9",
+          "md5": "efbd7e98c862eac682e5486774220732"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains",
+          "module": "annotations",
+          "version": {
+            "requires": "19.0.0"
+          }
+        },
+        {
+          "group": "org.ow2.asm",
+          "module": "asm",
+          "version": {
+            "requires": "8.0.1"
+          }
+        },
+        {
+          "group": "org.ow2.asm",
+          "module": "asm-util",
+          "version": {
+            "requires": "8.0.1"
+          }
+        },
+        {
+          "group": "net.runelite",
+          "module": "fernflower",
+          "version": {
+            "requires": "07082019"
+          }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.8.6"
+          }
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "29.0-jre"
+          }
+        },
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-api",
+          "version": {
+            "requires": "1.7.30"
+          }
+        },
+        {
+          "group": "com.openosrs",
+          "module": "runelite-api",
+          "version": {
+            "requires": "3.3.1"
+          }
+        },
+        {
+          "group": "com.openosrs.rs",
+          "module": "runescape-api",
+          "version": {
+            "requires": "3.3.1"
+          }
+        },
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-simple",
+          "version": {
+            "requires": "1.7.30"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "deobfuscator-3.3.1.jar",
+          "url": "deobfuscator-3.3.1.jar",
+          "size": 582982,
+          "sha512": "105684d93215bdc1796ca2bd9a58a7078f5694271c18d372f25a843daa5b623e531a07f34737e1e8badd058bc636b700d486ef26686602f57acde05826f0d51f",
+          "sha256": "e5d24d31bd786188893a169c6188f0b8c5b69ff1700f1c9bcf9deba754a0abaa",
+          "sha1": "fbbe1c5564b11bb374593b34596a17a831ea76b9",
+          "md5": "efbd7e98c862eac682e5486774220732"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "deobfuscator-3.3.1-sources.jar",
+          "url": "deobfuscator-3.3.1-sources.jar",
+          "size": 498505,
+          "sha512": "765e1d53d7b183cc5d65df41d95e54b06c482a6e762205644da0826cf328e73504ec47cbbf06231bc2ea54e54804969a27ce297a6a93cd1002edb0fbf13ad605",
+          "sha256": "79fd3dbc07ba3220d1aa5845b4f36f36510cee0eb19bf3257c9df60b2260cab3",
+          "sha1": "30617244dc0853ff383ce08ba859b66f029e8bfc",
+          "md5": "0530382c45d0aefb466652bce6454c5b"
+        }
+      ]
+    }
+  ]
+}
