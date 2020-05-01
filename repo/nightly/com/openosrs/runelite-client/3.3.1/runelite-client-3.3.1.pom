@@ -181,12 +181,6 @@
       <scope>runtime</scope>
     </dependency>
     <dependency>
-      <groupId>org.codehaus.groovy</groupId>
-      <artifactId>groovy-all</artifactId>
-      <version>3.0.3</version>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
       <groupId>com.openosrs</groupId>
       <artifactId>http-api</artifactId>
       <version>3.3.1</version>
