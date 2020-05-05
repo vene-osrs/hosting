@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.3",
-      "buildId": "t475cfkpmba47gdjduyi4jpe2q"
+      "buildId": "udnvgsnbxjglxoahj725uaezmu"
     }
   },
   "variants": [
@@ -37,11 +37,11 @@
         {
           "name": "runelite-client-3.3.1.jar",
           "url": "runelite-client-3.3.1.jar",
-          "size": 2635201,
-          "sha512": "fa81fcb5f86d5a493bf6bc1a60589df9bef11c102819a897930943cf7efc428e1797f117b9369744610907c4a197fff9f40b515bd79250e4263a0502088617e3",
-          "sha256": "cc911df9946992f74774acbe628d347c0b9966517f4f7d15d91520fc7b3ef196",
-          "sha1": "c9c3f6426009c03bf93c06d0e9b53b6fb6e8437e",
-          "md5": "af701cae7b0851071fb4d77343a02080"
+          "size": 2635202,
+          "sha512": "1b6ac424529ed94204c7563cf04d2bd25123649021321e3b5cbcff9a62d0709a77456de5af99657fe2fdb9d2f72f0e4de9135d62e1c1d1d28d825732b5b30c52",
+          "sha256": "ccb128f8da4307ba0687cccd9ede3470e18be8a1cdd407d574a9b1dcf70cab33",
+          "sha1": "9a1848c9f51a754afbde305860b3be87c6ae7930",
+          "md5": "604f82d3d2f19c4d5e73c81fa50c4d01"
         }
       ]
     },
@@ -176,20 +176,6 @@
           }
         },
         {
-          "group": "org.jogamp.gluegen",
-          "module": "gluegen-rt",
-          "version": {
-            "requires": "2.3.2"
-          }
-        },
-        {
-          "group": "org.jogamp.jogl",
-          "module": "jogl-all",
-          "version": {
-            "requires": "2.3.2"
-          }
-        },
-        {
           "group": "org.jooq",
           "module": "jooq",
           "version": {
@@ -273,126 +259,6 @@
           }
         },
         {
-          "group": "org.jogamp.gluegen",
-          "module": "gluegen-rt",
-          "version": {
-            "requires": "2.3.2"
-          },
-          "thirdPartyCompatibility": {
-            "artifactSelector": {
-              "name": "gluegen-rt",
-              "type": "jar",
-              "extension": "jar",
-              "classifier": "natives-linux-amd64"
-            }
-          }
-        },
-        {
-          "group": "org.jogamp.gluegen",
-          "module": "gluegen-rt",
-          "version": {
-            "requires": "2.3.2"
-          },
-          "thirdPartyCompatibility": {
-            "artifactSelector": {
-              "name": "gluegen-rt",
-              "type": "jar",
-              "extension": "jar",
-              "classifier": "natives-linux-i586"
-            }
-          }
-        },
-        {
-          "group": "org.jogamp.gluegen",
-          "module": "gluegen-rt",
-          "version": {
-            "requires": "2.3.2"
-          },
-          "thirdPartyCompatibility": {
-            "artifactSelector": {
-              "name": "gluegen-rt",
-              "type": "jar",
-              "extension": "jar",
-              "classifier": "natives-windows-amd64"
-            }
-          }
-        },
-        {
-          "group": "org.jogamp.gluegen",
-          "module": "gluegen-rt",
-          "version": {
-            "requires": "2.3.2"
-          },
-          "thirdPartyCompatibility": {
-            "artifactSelector": {
-              "name": "gluegen-rt",
-              "type": "jar",
-              "extension": "jar",
-              "classifier": "natives-windows-i586"
-            }
-          }
-        },
-        {
-          "group": "org.jogamp.jogl",
-          "module": "jogl-all",
-          "version": {
-            "requires": "2.3.2"
-          },
-          "thirdPartyCompatibility": {
-            "artifactSelector": {
-              "name": "jogl-all",
-              "type": "jar",
-              "extension": "jar",
-              "classifier": "natives-linux-amd64"
-            }
-          }
-        },
-        {
-          "group": "org.jogamp.jogl",
-          "module": "jogl-all",
-          "version": {
-            "requires": "2.3.2"
-          },
-          "thirdPartyCompatibility": {
-            "artifactSelector": {
-              "name": "jogl-all",
-              "type": "jar",
-              "extension": "jar",
-              "classifier": "natives-linux-i586"
-            }
-          }
-        },
-        {
-          "group": "org.jogamp.jogl",
-          "module": "jogl-all",
-          "version": {
-            "requires": "2.3.2"
-          },
-          "thirdPartyCompatibility": {
-            "artifactSelector": {
-              "name": "jogl-all",
-              "type": "jar",
-              "extension": "jar",
-              "classifier": "natives-windows-amd64"
-            }
-          }
-        },
-        {
-          "group": "org.jogamp.jogl",
-          "module": "jogl-all",
-          "version": {
-            "requires": "2.3.2"
-          },
-          "thirdPartyCompatibility": {
-            "artifactSelector": {
-              "name": "jogl-all",
-              "type": "jar",
-              "extension": "jar",
-              "classifier": "natives-windows-i586"
-            }
-          }
-        },
-        {
           "group": "com.openosrs",
           "module": "injected-client",
           "version": {
@@ -411,11 +277,11 @@
         {
           "name": "runelite-client-3.3.1.jar",
           "url": "runelite-client-3.3.1.jar",
-          "size": 2635201,
-          "sha512": "fa81fcb5f86d5a493bf6bc1a60589df9bef11c102819a897930943cf7efc428e1797f117b9369744610907c4a197fff9f40b515bd79250e4263a0502088617e3",
-          "sha256": "cc911df9946992f74774acbe628d347c0b9966517f4f7d15d91520fc7b3ef196",
-          "sha1": "c9c3f6426009c03bf93c06d0e9b53b6fb6e8437e",
-          "md5": "af701cae7b0851071fb4d77343a02080"
+          "size": 2635202,
+          "sha512": "1b6ac424529ed94204c7563cf04d2bd25123649021321e3b5cbcff9a62d0709a77456de5af99657fe2fdb9d2f72f0e4de9135d62e1c1d1d28d825732b5b30c52",
+          "sha256": "ccb128f8da4307ba0687cccd9ede3470e18be8a1cdd407d574a9b1dcf70cab33",
+          "sha1": "9a1848c9f51a754afbde305860b3be87c6ae7930",
+          "md5": "604f82d3d2f19c4d5e73c81fa50c4d01"
         }
       ]
     },
@@ -431,11 +297,11 @@
         {
           "name": "runelite-client-3.3.1-sources.jar",
           "url": "runelite-client-3.3.1-sources.jar",
-          "size": 2326010,
-          "sha512": "3beea8996f86ed5872ae60cfa0a05681b7ce1f31039a7544bdbd7d44357edff6e1d712292bb8f8202257159f97e64b4bcd9540576353e5ac078c72efd4dd7caf",
-          "sha256": "5784795ca90c94202f7cc950a7963ce4ea0d1001c70bc382dbc7cff8dd040642",
-          "sha1": "660b0f41da7192d2a6b8262cfdc8f13bc342b3bb",
-          "md5": "cb25f285903908e354c02adf80525623"
+          "size": 2326012,
+          "sha512": "1ee9a4bceb6687624aae4bb11f7a11447359e78106d49b77e82d01086ce58ddfadbaa273a2ec6007b64fdc8e15e53e0d0a1a463367d7f363e1eefd5a152cffaa",
+          "sha256": "6b38d020cf89be7d729b2a6827e83e365565f529c19f61b76668ace394d2d4a7",
+          "sha1": "13f544d4ec39646bb43d69386bda108e134e9d5c",
+          "md5": "1cd21f1dcaa84715425cc1ca29dd6f77"
         }
       ]
     }
