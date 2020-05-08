@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.4",
-      "buildId": "lvj5ftjhdrfq3eytinzydpe5wq"
+      "buildId": "l4bopmiyl5bktmv353pn57wyjq"
     }
   },
   "variants": [
@@ -29,10 +29,10 @@
           "name": "http-api-3.3.1.jar",
           "url": "http-api-3.3.1.jar",
           "size": 164097,
-          "sha512": "dfdc27e7bf1ba08903f62180c54f9bc1961ca2c2418589a4b9df943c354370b5c601569d0ff0aa3ba50660f0f3cb4f5eb2df2953722c518894128cc7717407d9",
-          "sha256": "48c1a71294377ff7aef3bf602ea09b0a7f877802014e7c5dfabc788063773320",
-          "sha1": "a3a32e55b05b6df1b7ad4a7822f98e1e966c6f5e",
-          "md5": "11e97cfa0921074777352f1d18aa6503"
+          "sha512": "7e0687823de986d42ba4b6b0c261389fbdf37a70940c346d0c3a28ebe1e45c2d6522b1cf2d3116261ccba115f9ef62e5d4ce5d87d10d7e3eba0a85f72fefdbba",
+          "sha256": "131f1034cec70c51cee15c8bc6b2fd7df5e09f4c0b66fdcdaea3916ae677acfd",
+          "sha1": "fe82171a01f2e4b722e658662990cdc0dd91d20b",
+          "md5": "cab041fb39ae60320ec3cface8f96707"
         }
       ]
     },
@@ -101,10 +101,10 @@
           "name": "http-api-3.3.1.jar",
           "url": "http-api-3.3.1.jar",
           "size": 164097,
-          "sha512": "dfdc27e7bf1ba08903f62180c54f9bc1961ca2c2418589a4b9df943c354370b5c601569d0ff0aa3ba50660f0f3cb4f5eb2df2953722c518894128cc7717407d9",
-          "sha256": "48c1a71294377ff7aef3bf602ea09b0a7f877802014e7c5dfabc788063773320",
-          "sha1": "a3a32e55b05b6df1b7ad4a7822f98e1e966c6f5e",
-          "md5": "11e97cfa0921074777352f1d18aa6503"
+          "sha512": "7e0687823de986d42ba4b6b0c261389fbdf37a70940c346d0c3a28ebe1e45c2d6522b1cf2d3116261ccba115f9ef62e5d4ce5d87d10d7e3eba0a85f72fefdbba",
+          "sha256": "131f1034cec70c51cee15c8bc6b2fd7df5e09f4c0b66fdcdaea3916ae677acfd",
+          "sha1": "fe82171a01f2e4b722e658662990cdc0dd91d20b",
+          "md5": "cab041fb39ae60320ec3cface8f96707"
         }
       ]
     },
@@ -121,10 +121,10 @@
           "name": "http-api-3.3.1-sources.jar",
           "url": "http-api-3.3.1-sources.jar",
           "size": 107156,
-          "sha512": "40820737943c116e95fff2f46484183b6c48c04b24a83c54cd576d5c50363be0f39c6186b9fa149873b30c6301481f0189b1f3934aaa4522ef5dddb7e7114266",
-          "sha256": "4286a63e3d5b7b07771925543e194391691d86013034a9bc4ec101dc1488efbd",
-          "sha1": "4b096b60f7d10fa9073b19a7d24f1619c5617283",
-          "md5": "36bde617106a76fd54badd8686134a77"
+          "sha512": "0cf6056ee6264df2159f607a4355c683ff0e80027776f7547d212edbda0c05bdfe5721e9fc4ed28f5ae136a7f0a4374c30a98dbb57f89a48f85b4dffdb081257",
+          "sha256": "2cdf37b09aa8d4a52772e6b0726c307ace52b6d9c907c3f2a2c01167e471aa05",
+          "sha1": "cf752ee3d2814be5997b37bee49d8f24e16320d0",
+          "md5": "0841a1b5ede9aaae49c3818463302d62"
         }
       ]
     }
