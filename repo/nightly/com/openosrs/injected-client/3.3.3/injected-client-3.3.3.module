@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.4.1",
-      "buildId": "wsjbma225vgvdb7zkkodlxsuhi"
+      "buildId": "55edipcdszhopbkbxnururrbca"
     }
   },
   "variants": [
@@ -29,10 +29,10 @@
           "name": "injected-client-3.3.3.jar",
           "url": "injected-client-3.3.3.jar",
           "size": 2253448,
-          "sha512": "cbacd606789cdafcd8ff96ab277a7bd00d255874fac0767fb6e975f2885c0c609229a4ffa66f09894cfb50d1d9b023ff2c8fcf86b42f4ffb61db9d151bbab287",
-          "sha256": "04449c42a4107934256487996fd067122bf8b1db7541a643338cdf1eecf4ba00",
-          "sha1": "6bdb174729a376b8983352e0d0d0c72d196e01cb",
-          "md5": "5b1814eb97435eaa3cccfd30795b3b93"
+          "sha512": "9c73f26b25bc8e5d003feae3ba1ce8262cecdf9c5b4a8a650f51c64336e9f842cfcb244d517aa80e1224ab17474a1aee977adcb105bd1481ed1b5710ab53ce47",
+          "sha256": "1e0a719f979c76da1b6e77e45c61b3749c9d6ada3bd91bdf917a0651c925ead7",
+          "sha1": "3e2cea0c06993a0f0a0ca492eb3e6f52882d76b2",
+          "md5": "d6a7c5b63d6012201e9981d7010afefc"
         }
       ]
     },
@@ -50,10 +50,10 @@
           "name": "injected-client-3.3.3.jar",
           "url": "injected-client-3.3.3.jar",
           "size": 2253448,
-          "sha512": "cbacd606789cdafcd8ff96ab277a7bd00d255874fac0767fb6e975f2885c0c609229a4ffa66f09894cfb50d1d9b023ff2c8fcf86b42f4ffb61db9d151bbab287",
-          "sha256": "04449c42a4107934256487996fd067122bf8b1db7541a643338cdf1eecf4ba00",
-          "sha1": "6bdb174729a376b8983352e0d0d0c72d196e01cb",
-          "md5": "5b1814eb97435eaa3cccfd30795b3b93"
+          "sha512": "9c73f26b25bc8e5d003feae3ba1ce8262cecdf9c5b4a8a650f51c64336e9f842cfcb244d517aa80e1224ab17474a1aee977adcb105bd1481ed1b5710ab53ce47",
+          "sha256": "1e0a719f979c76da1b6e77e45c61b3749c9d6ada3bd91bdf917a0651c925ead7",
+          "sha1": "3e2cea0c06993a0f0a0ca492eb3e6f52882d76b2",
+          "md5": "d6a7c5b63d6012201e9981d7010afefc"
         }
       ]
     },
@@ -70,19 +70,19 @@
           "name": "injected-client-3.3.3-sources.jar",
           "url": "injected-client-3.3.3-sources.jar",
           "size": 261,
-          "sha512": "1eb6fb20a709c94e92d8e99f69448ee109f19dbb7e321a15ff517823434cb201905aba9c492322842d523708b9275eac7590264766207b7d8ba36ff357d4a249",
-          "sha256": "63a7a6aa88d9cce66bbd420da4b8d70a9f260e678d660918d5ebe8a1f7fadc7a",
-          "sha1": "1afaa8d45cf2aec71cc08471c7b9728871576c4d",
-          "md5": "e3bfebd4441bb67662b9a344fea0c1f5"
+          "sha512": "f47725ec8bac0cbccabb9bac6bbfb85b139ece45f4157dca0d70a1fcd436253671ffe8538f3861a6656dd07a021aa10afe21af18107909f5d10bedbacba4ab85",
+          "sha256": "5d0f8d7c92ea3129d814fcdeab505aedf137e086f90a3e964b5f6e102a8e17a6",
+          "sha1": "fefc7020c643dbf8e0bdfd4b643c22bf1fc76a4a",
+          "md5": "fd6aa28ba74836d66c737dbe3ecbb26a"
         },
         {
           "name": "injected-client-3.3.3.jar",
           "url": "injected-client-3.3.3.jar",
           "size": 2253448,
-          "sha512": "cbacd606789cdafcd8ff96ab277a7bd00d255874fac0767fb6e975f2885c0c609229a4ffa66f09894cfb50d1d9b023ff2c8fcf86b42f4ffb61db9d151bbab287",
-          "sha256": "04449c42a4107934256487996fd067122bf8b1db7541a643338cdf1eecf4ba00",
-          "sha1": "6bdb174729a376b8983352e0d0d0c72d196e01cb",
-          "md5": "5b1814eb97435eaa3cccfd30795b3b93"
+          "sha512": "9c73f26b25bc8e5d003feae3ba1ce8262cecdf9c5b4a8a650f51c64336e9f842cfcb244d517aa80e1224ab17474a1aee977adcb105bd1481ed1b5710ab53ce47",
+          "sha256": "1e0a719f979c76da1b6e77e45c61b3749c9d6ada3bd91bdf917a0651c925ead7",
+          "sha1": "3e2cea0c06993a0f0a0ca492eb3e6f52882d76b2",
+          "md5": "d6a7c5b63d6012201e9981d7010afefc"
         }
       ]
     }
