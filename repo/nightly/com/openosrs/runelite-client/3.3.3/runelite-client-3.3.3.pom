@@ -49,7 +49,7 @@
       <scope>runtime</scope>
     </dependency>
     <dependency>
-      <groupId>com.openosrs.rxrelay3</groupId>
+      <groupId>com.jakewharton.rxrelay3</groupId>
       <artifactId>rxrelay</artifactId>
       <version>3.0.0</version>
       <scope>runtime</scope>
