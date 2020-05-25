@@ -49,9 +49,9 @@
       <scope>runtime</scope>
     </dependency>
     <dependency>
-      <groupId>com.openosrs.rxrelay3</groupId>
+      <groupId>com.jakewharton.rxrelay3</groupId>
       <artifactId>rxrelay</artifactId>
-      <version>3.0.1-SNAPSHOT</version>
+      <version>3.0.0</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
@@ -63,7 +63,7 @@
     <dependency>
       <groupId>io.reactivex.rxjava3</groupId>
       <artifactId>rxjava</artifactId>
-      <version>3.0.3</version>
+      <version>3.0.4</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
