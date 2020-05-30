@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.4.1",
-      "buildId": "ngbsuuau5vd6hgs3hvwknyg3g4"
+      "buildId": "7ery2omxijfmhd3z7dftf2faee"
     }
   },
   "variants": [
@@ -44,11 +44,11 @@
         {
           "name": "runescape-api-3.3.5.jar",
           "url": "runescape-api-3.3.5.jar",
-          "size": 103578,
-          "sha512": "aa77adfa4912c2cabacacd969a7b66a4bdf09dd9c8d028e77b21596c21179639da20967e7338ecd4ccc07ff9f3f84d009f61ed7c196ce0f3366952ddf4830d81",
-          "sha256": "a225f6e6dd1a194813fb8bfe9186468e311ea166ea9ecc9fca09256fc9c288ce",
-          "sha1": "20abd2d00b8a806fb2f395f8b0fbfe1c910e22ca",
-          "md5": "18d8544fde57aa4f99b943697ef0bc8f"
+          "size": 103599,
+          "sha512": "341102ac9fbeea9347812e48b1ed2e9f291062e051b06543935be955cb5829a66abd45e2a23f0095063992400337d273fa5c1a0e20be078fc615fb5b70ad9be2",
+          "sha256": "24c923378accd9adfc730a2e4b93f011b96a4084dd33e05b9b4738d3da7ae9d7",
+          "sha1": "cf2e07b026786915e184ed3379ea17945d5bef5e",
+          "md5": "af809136856991a20dd306cab86fb322"
         }
       ]
     },
@@ -81,11 +81,11 @@
         {
           "name": "runescape-api-3.3.5.jar",
           "url": "runescape-api-3.3.5.jar",
-          "size": 103578,
-          "sha512": "aa77adfa4912c2cabacacd969a7b66a4bdf09dd9c8d028e77b21596c21179639da20967e7338ecd4ccc07ff9f3f84d009f61ed7c196ce0f3366952ddf4830d81",
-          "sha256": "a225f6e6dd1a194813fb8bfe9186468e311ea166ea9ecc9fca09256fc9c288ce",
-          "sha1": "20abd2d00b8a806fb2f395f8b0fbfe1c910e22ca",
-          "md5": "18d8544fde57aa4f99b943697ef0bc8f"
+          "size": 103599,
+          "sha512": "341102ac9fbeea9347812e48b1ed2e9f291062e051b06543935be955cb5829a66abd45e2a23f0095063992400337d273fa5c1a0e20be078fc615fb5b70ad9be2",
+          "sha256": "24c923378accd9adfc730a2e4b93f011b96a4084dd33e05b9b4738d3da7ae9d7",
+          "sha1": "cf2e07b026786915e184ed3379ea17945d5bef5e",
+          "md5": "af809136856991a20dd306cab86fb322"
         }
       ]
     },
@@ -101,11 +101,11 @@
         {
           "name": "runescape-api-3.3.5-sources.jar",
           "url": "runescape-api-3.3.5-sources.jar",
-          "size": 99698,
-          "sha512": "433b2a6656e0a417e8afd34e4596053c135d20fbd5ba5542eadb14ba8c68cb7b758b592e6526ea7659f4ecc65691d2c9eefdfed9543a3f5be555973ce833030f",
-          "sha256": "82c1c1cb501b65c25d24e0ab937d06b534c3aa3ab37bc98e532e852f8617b43a",
-          "sha1": "65ef96505418f96a3ecde16903958b382b9b7fc5",
-          "md5": "75b7c15283608be48c8522effc8df3e5"
+          "size": 99711,
+          "sha512": "7af17e33431196439233cb1b9b98ff52a03012e50828343be92112d4daf251c4d89baee3383c02a7e7eb5af299fad966570dee4cfdbd80e01fa2e6d97089520a",
+          "sha256": "f1f34d7aec17d31c2b9825f7af2dfaa67428f569c11b7a615a8a0e3689e03ff4",
+          "sha1": "01adddb937a7e682ce84b75b2fe546bd872659e6",
+          "md5": "4b411e59be855066354238356e3def5f"
         }
       ]
     }
