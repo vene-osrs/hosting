@@ -93,7 +93,7 @@
     <dependency>
       <groupId>org.pushing-pixels</groupId>
       <artifactId>radiance-substance</artifactId>
-      <version>3.0.0</version>
+      <version>2.5.1</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
@@ -177,7 +177,7 @@
     <dependency>
       <groupId>org.pushing-pixels</groupId>
       <artifactId>radiance-trident</artifactId>
-      <version>3.0.0</version>
+      <version>2.5.1</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
