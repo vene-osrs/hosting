@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.5",
-      "buildId": "ggaw6frbljekpfvvsureab2nea"
+      "buildId": "zxwfrfajkfgxjhkacmcuubl4vm"
     }
   },
   "variants": [
@@ -28,11 +28,11 @@
         {
           "name": "runelite-api-3.3.6.jar",
           "url": "runelite-api-3.3.6.jar",
-          "size": 1202729,
-          "sha512": "4fff3c9052e15bdcb09a4534102b3e1e8345c8d74ff717a4973082543d3a232ee41dd90d1eda6d357154f0df7a04df3952662f74433ccc1d3c509f29c7e16b34",
-          "sha256": "14c05cbb8c74cc095a0640aaa21ecd4c7250e42f8a9e3f0fbb0b4947d988fcb0",
-          "sha1": "1f88b07b8e7277eda2c97a28c91c3ee93c72687c",
-          "md5": "b2839af02d12c9ef5aa4be86b020d88a"
+          "size": 1202812,
+          "sha512": "3b02c0cda1b4dc716e105f1475e8f02c0817bde8b5dd706d8402a8735cc5a0784ae375cbe5504c7ec97ce5326cb41474c506d402c624b4a047f2a4b7f6837b71",
+          "sha256": "753282d50a51565bd9510a2a64fb0baadf9cf2777f5e3eb7dc4b888df7e636cb",
+          "sha1": "2c56548cc79e1c13edf0034057a5caddf1e997ea",
+          "md5": "8dd79740477ecc5a05aec25e088eddc2"
         }
       ]
     },
@@ -79,11 +79,11 @@
         {
           "name": "runelite-api-3.3.6.jar",
           "url": "runelite-api-3.3.6.jar",
-          "size": 1202729,
-          "sha512": "4fff3c9052e15bdcb09a4534102b3e1e8345c8d74ff717a4973082543d3a232ee41dd90d1eda6d357154f0df7a04df3952662f74433ccc1d3c509f29c7e16b34",
-          "sha256": "14c05cbb8c74cc095a0640aaa21ecd4c7250e42f8a9e3f0fbb0b4947d988fcb0",
-          "sha1": "1f88b07b8e7277eda2c97a28c91c3ee93c72687c",
-          "md5": "b2839af02d12c9ef5aa4be86b020d88a"
+          "size": 1202812,
+          "sha512": "3b02c0cda1b4dc716e105f1475e8f02c0817bde8b5dd706d8402a8735cc5a0784ae375cbe5504c7ec97ce5326cb41474c506d402c624b4a047f2a4b7f6837b71",
+          "sha256": "753282d50a51565bd9510a2a64fb0baadf9cf2777f5e3eb7dc4b888df7e636cb",
+          "sha1": "2c56548cc79e1c13edf0034057a5caddf1e997ea",
+          "md5": "8dd79740477ecc5a05aec25e088eddc2"
         }
       ]
     },
@@ -99,11 +99,11 @@
         {
           "name": "runelite-api-3.3.6-sources.jar",
           "url": "runelite-api-3.3.6-sources.jar",
-          "size": 881959,
-          "sha512": "2ae366440bc15277aa947f9e81fc17a7e3b79a761207d14448bc1837ee600b3252a4e387e4021bd70ee39e09f061d7151ce8bd1a8fd129da0379e26b724bc06c",
-          "sha256": "eb5be448d7a5bc70f4e02dd2edc61b286372ed71c33433485ce9cc6d696e015d",
-          "sha1": "5d534520720ee492fec28e439f092eb6c3c4e20b",
-          "md5": "db3a38c9d08b321b6e536890b5cdebb6"
+          "size": 881983,
+          "sha512": "9e8e6668e82c75161ae6a82c9513cfe17cb712bba7a48e954aad4edc000c3c6539eff2e31203e94d214fdf9300ec8cf8e3079222a2302d31ba4d9b0c9fe0a4ea",
+          "sha256": "9267d911057e773548bf662907a3ca4f0849072958ce404560a54aa75f285f85",
+          "sha1": "e1f48102d5727f716ed656273713562824ff4e97",
+          "md5": "0f3508ac71f07b9bb18e7a887486f70d"
         }
       ]
     }
