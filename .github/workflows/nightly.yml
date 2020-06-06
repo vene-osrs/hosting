@@ -17,12 +17,12 @@ jobs:
 
       - uses: actions/checkout@v1
         with:
-          repository: open-osrs/hosting
+          repository: vene-osrs/hosting
           ref: master
 
       - uses: actions/checkout@v1
         with:
-          repository: open-osrs/runelite
+          repository: vene-osrs/runelite
           ref: master
 
       - name: Make gradlew executable
@@ -45,9 +45,9 @@ jobs:
         run: cp -af /home/runner/work/hosting/runelite/runelite-client/build/bootstrap/. /home/runner/work/hosting/hosting/
 
       - name: Create nightly Pull Request
-        uses: Owain94/create-pull-request@master
+        uses: vene-osrs/create-pull-request@master
         env:
-          GITHUB_TOKEN: ${{ secrets.OpenOSRS }}
+          GITHUB_TOKEN: ${{ secrets.VeneOSRS }}
           PULL_REQUEST_BRANCH: NIGHTLY-UPDATE
           PULL_REQUEST_TITLE: 'bootstrap: nightly release'
           PULL_REQUEST_BODY: This is an auto-generated PR with a nightly release
