@@ -22,7 +22,7 @@ jobs:
 
       - uses: actions/checkout@v1
         with:
-          repository: vene-osrs/runelite
+          repository: open-osrs/runelite
           ref: master
 
       - name: Make gradlew executable
