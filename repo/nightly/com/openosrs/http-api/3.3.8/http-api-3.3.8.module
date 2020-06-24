@@ -1,0 +1,132 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.openosrs",
+    "module": "http-api",
+    "version": "3.3.8",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.5",
+      "buildId": "nzaq77z37bdffixaxh3x3rbw2y"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "http-api-3.3.8.jar",
+          "url": "http-api-3.3.8.jar",
+          "size": 154403,
+          "sha512": "d6b56108cf9508b63454f9f392bf3e3aaba9e94f4488d98a835a7aca75ddc04a380eb854556846b94f19a14c27c1e480e39988f2dfd8a30dd27adc2e2a7de3b0",
+          "sha256": "ad93a4065f6afce3edf81816239d31c1679c9a1ee3347d37bd1feeb6ea635c98",
+          "sha1": "5aef4c2cd848d30b7da85c30de9c141c68b21e1c",
+          "md5": "5ca441a838bb4a98a531d689b3089100"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.8.6"
+          }
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "29.0-jre"
+          }
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "okhttp",
+          "version": {
+            "requires": "4.7.2"
+          }
+        },
+        {
+          "group": "io.reactivex.rxjava3",
+          "module": "rxjava",
+          "version": {
+            "requires": "3.0.4"
+          }
+        },
+        {
+          "group": "org.apache.commons",
+          "module": "commons-csv",
+          "version": {
+            "requires": "1.8"
+          }
+        },
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-api",
+          "version": {
+            "requires": "1.7.30"
+          }
+        },
+        {
+          "group": "com.openosrs",
+          "module": "runelite-api",
+          "version": {
+            "requires": "3.3.8"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "http-api-3.3.8.jar",
+          "url": "http-api-3.3.8.jar",
+          "size": 154403,
+          "sha512": "d6b56108cf9508b63454f9f392bf3e3aaba9e94f4488d98a835a7aca75ddc04a380eb854556846b94f19a14c27c1e480e39988f2dfd8a30dd27adc2e2a7de3b0",
+          "sha256": "ad93a4065f6afce3edf81816239d31c1679c9a1ee3347d37bd1feeb6ea635c98",
+          "sha1": "5aef4c2cd848d30b7da85c30de9c141c68b21e1c",
+          "md5": "5ca441a838bb4a98a531d689b3089100"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "http-api-3.3.8-sources.jar",
+          "url": "http-api-3.3.8-sources.jar",
+          "size": 101953,
+          "sha512": "dc6a5b607a2c7825561032cc03d394caaa0dfa92da45f59da725dee2d1581b438a0decda3f3d56ecbcc383d1316d22c0dd024c54aaf0fa77a4b444c63fe497c4",
+          "sha256": "37e669644f71dba7ee0ca897b4043f75354c484e1834818c78124bf1d1cf017f",
+          "sha1": "c5038d818ed371543930e76d6d240178412e6927",
+          "md5": "a1b9f4cdf99bdc3f38329c043353da63"
+        }
+      ]
+    }
+  ]
+}
