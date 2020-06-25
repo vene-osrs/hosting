@@ -1,0 +1,111 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.openosrs",
+    "module": "runelite-api",
+    "version": "3.3.9",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.5",
+      "buildId": "pydxgbj3z5ajrebjhnhcrh4cp4"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "runelite-api-3.3.9.jar",
+          "url": "runelite-api-3.3.9.jar",
+          "size": 1218932,
+          "sha512": "e0d1e4dbe51562612363cb7cef65d3744b3fdeaeeca95248ce46e243de2a112ef3176c6f145ef2a8534117890efba15b79a41bb5add50c6b76f35e1e8487203e",
+          "sha256": "27a465c63e9257006bcce6da2107c7cba0811731e1f398761820ac1ce76bf6e8",
+          "sha1": "2ec31b765e1c09a5ba26ad1c86f70d067e9f076e",
+          "md5": "576f8cbcf575796f09d69353376a3190"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.google.code.findbugs",
+          "module": "jsr305",
+          "version": {
+            "requires": "3.0.2"
+          }
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "29.0-jre"
+          }
+        },
+        {
+          "group": "org.apache.commons",
+          "module": "commons-text",
+          "version": {
+            "requires": "1.8"
+          }
+        },
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-api",
+          "version": {
+            "requires": "1.7.30"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "runelite-api-3.3.9.jar",
+          "url": "runelite-api-3.3.9.jar",
+          "size": 1218932,
+          "sha512": "e0d1e4dbe51562612363cb7cef65d3744b3fdeaeeca95248ce46e243de2a112ef3176c6f145ef2a8534117890efba15b79a41bb5add50c6b76f35e1e8487203e",
+          "sha256": "27a465c63e9257006bcce6da2107c7cba0811731e1f398761820ac1ce76bf6e8",
+          "sha1": "2ec31b765e1c09a5ba26ad1c86f70d067e9f076e",
+          "md5": "576f8cbcf575796f09d69353376a3190"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "runelite-api-3.3.9-sources.jar",
+          "url": "runelite-api-3.3.9-sources.jar",
+          "size": 892214,
+          "sha512": "6cfe18db484139b0eb9eef04b830e354dba60f7ed74fd988317827241f4b145b41727d553dcfd00a921a1ed09b8794af9a97841432b79c0cfaed052968f277f6",
+          "sha256": "a2ec4103b498d7dab29ec6923e395a4610e50c3a0f2e6b0985a01965648ffbd1",
+          "sha1": "a88970bda1dcf7c6577a992c2948b7c3be61262f",
+          "md5": "21044159a88df00a1823a69cedc4841f"
+        }
+      ]
+    }
+  ]
+}
