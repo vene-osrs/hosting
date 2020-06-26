@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.5",
-      "buildId": "oxealgw66fhjddcrzop6pkp5da"
+      "buildId": "isaxeb67jvg53ot6pksjewh2tm"
     }
   },
   "variants": [
@@ -28,11 +28,11 @@
         {
           "name": "http-api-3.3.9.jar",
           "url": "http-api-3.3.9.jar",
-          "size": 154401,
-          "sha512": "787b8c49aff78406489f2e23ddc743ea025daa22e5fff36b7001bc39d5814e37e95171ab758ba36086cab32f8b98cc1803d82888520e17abcd2a9dafcb510c18",
-          "sha256": "cb961754470c6b48ba68119feb8d8e4ecc5994f25cfcd6dc4b803e3c68b8677c",
-          "sha1": "f1089e7ed1982eadd041531b6ae904753b43ad0a",
-          "md5": "9c56c67f0080401d99c90d76e4b77cee"
+          "size": 154402,
+          "sha512": "ae1ec9528fd399710c16f4b2a38d1255604a448da639214041d9b4b59b6373b36e12565d3de0de0ab4a0583789af0a7ea9cc4c69bf6360e087935d24e04a57e1",
+          "sha256": "98edde272b88872cf1097de610f76986621694cdad566b264481c847e8c798c8",
+          "sha1": "62ac4c3c0f934c55392369613f24d90c12c49c9b",
+          "md5": "e58428814f986bb3d0a64eceefd81065"
         }
       ]
     },
@@ -100,11 +100,11 @@
         {
           "name": "http-api-3.3.9.jar",
           "url": "http-api-3.3.9.jar",
-          "size": 154401,
-          "sha512": "787b8c49aff78406489f2e23ddc743ea025daa22e5fff36b7001bc39d5814e37e95171ab758ba36086cab32f8b98cc1803d82888520e17abcd2a9dafcb510c18",
-          "sha256": "cb961754470c6b48ba68119feb8d8e4ecc5994f25cfcd6dc4b803e3c68b8677c",
-          "sha1": "f1089e7ed1982eadd041531b6ae904753b43ad0a",
-          "md5": "9c56c67f0080401d99c90d76e4b77cee"
+          "size": 154402,
+          "sha512": "ae1ec9528fd399710c16f4b2a38d1255604a448da639214041d9b4b59b6373b36e12565d3de0de0ab4a0583789af0a7ea9cc4c69bf6360e087935d24e04a57e1",
+          "sha256": "98edde272b88872cf1097de610f76986621694cdad566b264481c847e8c798c8",
+          "sha1": "62ac4c3c0f934c55392369613f24d90c12c49c9b",
+          "md5": "e58428814f986bb3d0a64eceefd81065"
         }
       ]
     },
@@ -121,10 +121,10 @@
           "name": "http-api-3.3.9-sources.jar",
           "url": "http-api-3.3.9-sources.jar",
           "size": 101953,
-          "sha512": "0f2d666b41adc0ec6c69f194e350fa24e55e4b0650dd060580fffe1a65ea1b40a47daab52fe925d88707cbcacd0cff6a35933f37ca9426da4c34eae10b5ce75f",
-          "sha256": "1482a1f115a87854ca930809d08dd0c5b637e84f111e27808ac171c1a2fe8ace",
-          "sha1": "f22ac0a31050c5fe137306bb9263980447cb2c04",
-          "md5": "37c0754e1c32f1913d3e4e6148b6751e"
+          "sha512": "c93dd64b22589198b35ce97b5c043438afab10d54cccad3135d3cf79017ceac997ddd795566572455666ea7df6f70526cdd84cd3b54bf430a83d20d015a71a2a",
+          "sha256": "6cab16e6bd7eb1f6a776fe46242d928170b69e10e61ec793f6cfad24338324f3",
+          "sha1": "0ea1690ae8c4faec6edd7c193137313914a4ae4b",
+          "md5": "a51c8824095c6c0a7086d6a41c095d98"
         }
       ]
     }
