@@ -63,3 +63,4 @@ jobs:
           commit-message: 'bootstrap: nightly release'
           labels: "automated-pull-request"
           path: OpenOSRS-hosting
+          branch-suffix: short-commit-hash
