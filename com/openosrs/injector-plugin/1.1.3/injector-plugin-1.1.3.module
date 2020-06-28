@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.5",
-      "buildId": "u4r4cg2mobdgxanmh64olbas3u"
+      "buildId": "3hllzp6lr5gsjfxcqwsismswui"
     }
   },
   "variants": [
@@ -31,10 +31,10 @@
           "name": "injector-plugin-1.1.3.jar",
           "url": "injector-plugin-1.1.3.jar",
           "size": 104423,
-          "sha512": "915074d39b7a5083a13ceca379232f6d2b2d602dd213bffca390d6b64b325822c1a317aebf2a848c5d9e4f628721a4f5083f7818a11301d23b01cd5025ea41b2",
-          "sha256": "59cb14f620cc3cbdc5ea9ced462d6c945209e6ccf20a7c85f5e04252dcacddbd",
-          "sha1": "2b8990bc581405745e4186192dd484bb192154ba",
-          "md5": "25c82098076228ecf04b508802b2a5da"
+          "sha512": "44cd96473b2d5a254191c696bdd10a3cbfdf587ccbb1ce245b0362f0d665812ae1bacd63b33c133eb35be3bcc7c069e5e3941b93b78e79d5630b43beb1e38b33",
+          "sha256": "d87217203c93e7c451bbf4c0d514760ce8c24925efb041180dcda42915127ab9",
+          "sha1": "730ba0f7d2c59787f01c0f5934f39e38ca1f5b3d",
+          "md5": "e94f7dd9f941d075aff3bbae9719e7bb"
         }
       ]
     },
@@ -82,7 +82,7 @@
           "group": "com.openosrs",
           "module": "deobfuscator",
           "version": {
-            "requires": "3.3.8"
+            "requires": "3.3.1"
           },
           "excludes": [
             {
@@ -97,10 +97,10 @@
           "name": "injector-plugin-1.1.3.jar",
           "url": "injector-plugin-1.1.3.jar",
           "size": 104423,
-          "sha512": "915074d39b7a5083a13ceca379232f6d2b2d602dd213bffca390d6b64b325822c1a317aebf2a848c5d9e4f628721a4f5083f7818a11301d23b01cd5025ea41b2",
-          "sha256": "59cb14f620cc3cbdc5ea9ced462d6c945209e6ccf20a7c85f5e04252dcacddbd",
-          "sha1": "2b8990bc581405745e4186192dd484bb192154ba",
-          "md5": "25c82098076228ecf04b508802b2a5da"
+          "sha512": "44cd96473b2d5a254191c696bdd10a3cbfdf587ccbb1ce245b0362f0d665812ae1bacd63b33c133eb35be3bcc7c069e5e3941b93b78e79d5630b43beb1e38b33",
+          "sha256": "d87217203c93e7c451bbf4c0d514760ce8c24925efb041180dcda42915127ab9",
+          "sha1": "730ba0f7d2c59787f01c0f5934f39e38ca1f5b3d",
+          "md5": "e94f7dd9f941d075aff3bbae9719e7bb"
         }
       ]
     }
