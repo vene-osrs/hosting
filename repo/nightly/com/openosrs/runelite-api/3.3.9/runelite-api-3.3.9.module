@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.5",
-      "buildId": "nr6s34ue35fkpfyu2xbw5soeuq"
+      "buildId": "xbkdki4gcnas3ayinwjfqxaeha"
     }
   },
   "variants": [
@@ -29,10 +29,10 @@
           "name": "runelite-api-3.3.9.jar",
           "url": "runelite-api-3.3.9.jar",
           "size": 1219201,
-          "sha512": "7908919d1ea97018750e45e9c461e959ac8d845db3d6c589ff80398357d96925497eaedae1aeee2300488e56298d88fc4fab535729b6fbee03abde94f3815362",
-          "sha256": "88befa5aa580836cac145755c2859b640875a70f1dd4a8a39b9b6efb3f805464",
-          "sha1": "3bfad1d95bc9fbc405093a3e299d01c421bb49f7",
-          "md5": "dc747164768e41ba4cfc34a7bb436576"
+          "sha512": "7a838d9739bccfaaa7e58b283d7d0ee3392f2226fed7c37d21edf5dc768b1a73955cfe7fcf6298c6fafe6519bfb5f50058f57339ecfc2476e1408bcf0dc34883",
+          "sha256": "d9082bb0feb9bd138f61cd10d0e1df9139b0e1323cc210a005c712aad9979bff",
+          "sha1": "62aa004195fd492cae2808bf06cc2d97e2a53f0f",
+          "md5": "d88d88de22d8ec539d0753c5e0f637e2"
         }
       ]
     },
@@ -80,10 +80,10 @@
           "name": "runelite-api-3.3.9.jar",
           "url": "runelite-api-3.3.9.jar",
           "size": 1219201,
-          "sha512": "7908919d1ea97018750e45e9c461e959ac8d845db3d6c589ff80398357d96925497eaedae1aeee2300488e56298d88fc4fab535729b6fbee03abde94f3815362",
-          "sha256": "88befa5aa580836cac145755c2859b640875a70f1dd4a8a39b9b6efb3f805464",
-          "sha1": "3bfad1d95bc9fbc405093a3e299d01c421bb49f7",
-          "md5": "dc747164768e41ba4cfc34a7bb436576"
+          "sha512": "7a838d9739bccfaaa7e58b283d7d0ee3392f2226fed7c37d21edf5dc768b1a73955cfe7fcf6298c6fafe6519bfb5f50058f57339ecfc2476e1408bcf0dc34883",
+          "sha256": "d9082bb0feb9bd138f61cd10d0e1df9139b0e1323cc210a005c712aad9979bff",
+          "sha1": "62aa004195fd492cae2808bf06cc2d97e2a53f0f",
+          "md5": "d88d88de22d8ec539d0753c5e0f637e2"
         }
       ]
     },
@@ -99,11 +99,11 @@
         {
           "name": "runelite-api-3.3.9-sources.jar",
           "url": "runelite-api-3.3.9-sources.jar",
-          "size": 893190,
-          "sha512": "2f32c6b274bfcd1f188312b583221c24c0673e04a62dbefd1f70978a652aa013c97c12e4a32ee8ca5c5f62a2b4d55abac5a7594184774ad8258fe4e052c4c217",
-          "sha256": "d05f979413dcbd875e2fbbf2b484c5e251bea7b4f58fafdb533f290862b5f1c1",
-          "sha1": "490171b73206e60d4aa68b03749e8ea2e8b25721",
-          "md5": "e09ee3629097543ff14d7ce332dc9dea"
+          "size": 893202,
+          "sha512": "4e760ca32ed5055f1efdf5e6c49332f3359c8f10c57c626f6b9019de6069a44321e8669a32d87f3564772164df065c2327a2cd655beac0192d06db3185ae22b5",
+          "sha256": "d00a85917587fc71a2786878edeed5abd7f423f8e4bf283decc74c3c87e69e2f",
+          "sha1": "8f0d38ae1c90ae7b0227195f3c7394f47626cfb7",
+          "md5": "a25af455b7987fef454b40a9208cebad"
         }
       ]
     }
