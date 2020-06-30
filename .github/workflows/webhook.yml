@@ -22,60 +22,71 @@ jobs:
         with:
           java-version: 11
 
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v2.3.1
         with:
           repository: open-osrs/hosting
           ref: master
+          path: OpenOSRS-hosting
 
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v2.3.1
         with:
           repository: open-osrs/runelite
           ref: master
+          path: OpenOSRS
+
+      - uses: actions/cache@v2.0.0
+        with:
+          path: ~/.gradle/caches
+          key: ${{ runner.os }}-gradle-${{ hashFiles('**/*.gradle.kts') }}
+          restore-keys: |
+            ${{ runner.os }}-gradle-
 
       - name: Make gradlew executable
         run: chmod +x ./gradlew
-        working-directory: /home/runner/work/hosting/runelite
+        working-directory: OpenOSRS
 
       - name: Assembling
         run: ./gradlew assemble --console=plain
-        working-directory: /home/runner/work/hosting/runelite
+        working-directory: OpenOSRS
 
       - name: Building
         run: ./gradlew build --stacktrace -x test -x checkstyleMain --console=plain
-        working-directory: /home/runner/work/hosting/runelite
+        working-directory: OpenOSRS
 
       - name: Bootstrap nightly
         if: github.event.action == 'nightly'
         run: ./gradlew :runelite-client:bootstrapNightly --stacktrace -x test -x checkstyleMain --console=plain
-        working-directory: /home/runner/work/hosting/runelite
+        working-directory: OpenOSRS
 
       - name: Bootstrap stable
         if: github.event.action == 'stable'
         run: ./gradlew :runelite-client:bootstrapStable --stacktrace -x test -x checkstyleMain --console=plain
-        working-directory: /home/runner/work/hosting/runelite
+        working-directory: OpenOSRS
 
       - name: Bootstrap staging
         if: github.event.action == 'staging'
         run: ./gradlew :runelite-client:bootstrapStaging --stacktrace -x test -x checkstyleMain --console=plain
-        working-directory: /home/runner/work/hosting/runelite
+        working-directory: OpenOSRS
 
       - name: Bootstrap nightly and stable
         if: github.event.action == 'nightly stable'
         run: ./gradlew :runelite-client:bootstrapNightly --stacktrace -x test -x checkstyleMain --console=plain && ./gradlew :runelite-client:bootstrapStable --stacktrace -x test -x checkstyleMain --console=plain
-        working-directory: /home/runner/work/hosting/runelite
+        working-directory: OpenOSRS
 
       - name: Copy bootstrap
-        run: cp -af /home/runner/work/hosting/runelite/runelite-client/build/bootstrap/. /home/runner/work/hosting/hosting/
+        run: cp -af /home/runner/work/hosting/hosting/OpenOSRS/runelite-client/build/bootstrap/. /home/runner/work/hosting/hosting/OpenOSRS-hosting
 
       - name: Create Pull Request
-        uses: Owain94/create-pull-request@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.OpenOSRS }}
-          PULL_REQUEST_BRANCH: MANUAL-UPDATE
-          PULL_REQUEST_TITLE: 'bootstrap: ${{ github.event.action }} release'
-          PULL_REQUEST_BODY: This is an auto-generated PR with a ${{ github.event.action }} release
-          COMMIT_MESSAGE: 'bootstrap: ${{ github.event.action }} release'
-          PULL_REQUEST_LABELS: "automated-pull-request"
+        uses: peter-evans/create-pull-request@v2.8.1
+        with:
+          token: ${{ secrets.OpenOSRS }}
+          branch: MANUAL-UPDATE
+          title: 'bootstrap: ${{ github.event.action }} release'
+          body: This is an auto-generated PR with a ${{ github.event.action }} release
+          commit-message: 'bootstrap: ${{ github.event.action }} release'
+          labels: "automated-pull-request"
+          path: OpenOSRS-hosting
+          branch-suffix: short-commit-hash
 
       - name: Finished message
         uses: appleboy/discord-action@master
