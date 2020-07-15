@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.5.1",
-      "buildId": "5jsm5rsgifbp5eqefbxocaq55i"
+      "buildId": "bszlxxsiojfmxjrpuivynkz6e4"
     }
   },
   "variants": [
@@ -29,10 +29,10 @@
           "name": "http-api-3.3.9.jar",
           "url": "http-api-3.3.9.jar",
           "size": 157761,
-          "sha512": "d91c00738bcc214300c8b4cc76f92a2c8520a087fd4607e6089fcd76daf9371e529e87cf18e69f074fc0f817dc1c40a5611cd511e25642cac7d9762dc6314bf5",
-          "sha256": "23d83b62b9312ad915cfe7a28b8676aa15746ca583067a893eb6736a75e2960c",
-          "sha1": "cd2a36113b2ce50f613644d8fcd36b4588f5a356",
-          "md5": "5d65313383710805e7c1050f5c8cf146"
+          "sha512": "dd47576fc855b858f3fb23d6186f01969353035df10d656f55ae796a9339e120b29ae487fd2021cbcd5be73877d32c33e8a7c6758b73bcf268e4452ea281b1e9",
+          "sha256": "33f7fd122eef3d8e58491d6f7b4b338c468ebe333e80e3174b337bee9bf2a621",
+          "sha1": "2dccb141c741414213219a69098b717d191d8bc5",
+          "md5": "33aaf606153d5415fdbc3401252e1abb"
         }
       ]
     },
@@ -101,10 +101,10 @@
           "name": "http-api-3.3.9.jar",
           "url": "http-api-3.3.9.jar",
           "size": 157761,
-          "sha512": "d91c00738bcc214300c8b4cc76f92a2c8520a087fd4607e6089fcd76daf9371e529e87cf18e69f074fc0f817dc1c40a5611cd511e25642cac7d9762dc6314bf5",
-          "sha256": "23d83b62b9312ad915cfe7a28b8676aa15746ca583067a893eb6736a75e2960c",
-          "sha1": "cd2a36113b2ce50f613644d8fcd36b4588f5a356",
-          "md5": "5d65313383710805e7c1050f5c8cf146"
+          "sha512": "dd47576fc855b858f3fb23d6186f01969353035df10d656f55ae796a9339e120b29ae487fd2021cbcd5be73877d32c33e8a7c6758b73bcf268e4452ea281b1e9",
+          "sha256": "33f7fd122eef3d8e58491d6f7b4b338c468ebe333e80e3174b337bee9bf2a621",
+          "sha1": "2dccb141c741414213219a69098b717d191d8bc5",
+          "md5": "33aaf606153d5415fdbc3401252e1abb"
         }
       ]
     },
