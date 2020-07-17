@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.5.1",
-      "buildId": "aglepubd6zcztlekeb3y23adoi"
+      "buildId": "6zw42exvk5brlnzhqrhrbrk5wu"
     }
   },
   "variants": [
@@ -37,11 +37,11 @@
         {
           "name": "runelite-client-3.4.0.jar",
           "url": "runelite-client-3.4.0.jar",
-          "size": 2670693,
-          "sha512": "1d60e7dd29fbeca3167cf9d75e8db7f4c2466f608efa05b92ad88c7e52a729e38ac04bcbff39f85259e21e10bdb4987b6fc6c66862bcc4831b561e5a9c85a007",
-          "sha256": "193c84f8d5710f7b131a73bd4908c4b41810c8b766c8113de701757760701e7f",
-          "sha1": "7f43a0767d3a83ddb68679652fc094bf9047f1e4",
-          "md5": "4d2a6fa260ee20136d239e2cc63b9166"
+          "size": 2670720,
+          "sha512": "ea1849fcae9c6d2cf8323dd8b70d7b4f4341eab70da6d8044fc4f9601b7753680f552b3772cf521230f41e9baa544315e0ae172e026501c7bff957ee0396161d",
+          "sha256": "bbc5fba7ea7c13d007cacc05e4d656337ee654cacfb3b356455bed01ebbb004e",
+          "sha1": "48f04cf14ddce113ba327572f0106a71cea783fb",
+          "md5": "b15b5071abd92268557a8ea3ca6422c4"
         }
       ]
     },
@@ -109,7 +109,7 @@
           "group": "com.squareup.okhttp3",
           "module": "okhttp",
           "version": {
-            "requires": "4.7.2"
+            "requires": "4.8.0"
           }
         },
         {
@@ -277,11 +277,11 @@
         {
           "name": "runelite-client-3.4.0.jar",
           "url": "runelite-client-3.4.0.jar",
-          "size": 2670693,
-          "sha512": "1d60e7dd29fbeca3167cf9d75e8db7f4c2466f608efa05b92ad88c7e52a729e38ac04bcbff39f85259e21e10bdb4987b6fc6c66862bcc4831b561e5a9c85a007",
-          "sha256": "193c84f8d5710f7b131a73bd4908c4b41810c8b766c8113de701757760701e7f",
-          "sha1": "7f43a0767d3a83ddb68679652fc094bf9047f1e4",
-          "md5": "4d2a6fa260ee20136d239e2cc63b9166"
+          "size": 2670720,
+          "sha512": "ea1849fcae9c6d2cf8323dd8b70d7b4f4341eab70da6d8044fc4f9601b7753680f552b3772cf521230f41e9baa544315e0ae172e026501c7bff957ee0396161d",
+          "sha256": "bbc5fba7ea7c13d007cacc05e4d656337ee654cacfb3b356455bed01ebbb004e",
+          "sha1": "48f04cf14ddce113ba327572f0106a71cea783fb",
+          "md5": "b15b5071abd92268557a8ea3ca6422c4"
         }
       ]
     },
@@ -298,11 +298,11 @@
         {
           "name": "runelite-client-3.4.0-shaded.jar",
           "url": "runelite-client-3.4.0-shaded.jar",
-          "size": 31475379,
-          "sha512": "6fcd651f8ad82ba2526d4aa8572af7a470dc0efe6cb1b661859210dff58a764a9fcc2fd3401425f71a4abbe5cf5c7712d9960a8f500d0664856db654c3910893",
-          "sha256": "6a27c76cfc718b6b20f14894367b1d846cdee2f0757b1e19dcd78c8f4b96c1cd",
-          "sha1": "1624a282f18a5b545b429046a8dd442ce1bc02b1",
-          "md5": "63be3a36f7d4427e19ba842a51ca96da"
+          "size": 31479079,
+          "sha512": "1cfadc3e4f6cd5d88ec1f04d2bf757f0a87ff16086b36fb9f65d45eed97acf665b4bba614e9f07d7605085681cc625f70bfe6c83b79cef3fbbbff87bb31381b1",
+          "sha256": "9299042725a46f3eca896391a5338ef1938b07f6243f96e0551509e9c3c50b71",
+          "sha1": "fce963f4fd36814864d1a69be12f148238231fd8",
+          "md5": "55731c9aa7f6bcc252c842262e5ea25a"
         }
       ]
     },
@@ -318,11 +318,11 @@
         {
           "name": "runelite-client-3.4.0-sources.jar",
           "url": "runelite-client-3.4.0-sources.jar",
-          "size": 2320977,
-          "sha512": "6ded0d7cfc4424a70dedbfd258ef652fdec960f14759b896f0c2aaa612113862bcd53e1bfeb285ec63e86a5a799bafabdd9504836412d24e9600c3100a8c362d",
-          "sha256": "77e208343b3e2327fae8962eef904ccd0cacceafb34f49073a78e426ad1d8446",
-          "sha1": "d3405dd6a17b968e5d8bada69e849a6789a52493",
-          "md5": "0d17c749fdcf9ba2fafa601fc31a1f2d"
+          "size": 2320996,
+          "sha512": "88e57fa63f102762f3fb6fefc0c0ff35b73f72dba93079747b845b89b4e82f33c42d4fd479c3be3375cd463af2dcd36cb0c54d14f1ec075de9648d1c4f21c6c0",
+          "sha256": "d7d099d68291dba5e9f289c2b8c29e184770ae6c7edc5d0a3db04d15136c6922",
+          "sha1": "53295df76715faced1e50a970d12083a1bb488c5",
+          "md5": "9579a591b741396dbb02377516e674c7"
         }
       ]
     }
