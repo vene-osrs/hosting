@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.5.1",
-      "buildId": "n2iyhn2oazcytimbw5c737cnpu"
+      "buildId": "hzacvpbhnfgxxewvtowemmy7ei"
     }
   },
   "variants": [
@@ -40,10 +40,10 @@
           "name": "injected-client-3.4.0.jar",
           "url": "injected-client-3.4.0.jar",
           "size": 2305007,
-          "sha512": "75a8c589b5c9914bf9b200d3e6ca600fb94350ddf85815027c4a670a5a0a824a56436f9f5ac298441757271d5f04602bd67d930f1c2c3c68b0549f3ed9b89894",
-          "sha256": "20298132b77123f5f90b99a15870cf04cc47eeee592f290f5fea340d6e4a17f3",
-          "sha1": "3dd4eac40407f235878ca0438277badb467702c6",
-          "md5": "f24634bd0f179843eb1118b7f3b70822"
+          "sha512": "11ec3b9426b8f7c101e4713b26402144e6e16c3cc8ecbb6b26a8ca93e44af2da787db11cfa43eca80d2621529d2dde5a894f951ec3bd9ee11cab658dd841c117",
+          "sha256": "32c677f9eda55e7798723caa758401cec9ebee0ad09697cd73e4aac4f20e8207",
+          "sha1": "73203f614e16ce92cc62985c7a3daf2b62f2aabb",
+          "md5": "3060e9c2aa151cf21197676ab2ed0460"
         }
       ]
     },
