@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.5.1",
-      "buildId": "yw2aotbcangcbbfrh4cicjtxcq"
+      "buildId": "dmwubuygcbfo7nvhilw3msaxf4"
     }
   },
   "variants": [
@@ -29,10 +29,10 @@
           "name": "http-api-3.4.1.jar",
           "url": "http-api-3.4.1.jar",
           "size": 158053,
-          "sha512": "87ed50a19748a377912357f57876ed96edac77ab14970fc68b67db965907d4600f9726dd9fc57f82e6bc2d0c3afae3861cc891d6e7f401ca2b06d4065abcb11c",
-          "sha256": "db63ba8fd4704a9533337f285d1626094775ee95a2715d1bbd2c146bb0ac3244",
-          "sha1": "93cc18d207509fbb046c2209dc6431ec4829f0db",
-          "md5": "913f6af9b4a4595b875d9ed518335eff"
+          "sha512": "7c9100ff7d59387dc46cefc43eab3f5eae7c2268f230d5e2062cdfcdd1ab917179244e0c239933cc57c0bd9a4cb042415053d7beb8ea6f557e2aa63a88314417",
+          "sha256": "3d156c8cab1c0d14526370b908a412c344ebe1c67cbeddb2fd17d7d152a308ca",
+          "sha1": "761df6882f558bc469daf014dc0157ed8e07bd0f",
+          "md5": "fa3957590475a3ea6a108f06f6e487dd"
         }
       ]
     },
@@ -71,7 +71,7 @@
           "group": "io.reactivex.rxjava3",
           "module": "rxjava",
           "version": {
-            "requires": "3.0.4"
+            "requires": "3.0.5"
           }
         },
         {
@@ -101,10 +101,10 @@
           "name": "http-api-3.4.1.jar",
           "url": "http-api-3.4.1.jar",
           "size": 158053,
-          "sha512": "87ed50a19748a377912357f57876ed96edac77ab14970fc68b67db965907d4600f9726dd9fc57f82e6bc2d0c3afae3861cc891d6e7f401ca2b06d4065abcb11c",
-          "sha256": "db63ba8fd4704a9533337f285d1626094775ee95a2715d1bbd2c146bb0ac3244",
-          "sha1": "93cc18d207509fbb046c2209dc6431ec4829f0db",
-          "md5": "913f6af9b4a4595b875d9ed518335eff"
+          "sha512": "7c9100ff7d59387dc46cefc43eab3f5eae7c2268f230d5e2062cdfcdd1ab917179244e0c239933cc57c0bd9a4cb042415053d7beb8ea6f557e2aa63a88314417",
+          "sha256": "3d156c8cab1c0d14526370b908a412c344ebe1c67cbeddb2fd17d7d152a308ca",
+          "sha1": "761df6882f558bc469daf014dc0157ed8e07bd0f",
+          "md5": "fa3957590475a3ea6a108f06f6e487dd"
         }
       ]
     },
