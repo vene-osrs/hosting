@@ -1,0 +1,330 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.openosrs",
+    "module": "runelite-client",
+    "version": "3.4.3",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.6.1",
+      "buildId": "rcwr3yybn5bd5ax7myvks5jqie"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.openosrs",
+          "module": "runelite-api",
+          "version": {
+            "requires": "3.4.3"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "runelite-client-3.4.3.jar",
+          "url": "runelite-client-3.4.3.jar",
+          "size": 2671677,
+          "sha512": "aa3f5182d87f0a63d5c619434bb649ec02585178e16f7ecc2dea2ffc5562c9d168bcb1e4089994fd08c073c7d3676ee35d380a031c04111c468a4bb8dbd55dc5",
+          "sha256": "6d7ebc48181d95dfb5cf6dbfe7e5c222f17705dbbf548b99ca69890e76e4ffc8",
+          "sha1": "a8d6ac8c938a733325e57e8a433ba52dffa101c9",
+          "md5": "0ab55b188bb8392d209696fc0b01d578"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "ch.qos.logback",
+          "module": "logback-classic",
+          "version": {
+            "requires": "1.2.3"
+          }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.8.6"
+          }
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "29.0-jre"
+          }
+        },
+        {
+          "group": "com.google.inject",
+          "module": "guice",
+          "version": {
+            "requires": "4.2.3"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "guice",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "no_aop"
+            }
+          }
+        },
+        {
+          "group": "com.h2database",
+          "module": "h2",
+          "version": {
+            "requires": "1.4.200"
+          }
+        },
+        {
+          "group": "com.jakewharton.rxrelay3",
+          "module": "rxrelay",
+          "version": {
+            "requires": "3.0.0"
+          }
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "okhttp",
+          "version": {
+            "requires": "4.8.1"
+          }
+        },
+        {
+          "group": "io.reactivex.rxjava3",
+          "module": "rxjava",
+          "version": {
+            "requires": "3.0.6"
+          }
+        },
+        {
+          "group": "net.java.dev.jna",
+          "module": "jna",
+          "version": {
+            "requires": "5.6.0"
+          }
+        },
+        {
+          "group": "org.jgroups",
+          "module": "jgroups",
+          "version": {
+            "requires": "5.0.0.Final"
+          }
+        },
+        {
+          "group": "net.java.dev.jna",
+          "module": "jna-platform",
+          "version": {
+            "requires": "5.6.0"
+          }
+        },
+        {
+          "group": "net.runelite",
+          "module": "discord",
+          "version": {
+            "requires": "1.2"
+          }
+        },
+        {
+          "group": "org.pushing-pixels",
+          "module": "radiance-substance",
+          "version": {
+            "requires": "2.5.1"
+          }
+        },
+        {
+          "group": "net.sf.jopt-simple",
+          "module": "jopt-simple",
+          "version": {
+            "requires": "5.0.4"
+          }
+        },
+        {
+          "group": "org.apache.commons",
+          "module": "commons-text",
+          "version": {
+            "requires": "1.9"
+          }
+        },
+        {
+          "group": "org.jetbrains",
+          "module": "annotations",
+          "version": {
+            "requires": "20.0.0"
+          }
+        },
+        {
+          "group": "org.jooq",
+          "module": "jooq",
+          "version": {
+            "requires": "3.13.4"
+          }
+        },
+        {
+          "group": "org.jooq",
+          "module": "jooq-codegen",
+          "version": {
+            "requires": "3.13.4"
+          }
+        },
+        {
+          "group": "org.jooq",
+          "module": "jooq-meta",
+          "version": {
+            "requires": "3.13.4"
+          }
+        },
+        {
+          "group": "io.sentry",
+          "module": "sentry-logback",
+          "version": {
+            "requires": "1.7.30"
+          }
+        },
+        {
+          "group": "com.github.zafarkhaja",
+          "module": "java-semver",
+          "version": {
+            "requires": "0.9.0"
+          }
+        },
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-api",
+          "version": {
+            "requires": "1.7.30"
+          }
+        },
+        {
+          "group": "org.pf4j",
+          "module": "pf4j",
+          "version": {
+            "requires": "3.4.1"
+          },
+          "excludes": [
+            {
+              "group": "org.slf4j",
+              "module": "*"
+            }
+          ]
+        },
+        {
+          "group": "org.pf4j",
+          "module": "pf4j-update",
+          "version": {
+            "requires": "2.3.0"
+          }
+        },
+        {
+          "group": "com.openosrs",
+          "module": "http-api",
+          "version": {
+            "requires": "3.4.3"
+          }
+        },
+        {
+          "group": "com.openosrs",
+          "module": "runelite-api",
+          "version": {
+            "requires": "3.4.3"
+          }
+        },
+        {
+          "group": "org.pushing-pixels",
+          "module": "radiance-trident",
+          "version": {
+            "requires": "2.5.1"
+          }
+        },
+        {
+          "group": "com.openosrs",
+          "module": "injected-client",
+          "version": {
+            "requires": "3.4.3"
+          }
+        },
+        {
+          "group": "com.openosrs.rs",
+          "module": "runescape-api",
+          "version": {
+            "requires": "3.4.3"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "runelite-client-3.4.3.jar",
+          "url": "runelite-client-3.4.3.jar",
+          "size": 2671677,
+          "sha512": "aa3f5182d87f0a63d5c619434bb649ec02585178e16f7ecc2dea2ffc5562c9d168bcb1e4089994fd08c073c7d3676ee35d380a031c04111c468a4bb8dbd55dc5",
+          "sha256": "6d7ebc48181d95dfb5cf6dbfe7e5c222f17705dbbf548b99ca69890e76e4ffc8",
+          "sha1": "a8d6ac8c938a733325e57e8a433ba52dffa101c9",
+          "md5": "0ab55b188bb8392d209696fc0b01d578"
+        }
+      ]
+    },
+    {
+      "name": "shadowRuntimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "embedded",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "runelite-client-3.4.3-shaded.jar",
+          "url": "runelite-client-3.4.3-shaded.jar",
+          "size": 31294881,
+          "sha512": "8187708f6842fd59f9e3281ec0c74f49c4ede3940d72a719973c8a10e3062a52a890eff3bb1ae8f2f70cca502fee9c77a1b11ebc105b704fe417eb6ef1458714",
+          "sha256": "eaa7fff613b8d7d53f3bde5965e6d8906c5033af9d4ffe31f8ff1898df831d08",
+          "sha1": "bfc940631556cb52778a04481b860ef60648888c",
+          "md5": "665c2c0571e3958d89ca153714c62716"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "runelite-client-3.4.3-sources.jar",
+          "url": "runelite-client-3.4.3-sources.jar",
+          "size": 2321995,
+          "sha512": "5229d2e9d93d3778acdd901ef6dcf55ac162aac3ce686d9821fe5da32092bc4d6ae8331107394411ab22e8b0fbe3d00983a9e9ce6de4ccf746d626b2fa09c4c6",
+          "sha256": "548e66d10b4f4ff225eb6061eef0f08f014928402b8fb430648551bd0b877192",
+          "sha1": "529c6d4fdcb5116b1a69182deef0afa878de85f1",
+          "md5": "4e88cb13481c51ba9d41553da6577722"
+        }
+      ]
+    }
+  ]
+}
