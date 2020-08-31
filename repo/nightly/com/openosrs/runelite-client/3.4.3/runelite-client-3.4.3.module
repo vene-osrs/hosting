@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.6.1",
-      "buildId": "hkeuzpcuczadte5medtvjeo6i4"
+      "buildId": "dqjipi7otnc7bkhidpnr2qt74m"
     }
   },
   "variants": [
@@ -37,11 +37,11 @@
         {
           "name": "runelite-client-3.4.3.jar",
           "url": "runelite-client-3.4.3.jar",
-          "size": 2672574,
-          "sha512": "246c1f7470cc4b33d50a01e1d1090a5112bd688c526bbdc69bdb63d430900ae45c143ada61fab80b60c796d95ab175617829f1d390735596a921b9e379080f11",
-          "sha256": "55a292e753fea4d5588c0aab1378c09b6864d72995095f31b316439d3c12c47b",
-          "sha1": "ddea3d6dd32408b3b613a8887237d8a64264d18f",
-          "md5": "8bd7a2bd562a4b0b2640fc7ab1ccaaf5"
+          "size": 2673117,
+          "sha512": "e141e595e59d487975fc9a9fd7877c6f430285137c03300936e37e2cff2a2cf948f956384a4dffbf1773e1d8c020136f43b817008e1ec03248278c73894a08c7",
+          "sha256": "7e8eae10eefab9812c9e525616406ff515996a1832cfa9d27fe8088d46087abc",
+          "sha1": "2716a3f9c2f328b422c8da4cb4f65fc221cfbc39",
+          "md5": "7cb244419f868e6a0fe01e4c2d6e10a7"
         }
       ]
     },
@@ -277,11 +277,11 @@
         {
           "name": "runelite-client-3.4.3.jar",
           "url": "runelite-client-3.4.3.jar",
-          "size": 2672574,
-          "sha512": "246c1f7470cc4b33d50a01e1d1090a5112bd688c526bbdc69bdb63d430900ae45c143ada61fab80b60c796d95ab175617829f1d390735596a921b9e379080f11",
-          "sha256": "55a292e753fea4d5588c0aab1378c09b6864d72995095f31b316439d3c12c47b",
-          "sha1": "ddea3d6dd32408b3b613a8887237d8a64264d18f",
-          "md5": "8bd7a2bd562a4b0b2640fc7ab1ccaaf5"
+          "size": 2673117,
+          "sha512": "e141e595e59d487975fc9a9fd7877c6f430285137c03300936e37e2cff2a2cf948f956384a4dffbf1773e1d8c020136f43b817008e1ec03248278c73894a08c7",
+          "sha256": "7e8eae10eefab9812c9e525616406ff515996a1832cfa9d27fe8088d46087abc",
+          "sha1": "2716a3f9c2f328b422c8da4cb4f65fc221cfbc39",
+          "md5": "7cb244419f868e6a0fe01e4c2d6e10a7"
         }
       ]
     },
@@ -298,11 +298,11 @@
         {
           "name": "runelite-client-3.4.3-shaded.jar",
           "url": "runelite-client-3.4.3-shaded.jar",
-          "size": 31295778,
-          "sha512": "ddf7200a2f6e3216b2b03409af7484392410ce8eb50441129f4e4baeac5e607aebea0be2dc6c9cda6e268374c2553b8f2cbb264a262dcf6212cb3ef7406f15b2",
-          "sha256": "87dbd7101075e45a01d8ece2cfebf1d3a407811aa9a7f27c94e851620b4ce4d9",
-          "sha1": "f5842c9a8911d5071da14c30238900c7fa3ac494",
-          "md5": "7fb51b0894fb3403af337594e316cfbb"
+          "size": 31296321,
+          "sha512": "59fd394e7c543549b119d90dccffef1ade611fec77a00d7e620d0073bd13e5ac06c4bdd14181efe2d7188193e47bc0437f459333d04f5e070a83a125775f53a7",
+          "sha256": "4d63da03e6353fe1076e0576eabde4b787158340fe9000ada7806326a98244e5",
+          "sha1": "c7964bce2eefe0b973acf15856014e772a2ded54",
+          "md5": "a61ec7d43696309a34567d3222389db9"
         }
       ]
     }
