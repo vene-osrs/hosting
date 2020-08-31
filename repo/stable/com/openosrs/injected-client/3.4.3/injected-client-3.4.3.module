@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.6.1",
-      "buildId": "7s5fzziajjaezfecckmirftevq"
+      "buildId": "3ep5x2vlnjdnznjstzt4fbxori"
     }
   },
   "variants": [
@@ -45,15 +45,6 @@
           "md5": "37547d2269b31990fc73b0598f678fac"
         }
       ]
-    },
-    {
-      "name": "sourcesElements",
-      "attributes": {
-        "org.gradle.category": "documentation",
-        "org.gradle.dependency.bundling": "external",
-        "org.gradle.docstype": "sources",
-        "org.gradle.usage": "java-runtime"
-      }
     }
   ]
 }
