@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.6.1",
-      "buildId": "w4x3dpanbvfoxnwiwpx244sqz4"
+      "buildId": "buamwedoajf75nbo7b7edzci3y"
     }
   },
   "variants": [
@@ -29,10 +29,10 @@
           "name": "http-api-3.4.4.jar",
           "url": "http-api-3.4.4.jar",
           "size": 160252,
-          "sha512": "b480e049cb72a2c0c6816d8851e4615dd5a9e5a8cb65a68be6bc87cd90827dfa99c6e471eb9f4e53e806ea7ff242c416080fa051ed3b6e5e716c9cfd1f6d20ec",
-          "sha256": "e412330c2936710fd0eb014ec2f45074784c4283a47bcd0129a34bcf05dc9800",
-          "sha1": "9b4c3c446c6f30276d784245bac71ad73457afe6",
-          "md5": "1c04d01ec43737e7ef93fce14b8d20c3"
+          "sha512": "828605202478144b97c0dbffee3ac0c730a57530cb1f0b54540cc04fc407fdb8e848c68353402663a4530173f2b571b59fabc18b6436241c2c28fc4529cbc34e",
+          "sha256": "be1ca59a2ffddc1149942b3484494bc676216ca1c523d846025b53e148a72830",
+          "sha1": "336fa327e39dd80a0a2142e31e83261ff8e199a6",
+          "md5": "ac7dd8300ce0e1364ec9bb74d270f0f3"
         }
       ]
     },
@@ -101,10 +101,10 @@
           "name": "http-api-3.4.4.jar",
           "url": "http-api-3.4.4.jar",
           "size": 160252,
-          "sha512": "b480e049cb72a2c0c6816d8851e4615dd5a9e5a8cb65a68be6bc87cd90827dfa99c6e471eb9f4e53e806ea7ff242c416080fa051ed3b6e5e716c9cfd1f6d20ec",
-          "sha256": "e412330c2936710fd0eb014ec2f45074784c4283a47bcd0129a34bcf05dc9800",
-          "sha1": "9b4c3c446c6f30276d784245bac71ad73457afe6",
-          "md5": "1c04d01ec43737e7ef93fce14b8d20c3"
+          "sha512": "828605202478144b97c0dbffee3ac0c730a57530cb1f0b54540cc04fc407fdb8e848c68353402663a4530173f2b571b59fabc18b6436241c2c28fc4529cbc34e",
+          "sha256": "be1ca59a2ffddc1149942b3484494bc676216ca1c523d846025b53e148a72830",
+          "sha1": "336fa327e39dd80a0a2142e31e83261ff8e199a6",
+          "md5": "ac7dd8300ce0e1364ec9bb74d270f0f3"
         }
       ]
     }
