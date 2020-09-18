@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.6.1",
-      "buildId": "uvct2xdnwjhp3nvxsd2a4b7bbq"
+      "buildId": "kuvdw6ukbvbxjngugizkemcx4a"
     }
   },
   "variants": [
@@ -28,11 +28,11 @@
         {
           "name": "runelite-api-3.4.3.jar",
           "url": "runelite-api-3.4.3.jar",
-          "size": 1231886,
-          "sha512": "403624304c2ba9262f14d3b68131357129d62392fde791e590dee6f534c8ceff7f7e2f1cae2cbb040038925352e0ddd4265cb280022fc5366077aa985415d63e",
-          "sha256": "a8afe6224b1614365bd30ce8c5fe885ae085e558d1d49dcb2221221d50577176",
-          "sha1": "003f0b5b37caf0e64e5663edf21386fd6602926b",
-          "md5": "8bac9d6e3241288cf70789d888b50dff"
+          "size": 1232470,
+          "sha512": "c470ec9679d4582205dfae576f72e0c558114399d3b65e1cd35e239b856635f685f989cc9b20122fc64f8585d2d20b3aa73bb5e14e1d07542093bae4a2ff1464",
+          "sha256": "d88643939ca2d60edbbb5dcfc8bdde3e0790b3e6553dfd2683c41d7c3ed09421",
+          "sha1": "36bd0bdf66f582fe3c47af15236f52be5dd2b16d",
+          "md5": "979034353431cd7463e26b45d9bc9743"
         }
       ]
     },
@@ -79,31 +79,11 @@
         {
           "name": "runelite-api-3.4.3.jar",
           "url": "runelite-api-3.4.3.jar",
-          "size": 1231886,
-          "sha512": "403624304c2ba9262f14d3b68131357129d62392fde791e590dee6f534c8ceff7f7e2f1cae2cbb040038925352e0ddd4265cb280022fc5366077aa985415d63e",
-          "sha256": "a8afe6224b1614365bd30ce8c5fe885ae085e558d1d49dcb2221221d50577176",
-          "sha1": "003f0b5b37caf0e64e5663edf21386fd6602926b",
-          "md5": "8bac9d6e3241288cf70789d888b50dff"
-        }
-      ]
-    },
-    {
-      "name": "sourcesElements",
-      "attributes": {
-        "org.gradle.category": "documentation",
-        "org.gradle.dependency.bundling": "external",
-        "org.gradle.docstype": "sources",
-        "org.gradle.usage": "java-runtime"
-      },
-      "files": [
-        {
-          "name": "runelite-api-3.4.3-sources.jar",
-          "url": "runelite-api-3.4.3-sources.jar",
-          "size": 902266,
-          "sha512": "bede86ee50a5e26fe4f38ee41cd37f409ccfc49197d612a224dbc4811f8119d6cd3c85331e6fbd7b82b2e0d0f80f8a0f844e86e90fdf6f407d1ee16db9e8f08d",
-          "sha256": "860ac6e20b831afe441936e77d8cfffe5d7512c5989eda4e4f2760914e66ca86",
-          "sha1": "efba730843b77806f45d09680ed10e90120956d3",
-          "md5": "a80d6e1a4a0a4d9c33642122c0205fb7"
+          "size": 1232470,
+          "sha512": "c470ec9679d4582205dfae576f72e0c558114399d3b65e1cd35e239b856635f685f989cc9b20122fc64f8585d2d20b3aa73bb5e14e1d07542093bae4a2ff1464",
+          "sha256": "d88643939ca2d60edbbb5dcfc8bdde3e0790b3e6553dfd2683c41d7c3ed09421",
+          "sha1": "36bd0bdf66f582fe3c47af15236f52be5dd2b16d",
+          "md5": "979034353431cd7463e26b45d9bc9743"
         }
       ]
     }
