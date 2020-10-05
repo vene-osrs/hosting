@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.6.1",
-      "buildId": "ttjj6ca3xjcddcha25sjayvqi4"
+      "buildId": "2wikikadojdbposaypu4exon3q"
     }
   },
   "variants": [
@@ -29,10 +29,10 @@
           "name": "http-api-3.4.5.jar",
           "url": "http-api-3.4.5.jar",
           "size": 160252,
-          "sha512": "ea85e5f50c57fb91b2de7c1509594c496ed5d9aabe86df51047c5b77d69c127509c9df610e677db0988f1c53c52ecd68d6b55d306ea1ba27da81e31dca223fc3",
-          "sha256": "83623080c46ffcf49ab9a51cd45df7a02d4971e7e6422f8ca291245461f41323",
-          "sha1": "880d40060bd9bf78475e26ada9bdf84c4f649c63",
-          "md5": "7150e188111452eab5c9992ad8cd94e1"
+          "sha512": "f24db0d02e9ae97eae3dceca5732b968f6650c51fd2fa560ecf13bbfe7975c6b50f8ede7567be667cc09b86c976dd0f8b95b01078f691b882f81971b198c5b25",
+          "sha256": "46fa92906fc037f485f004e0d3580b36a4d8d59f9e934f5a7aeb29103bb22866",
+          "sha1": "fefe5c1289386403abcc0903bd58be97551ee033",
+          "md5": "b56a554c38f4d60fc8be1d919d910431"
         }
       ]
     },
@@ -64,7 +64,7 @@
           "group": "com.squareup.okhttp3",
           "module": "okhttp",
           "version": {
-            "requires": "4.8.1"
+            "requires": "4.9.0"
           }
         },
         {
@@ -101,10 +101,10 @@
           "name": "http-api-3.4.5.jar",
           "url": "http-api-3.4.5.jar",
           "size": 160252,
-          "sha512": "ea85e5f50c57fb91b2de7c1509594c496ed5d9aabe86df51047c5b77d69c127509c9df610e677db0988f1c53c52ecd68d6b55d306ea1ba27da81e31dca223fc3",
-          "sha256": "83623080c46ffcf49ab9a51cd45df7a02d4971e7e6422f8ca291245461f41323",
-          "sha1": "880d40060bd9bf78475e26ada9bdf84c4f649c63",
-          "md5": "7150e188111452eab5c9992ad8cd94e1"
+          "sha512": "f24db0d02e9ae97eae3dceca5732b968f6650c51fd2fa560ecf13bbfe7975c6b50f8ede7567be667cc09b86c976dd0f8b95b01078f691b882f81971b198c5b25",
+          "sha256": "46fa92906fc037f485f004e0d3580b36a4d8d59f9e934f5a7aeb29103bb22866",
+          "sha1": "fefe5c1289386403abcc0903bd58be97551ee033",
+          "md5": "b56a554c38f4d60fc8be1d919d910431"
         }
       ]
     }
