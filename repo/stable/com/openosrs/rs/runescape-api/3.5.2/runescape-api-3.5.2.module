@@ -1,0 +1,93 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.openosrs.rs",
+    "module": "runescape-api",
+    "version": "3.5.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.7",
+      "buildId": "gaqumrqruvfo3fajloo6owat2e"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.openosrs",
+          "module": "runelite-api",
+          "version": {
+            "requires": "3.5.2"
+          }
+        },
+        {
+          "group": "com.openosrs",
+          "module": "injection-annotations",
+          "version": {
+            "requires": "1.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "runescape-api-3.5.2.jar",
+          "url": "runescape-api-3.5.2.jar",
+          "size": 104560,
+          "sha512": "b05478d197c882edd44b9d90c8619a69d3deaaa7f684cee219162ec3eca4fbe29e96852cac458415aadeb2a4864a62d15c570a6c86ec2111a204d5e5e75618f8",
+          "sha256": "57269d63a1e3b1d5de10bf9c6e6090f9786004b3b40eb7505bc83935b2ec2667",
+          "sha1": "9a3dfb8fe2e6ddbe60b3325ae6069d353a4c6d8a",
+          "md5": "9b387f7913bec8886a99a0be9e74d47d"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.openosrs",
+          "module": "runelite-api",
+          "version": {
+            "requires": "3.5.2"
+          }
+        },
+        {
+          "group": "com.openosrs",
+          "module": "injection-annotations",
+          "version": {
+            "requires": "1.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "runescape-api-3.5.2.jar",
+          "url": "runescape-api-3.5.2.jar",
+          "size": 104560,
+          "sha512": "b05478d197c882edd44b9d90c8619a69d3deaaa7f684cee219162ec3eca4fbe29e96852cac458415aadeb2a4864a62d15c570a6c86ec2111a204d5e5e75618f8",
+          "sha256": "57269d63a1e3b1d5de10bf9c6e6090f9786004b3b40eb7505bc83935b2ec2667",
+          "sha1": "9a3dfb8fe2e6ddbe60b3325ae6069d353a4c6d8a",
+          "md5": "9b387f7913bec8886a99a0be9e74d47d"
+        }
+      ]
+    }
+  ]
+}
